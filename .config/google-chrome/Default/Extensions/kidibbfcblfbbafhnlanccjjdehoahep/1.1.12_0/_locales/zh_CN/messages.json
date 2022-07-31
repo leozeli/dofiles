@@ -1,0 +1,275 @@
+{
+   "about_contribution": {
+      "message": "特别感谢"
+   },
+   "about_contribution_ainoob": {
+      "message": "AInoob"
+   },
+   "about_contribution_ainoob_description": {
+      "message": "核心开发者"
+   },
+   "about_contribution_george": {
+      "message": "George"
+   },
+   "about_contribution_grorge_description": {
+      "message": "核心开发者"
+   },
+   "about_contribution_zhtw2013": {
+      "message": "zhtw2013"
+   },
+   "about_contribution_zhtw2013_description": {
+      "message": "繁体中文贡献者"
+   },
+   "about_data": {
+      "message": "实时数据"
+   },
+   "about_data_reason": {
+      "message": "二箱不会收集你是谁或者你搜了什么图片，但是它会收集你的使用记录。两个原因：1. 这是我们开发的动力，看到很多人在用二箱，蛮有成就感的。2. 这能更好的让我们决定到底应该注重在什么功能上。下面是二箱的实时数据。"
+   },
+   "about_feedback": {
+      "message": "反馈"
+   },
+   "about_feedback_message": {
+      "message": "如果你有什么建议或者发现了什么bug，请在Github上发一个issue"
+   },
+   "about_privacy": {
+      "message": "隐私"
+   },
+   "about_privacy_message_0": {
+      "message": "追踪和记录您的历史记录?"
+   },
+   "about_privacy_message_1": {
+      "message": "不, 二箱不会的 !"
+   },
+   "about_privacy_message_2": {
+      "message": "知道您是谁?"
+   },
+   "about_privacy_message_3": {
+      "message": "不, 二箱不会的 !"
+   },
+   "about_privacy_message_4": {
+      "message": "提供您的信息给其他人 ?"
+   },
+   "about_privacy_message_5": {
+      "message": "不, 从不 !"
+   },
+   "about_privacy_message_6": {
+      "message": "最后 ?"
+   },
+   "about_privacy_message_7": {
+      "message": "二箱仅仅知道有多少人在使用特定功能，这些数据帮助我们了解我们的开发侧重点"
+   },
+   "about_what": {
+      "message": "二箱是什么?"
+   },
+   "about_what_message_0": {
+      "message": "二箱是一个工具箱，并且提供以下功能"
+   },
+   "about_what_message_1": {
+      "message": "以图搜图"
+   },
+   "about_what_message_2": {
+      "message": "网页自动刷新"
+   },
+   "about_what_message_3": {
+      "message": "HTML 5 视频控制"
+   },
+   "appDesc": {
+      "message": "多引擎以图搜图"
+   },
+   "appName": {
+      "message": "二箱"
+   },
+   "area": {
+      "message": "面积"
+   },
+   "ascii2d": {
+      "message": "二次元画像"
+   },
+   "ascii2d_link_mode_bovw": {
+      "message": "Ascii2d特征搜索"
+   },
+   "ascii2d_link_mode_color": {
+      "message": "Ascii2d色彩搜索"
+   },
+   "ascii2d_link_mode_detail": {
+      "message": "Ascii2d登录细节"
+   },
+   "autoRefresh": {
+      "message": "自动刷新"
+   },
+   "auto_refresh": {
+      "message": "网页自动刷新"
+   },
+   "avaiable_enginege": {
+      "message": "搜索引擎设置"
+   },
+   "baidu": {
+      "message": "百度"
+   },
+   "bing": {
+      "message": "必应"
+   },
+   "choose_tools_from_here": {
+      "message": "选择一种工具？"
+   },
+   "clear": {
+      "message": "清除"
+   },
+   "clear_all": {
+      "message": "全部清空"
+   },
+   "decrease": {
+      "message": "降序"
+   },
+   "display_mode": {
+      "message": "显示模式"
+   },
+   "download": {
+      "message": "下载图片"
+   },
+   "enable_image_preload": {
+      "message": "是否开启图片预加载"
+   },
+   "experiencege": {
+      "message": "体验设置"
+   },
+   "extractImages": {
+      "message": "提取图片"
+   },
+   "extract_images": {
+      "message": "提取图片"
+   },
+   "extract_range": {
+      "message": "提取范围"
+   },
+   "extract_this_images": {
+      "message": "提取这张图片"
+   },
+   "google": {
+      "message": "谷歌"
+   },
+   "guessing_keyword": {
+      "message": "关键词"
+   },
+   "height": {
+      "message": "高度"
+   },
+   "history": {
+      "message": "历史"
+   },
+   "html_5_video_control": {
+      "message": "HTML 5 视频控制 (预览版)"
+   },
+   "image": {
+      "message": "图片相关"
+   },
+   "imageScope": {
+      "message": "图镜"
+   },
+   "imageScope_mobile": {
+      "message": "图镜app"
+   },
+   "imageSearch": {
+      "message": "图片搜索"
+   },
+   "image_first_keyword": {
+      "message": "第一个关键字"
+   },
+   "image_used_engine": {
+      "message": "使用的引擎"
+   },
+   "image_wall": {
+      "message": "图片墙"
+   },
+   "increase": {
+      "message": "升序"
+   },
+   "iqdb": {
+      "message": "IQDB"
+   },
+   "list": {
+      "message": "图片列表"
+   },
+   "ls_1": {
+      "message": "截图搜索失败，"
+   },
+   "ls_2": {
+      "message": "无法在当前页面使用截图搜索"
+   },
+   "ls_4": {
+      "message": "刷新这个页面以加载二箱组件，如果还是不行就说明当前页面不支持提取图片"
+   },
+   "no": {
+      "message": "no"
+   },
+   "no_size_info": {
+      "message": "无图片尺寸信息"
+   },
+   "noobox_mobile": {
+      "message": "二箱app"
+   },
+   "relevance": {
+      "message": "相关性"
+   },
+   "result_page_tab_front": {
+      "message": "结果显示在新标签页"
+   },
+   "reverse_image_search": {
+      "message": "以图搜图"
+   },
+   "s": {
+      "message": "秒"
+   },
+   "saucenao": {
+      "message": "SauceNAO"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "screenshotSearch": {
+      "message": "截图搜索"
+   },
+   "screenshot_search": {
+      "message": "截图搜索"
+   },
+   "search_again": {
+      "message": "重新搜索"
+   },
+   "search_this_image": {
+      "message": "搜索这张图片"
+   },
+   "sort_by": {
+      "message": "排序依据"
+   },
+   "support_devlopers": {
+      "message": "点击广告支持开发者们"
+   },
+   "support_for_a_single_upload": {
+      "message": "仅支持上传单张图片"
+   },
+   "take_screenshot": {
+      "message": "截图搜索"
+   },
+   "tineye": {
+      "message": "Tin Eye"
+   },
+   "toolsge": {
+      "message": "工具设置"
+   },
+   "upload_search": {
+      "message": "如没有结果，请尝试点击"
+   },
+   "videoControl": {
+      "message": "HTML5视频控制(测试)"
+   },
+   "width": {
+      "message": "宽度"
+   },
+   "yandex": {
+      "message": "Yandex"
+   },
+   "yes": {
+      "message": "yes"
+   }
+}

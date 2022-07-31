@@ -1,0 +1,37 @@
+{
+   "author": "elliotreborn",
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "assets/icons/favicon-128-plus.png",
+         "16": "assets/icons/favicon-16-plus.png",
+         "32": "assets/icons/favicon-32-plus.png",
+         "48": "assets/icons/favicon-48-plus.png"
+      },
+      "default_title": "SOCODE NewTab"
+   },
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' 'sha256-uqrF8BxdoUs7hL/KmW3XB/KGs2XwWRSiINBQOLMDLJE=' 'sha256-R1lPaLsLjVyTU5cgbqVyc7kilkrRKRf6Sn3AGAgMlEc=' https://cdn.jsdelivr.net https://www.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_app_description__",
+   "homepage_url": "https://socode.pro",
+   "icons": {
+      "128": "assets/icons/favicon-128-plus.png",
+      "16": "assets/icons/favicon-16-plus.png",
+      "32": "assets/icons/favicon-32-plus.png",
+      "48": "assets/icons/favicon-48-plus.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+7kiiJzyNzi/gKzHrHisQy+8uul16ySsI6AD0t3s8hxoUeAJc8lHT+0Z4XdTBrbu57egOlnfjdvVJ25+7nTqz8T/DgfWXilkRDh9+eFZRFvHsTv6blPFXNm1KrYOEqVOhlCEreS05Gl4YinWbG/XaEFTbBLOESWGNDJVV4VUoZzOag133QtjKS2p7mtPZfEV4rYwAUpoPoyAxNXFo79/qREi3zDVZtoB2XybP2jrlXW+S6TwtNZAoRN8NXeEp/C2cVlmxvXDGpmDD+lo4s82aOGU7vGpxHJP8k1zDMcc2Noaf1+jLAKbLwwrYrHoKKkb9YuehVYb1c/00+4n+3hpvwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "64",
+   "name": "__MSG_app_name__",
+   "permissions": [ "storage", "identity", "https://github.com/" ],
+   "short_name": "SOCODE",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4.8"
+}

@@ -1,0 +1,554 @@
+{
+   "allItems": {
+      "message": "รายการทั้งหมด"
+   },
+   "allLanguages": {
+      "message": "ทุกภาษา"
+   },
+   "allTypes": {
+      "message": "ทุกประเภท"
+   },
+   "alreadyUserPleaseSignIn": {
+      "message": "เป็นผู้ใช้อยู่แล้วใช่ไหม กรุณาเข้าสู่ระบบ"
+   },
+   "alsoUseASD": {
+      "message": "คุณสามารถใช้ปุ่ม: A, S, D, Space"
+   },
+   "appDesc": {
+      "message": "พัฒนาทักษะด้วยตัวคุณเองอย่างมีประสิทธิภาพและสนุกสนาน โดยการชมภาพยนตร์และซีรีส์ในภาษาที่คุณศึกษา"
+   },
+   "appName": {
+      "message": "Language Reactor"
+   },
+   "appNameTr": {
+      "message": "เรียนรู้ภาษาไปกับ Netflix"
+   },
+   "areYouSure": {
+      "message": "คุณแน่ใจหรือไม่"
+   },
+   "audioLanguage_label": {
+      "message": "ภาษาของเสียงใน Netflix:"
+   },
+   "audioLanguage_tooltip": {
+      "message": "นี่คือภาษาของแทร็กเสียงที่ถูกเลือกใน Netflix"
+   },
+   "audioNoMatchSubtitles_error": {
+      "message": "แทร็กเสียงที่ถูกเลือกบน Netflix (\u003Ctext>) มีแนวโน้มที่จะไม่ตรงกับคำบรรยาย ลองตั้งค่าเป็นภาษาเดิมของ (\u003Ctext>) ใน playback controls บน Netflix หรือค้นหาในแคตตาล็อกของ Language Reactor เพื่อดูชื่อที่แนะนำสำหรับภาษาที่คุณศึกษา"
+   },
+   "autoPause": {
+      "message": "หยุดอัตโนมัติ"
+   },
+   "autoPause_tooltip": {
+      "message": "หยุดการเล่นโดยอัตโนมัติที่ส่วนท้ายของทุกคำบรรยาย"
+   },
+   "autoPaused": {
+      "message": "หยุดพักอัตโนมัติ"
+   },
+   "blueWords": {
+      "message": "คำสีน้ำเงิน"
+   },
+   "cancelGoogle_line_string": {
+      "message": "หมายเหตุ: โหมด \"Pro\" จะใช้งานได้เป็นเวลา 30 วันหลังจากการชำระเงินครั้งล่าสุดของคุณ"
+   },
+   "cancelSubscription_btn_string": {
+      "message": "ยกเลิกการเป็นสมาชิก"
+   },
+   "catalogue": {
+      "message": "แค็ตตาล็อก"
+   },
+   "catalogue_tooltip": {
+      "message": "ค้นหาภาพยนตร์และซีรีส์ ที่เหมาะกับการใช้ Language Reactor"
+   },
+   "choosePaymentProvider_line_string": {
+      "message": "โปรดเลือกช่องทางการชำระเงิน"
+   },
+   "clickAStar": {
+      "message": "คลิกที่รูปดาวเพื่อบันทึกคำบรรยาย หรือคลิกปุ่มสีในพจนานุกรมเพื่อบันทึกคำศัพท์"
+   },
+   "close": {
+      "message": "ปิด"
+   },
+   "continueWithGoogle_btn_string": {
+      "message": "ดำเนินการต่อด้วยบัญชี Google"
+   },
+   "doNothing_option": {
+      "message": "ไม่เกิดสิ่งใด"
+   },
+   "doYouLikeOurExtension": {
+      "message": "คุณชอบ Language Reactor หรือไม่?"
+   },
+   "download": {
+      "message": "ดาวน์โหลด"
+   },
+   "enableLln": {
+      "message": "เปิดใช้ Language Reactor"
+   },
+   "errorApology": {
+      "message": "Language Reactor ตรวจพบข้อผิดพลาดเกิดขึ้น ผู้พัฒนาได้รับแจ้งข้อผิดพลาดนี้แล้ว ลองโหลดหน้านี้ซ้ำ หรือลองอีกครั้งในอีก 24 ชั่วโมง ขออภัยในความไม่สะดวก ตรวจสอบเพจ Facebook ของเราสำหรับอัพเดท ข้อความผิดพลาด: \u003Ctext>"
+   },
+   "exportAsCsv": {
+      "message": "ส่งออกเป็นไฟล์ CSV"
+   },
+   "exportAsJson": {
+      "message": "ส่งออกเป็นไฟล์ JSON"
+   },
+   "exportToAnki": {
+      "message": "ส่งออกไปยัง Anki"
+   },
+   "extraLarge": {
+      "message": "ใหญ่พิเศษ"
+   },
+   "extraSmall": {
+      "message": "เล็กพิเศษ"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_tooltip": {
+      "message": "กดไลค์เพจของเรา และตรวจสอบข่าวสารล่าสุด"
+   },
+   "featureComingSoon": {
+      "message": "คุณสมบัติมาใหม่เร็ว ๆ นี้"
+   },
+   "feedback": {
+      "message": "ข้อเสนอแนะ"
+   },
+   "feedback_tooltip": {
+      "message": "มีบางสิ่งผิดปกติ? ต้องการขอ Feature เพิ่มเติม?"
+   },
+   "firstSubtitleNotReached": {
+      "message": "- คำบรรยายแรกยังไม่เริ่ม -"
+   },
+   "fix": {
+      "message": "แก้ไข"
+   },
+   "fontSize_label": {
+      "message": "ขนาดแบบอักษร:"
+   },
+   "freeTrial3_line_string": {
+      "message": "คุณสามารถลองใช้งานโหมด \"Pro\" ในรุ่นทดลองใช้ฟรี 3 วัน"
+   },
+   "freeTrial7_line_string": {
+      "message": "คุณสามารถลองใช้งานโหมด \"Pro\" ในรุ่นทดลองใช้ฟรี 7 วัน"
+   },
+   "greenWords": {
+      "message": "คำสีเขียว"
+   },
+   "help": {
+      "message": "ช่วยเหลือ"
+   },
+   "help_tooltip": {
+      "message": "วิธีใช้และคำแนะนำ"
+   },
+   "hideTranslation": {
+      "message": "ซ่อนการแปล:"
+   },
+   "hideTranslation_tt": {
+      "message": "ซ่อนการแปลเมื่อเล่นวิดีโอ คลิกข้อความหรือกด [e] เพื่อแสดงการแปล"
+   },
+   "highlightSavedWords_label": {
+      "message": "เน้นคำที่บันทึกไว้"
+   },
+   "hiragana": {
+      "message": "ฮิรางานะ"
+   },
+   "keyboardShortcuts": {
+      "message": "แป้นพิมพ์ลัด:"
+   },
+   "langCode": {
+      "message": "th"
+   },
+   "large": {
+      "message": "ใหญ่"
+   },
+   "levelDisable": {
+      "message": "ระดับ \u003Ctext>: ปิดการใช้งาน"
+   },
+   "levelWithNumber": {
+      "message": "ระดับ \u003Ctext>: \u003Ctext> คำ"
+   },
+   "littlePracticeEveryDay": {
+      "message": "การเรียนรู้ภาษาจำเป็นจะต้องใช้การฝึกฝนเล็ก ๆ น้อย ๆ ทุกวัน"
+   },
+   "loadingDotDotDot": {
+      "message": "กำลังโหลด ..."
+   },
+   "loadingSubtitles": {
+      "message": "- กำลังโหลดคำบรรยาย กรุณารอสักครู่...-"
+   },
+   "loadingTranslations": {
+      "message": "กำลังโหลดคำแปล..."
+   },
+   "manageSubscription": {
+      "message": "จัดการแผนสมาชิก"
+   },
+   "mode": {
+      "message": "โหมด:"
+   },
+   "mode_free": {
+      "message": "ฟรี"
+   },
+   "mode_pro": {
+      "message": "Pro"
+   },
+   "mode_trial": {
+      "message": "ทดลอง"
+   },
+   "next": {
+      "message": "ต่อไป"
+   },
+   "nextSub": {
+      "message": "คำบรรยายต่อไป"
+   },
+   "nms_tip": {
+      "message": "คุณกำลังศึกษาภาษาอยู่ใช่ไหม? ลอง Extension ใหม่ของเราเพื่อใช้เรียนรู้ภาษาควบคู่กับ Netflix"
+   },
+   "noCharge": {
+      "message": "จะไม่มีการเรียกเก็บเงินจากคุณสำหรับแอปรุ่นทดลองใช้หรือจะมีการเรียกเก็บเงินโดยอัตโนมัติสำหรับแอปรุ่นสมบูรณ์หลังจากที่สิ้นสุดช่วงทดลองใช้งานแล้ว"
+   },
+   "noCreditCardRequired": {
+      "message": "ไม่ต้องมีบัตรเครดิต"
+   },
+   "noDictionary_error": {
+      "message": "ส่วนขยาย Language Reactor ยังไม่สนับสนุนการใช้พจนานุกรมสำหรับ \u003Ctext> Feature นี้กำลังจะมาเร็วๆนี้!"
+   },
+   "noHTAvailable": {
+      "message": "ไม่มีการแปลที่จัดทำขึ้นโดยมนุษย์ในภาษาการแปลที่เลือก"
+   },
+   "noMTAvailable": {
+      "message": "การแปลด้วยเครื่องใช้ได้เฉพาะกับคำบรรยายต้นฉบับของภาพยนตร์เท่านั้น"
+   },
+   "noSavedItems": {
+      "message": "ไม่มีรายการที่บันทึกไว้"
+   },
+   "noTransliterations": {
+      "message": "ไม่มีคำทับศัพท์"
+   },
+   "none": {
+      "message": "ไม่มี"
+   },
+   "normal": {
+      "message": "ปกติ"
+   },
+   "notAvailable": {
+      "message": "ไม่มี"
+   },
+   "notNow_btn_string": {
+      "message": "ไม่ใช่ตอนนี้"
+   },
+   "notSignedIn": {
+      "message": "ไม่ได้ลงชื่อเข้าใช้"
+   },
+   "ok_btn_string": {
+      "message": "ตกลง"
+   },
+   "onLeftClick_label": {
+      "message": "คลิกทางซ้าย:"
+   },
+   "onRightClick_label": {
+      "message": "คลิกทางขวา:"
+   },
+   "openCloseBottomPanel": {
+      "message": "เปิด / ปิดแผงด้านล่าง"
+   },
+   "openCloseVerticalView": {
+      "message": "เปิด / ปิดมุมมองแนวตั้ง"
+   },
+   "openClose_tooltip": {
+      "message": "เปิด / ปิด Language Reactor"
+   },
+   "options": {
+      "message": "ตัวเลือก"
+   },
+   "originalLanguage_label": {
+      "message": "ชื่อเรื่องในภาษาต้นฉบับ:"
+   },
+   "originalLanguage_tooltip": {
+      "message": "นี่คือชื่อเรื่องในภาษาต้นฉบับจาก Netflix"
+   },
+   "overrideArrowKeys_label": {
+      "message": "ทำงานแทนแป้นลูกศร"
+   },
+   "overrideArrowKeys_tt": {
+      "message": "ทำให้คีย์แป้นลูกศรทำงานเช่นเดียวกับคีย์ A, S, D"
+   },
+   "pauseOnSubsHover_label": {
+      "message": "หยุดเมื่อเมาส์ร่อนบนข้อความ"
+   },
+   "pauseOnSubsHover_tt": {
+      "message": "หยุดโดยอัตโนมัติเมื่อเมาส์อยู่บนซับไตเติล"
+   },
+   "payWithGoogle_btn_string": {
+      "message": "รับบัตรเครดิต"
+   },
+   "payWithPaddle_btn_string": {
+      "message": "รับบัตรเครดิตและ Paypal"
+   },
+   "paymentSuccessfulPaddleMessage_line_string": {
+      "message": "หมายเหตุ: หากการชำระเงินของคุณต้องผ่านการตรวจสอบโดยผู้ดูแล โปรดรอสองสามชั่วโมงจากนั้นโหมด \"Pro\" ของคุณควรเปิดใช้งานโดยอัตโนมัติ ขออภัยในความล่าช้า!"
+   },
+   "paymentSuccessful_line1_string": {
+      "message": "ชำระเงินเรียบร้อยแล้ว! ขอบคุณที่ให้การสนับสนุนงานของเรา!"
+   },
+   "paymentSuccessful_line2_string": {
+      "message": "คุณสามารถยกเลิกการเป็นสมาชิกของคุณได้ตลอดเวลาในการตั้งค่า"
+   },
+   "phrases": {
+      "message": "วลี"
+   },
+   "play": {
+      "message": "เล่น"
+   },
+   "playPause": {
+      "message": "เล่น / หยุดชั่วคราว"
+   },
+   "playbackSpeed": {
+      "message": "ความเร็วในการเล่น:"
+   },
+   "pleaseLeaveReviewMessage": {
+      "message": "คุณชอบ Language Reactor หรือไม่? โปรดช่วยเราโดยการเขียนรีวิวทิ้งไว้ในเว็บร้านค้าของ Chrome"
+   },
+   "pleaseSelectItemsToExport": {
+      "message": "โปรดเลือกรายการที่จะส่งออก"
+   },
+   "pleaseSelectSubtitles": {
+      "message": "- กรุณาเลือกคำบรรยายใน Netflix Player -"
+   },
+   "pleaseSignIn": {
+      "message": "กรุณาเข้าสู่ระบบ"
+   },
+   "prePaymentModal_line1_string": {
+      "message": "สมัครสมาชิกเพื่อใช้งานคุณสมบัติ \"Pro\" ต่อไป"
+   },
+   "pressSpaceToContinue": {
+      "message": "(กด SPACE เพื่อเล่นต่อ)"
+   },
+   "previous": {
+      "message": "ก่อน"
+   },
+   "previousSub": {
+      "message": "คำบรรยายก่อนหน้า"
+   },
+   "price_string": {
+      "message": "ราคาต่อเดือนคือ"
+   },
+   "proFeature": {
+      "message": "คุณสมบัติ Pro"
+   },
+   "proFeatures_line1_string": {
+      "message": "มีโหมด \"Pro\" สำหรับเปิดใช้งานคุณสมบัติพิเศษ ดังนี้"
+   },
+   "proFeatures_line2_string": {
+      "message": "เครื่องแปลภาษา"
+   },
+   "proFeatures_line3_string": {
+      "message": "บันทึกคำและวลี"
+   },
+   "proFeatures_line4_string": {
+      "message": "คำบรรยายเสียงพากย์"
+   },
+   "proFeatures_line5_string": {
+      "message": "สนับสนุนนักพัฒนา"
+   },
+   "proFeatures_tt2_string": {
+      "message": "คุณสมบัติเหล่านี้ใกล้เคียงกับความหมายในคำบรรยายต้นฉบับมากขึ้น ซึ่งเป็นประโยชน์ต่อนักเรียนภาษามากกว่า"
+   },
+   "proFeatures_tt3_string": {
+      "message": "คำต่าง ๆ ที่คุณบันทึกจะถูกไฮไลท์เอาไว้ในคำบรรยายทั้งหมด ซึ่งจะช่วยจัดระเบียบในการเรียนภาษาของคุณ คำและวลีที่บันทึกไว้สามารถส่งออกไปยัง Anki (โปรแกรม flash card) ได้ด้วย"
+   },
+   "proFeatures_tt4_string": {
+      "message": "ละครซีรีส์หลายเรื่องใน Netflix มีแทร็กเสียงเพิ่มเติมเป็นภาษาอื่น ๆ (เสียงพากย์) อย่างไรก็ตาม ทาง Netflix ไม่มีคำบรรยายที่ถูกต้องตามเสียงพากย์เหล่านี้ เราจึงต้องการสร้างคำบรรยายเหล่านั้นขึ้นมาเพื่อให้คุณสามารถใช้ในการเรียนภาษา ยกตัวอย่างเช่น ภาษาเยอรมันในซีรีส์เรื่อง Breaking Bad"
+   },
+   "proFeatures_tt5_string": {
+      "message": "เรากำลังทำงานกันอย่างขะมักเขม้นเพื่อปรับปรุงส่วนขยายและนำคุณสมบัติใหม่ ๆ มาให้คุณ"
+   },
+   "problemWithPayment_line1_string": {
+      "message": "มีปัญหาเกี่ยวกับการชำระเงินค่าสมัครของคุณ"
+   },
+   "problemWithPayment_line2_string": {
+      "message": "กรุณาโหลดหน้าต่างนี้อีกครั้ง หลังจากทำการอัปเดตข้อมูลการชำระเงินของคุณเรียนร้อยแล้ว"
+   },
+   "purpleWords": {
+      "message": "คำสีม่วง"
+   },
+   "redWords": {
+      "message": "คำแดง"
+   },
+   "removeAllItems": {
+      "message": "เอาออกทั้งหมด"
+   },
+   "removeSubtitle": {
+      "message": "นำออก"
+   },
+   "repeat": {
+      "message": "ทำซ้ำ"
+   },
+   "reportBug": {
+      "message": "รายงานข้อบกพร่อง"
+   },
+   "romaji": {
+      "message": "โรมันจิ"
+   },
+   "saveCurrentSubtitle": {
+      "message": "บันทึกคำบรรยายปัจจุบัน"
+   },
+   "saveSubtitle": {
+      "message": "บันทึกคำบรรยาย"
+   },
+   "saveWordTooltip": {
+      "message": "บันทึกคำศัพท์ คุณสามารถคลิกขวาที่คำศัพท์เพื่อบันทึก"
+   },
+   "saveWord_option": {
+      "message": "บันทึกคำ"
+   },
+   "savedItems": {
+      "message": "รายการที่บันทึกไว้"
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "showDictSpeak_option": {
+      "message": "แสดงพจนานุกรมและคำที่พูด"
+   },
+   "showDict_option": {
+      "message": "แสดงพจนานุกรม"
+   },
+   "showHumanTranslation_label": {
+      "message": "แสดงการแปล โดยมนุษย์:"
+   },
+   "showHumanTranslation_tooltip": {
+      "message": "แสดงคำแปลโดยมนุษย์จากคำบรรยายต้นฉบับในภาษาของคุณ (หากมี)"
+   },
+   "showMachineTranslation_label": {
+      "message": "แสดงการแปลด้วยคอมพิวเตอร์:"
+   },
+   "showMachineTranslation_tooltip": {
+      "message": "แสดงการแปลด้วยคอมพิวเตอร์ของคำบรรยายต้นฉบับในภาษาของคุณ"
+   },
+   "showMore": {
+      "message": "แสดงเพิ่ม"
+   },
+   "showTransliterations": {
+      "message": "แสดงคำทับศัพท์:"
+   },
+   "signIn": {
+      "message": "ลงชื่อเข้าใช้"
+   },
+   "signInStatus": {
+      "message": "สถานะการลงชื่อเข้าใช้:"
+   },
+   "signOut": {
+      "message": "ออกจากระบบ"
+   },
+   "signedIn": {
+      "message": "ลงชื่อเข้าใช้งานแล้ว"
+   },
+   "slowDownPlayback": {
+      "message": "ลดความเร็วในการเล่น"
+   },
+   "slowSpeechSegments": {
+      "message": "กลุ่มคำพูดช้า:"
+   },
+   "slowSpeechSegments_tooltip": {
+      "message": "ลดความเร็วในการเล่นของวิดีโอเมื่อใช้งานคำบรรยายอยู่ (0.8x) เพื่อให้ง่ายต่อการเข้าใจ"
+   },
+   "small": {
+      "message": "เล็ก"
+   },
+   "speakWord_option": {
+      "message": "คำที่พูด"
+   },
+   "speedUpPlayback": {
+      "message": "เพิ่มความเร็วในการเล่น"
+   },
+   "subscriptionActive": {
+      "message": "การสมัครใช้งานที่ใช้งานอยู่"
+   },
+   "subscriptionToProFeatures": {
+      "message": "การสมัครรับคุณสมบัติ \"Pro\""
+   },
+   "subtitleLanguage_label": {
+      "message": "ภาษาของคำบรรยายบน Netflix:"
+   },
+   "subtitleLanguage_label_yt": {
+      "message": "ภาษาของคำบรรยายบน Youtube:"
+   },
+   "subtitleLanguage_tooltip": {
+      "message": "นี่คือภาษาของคำบรรยายที่ถูกเลือกบน Netflix"
+   },
+   "subtitleLanguage_tooltip_yt": {
+      "message": "นี่คือภาษาของคำบรรยายที่ถูกเลือกบน Youtube"
+   },
+   "subtitles": {
+      "message": "คำบรรยาย"
+   },
+   "subtitlesNoMatchAudio_error": {
+      "message": "คำบรรยายบน Netflix ที่เลือกไว้ (\u003Ctext>) ไม่ตรงกับเสียง ลองตั้งค่าเป็นภาษาเดิมของ (\u003Ctext>) ใน playback controls บน Netflix หรือค้นหาในแคตตาล็อกของ Language Reactor เพื่อดูชื่อที่แนะนำสำหรับภาษาที่คุณศึกษา"
+   },
+   "subtitlesNotLoaded_error": {
+      "message": "คำบรรยายไม่ได้ถูกโหลดไว้บน Netflix คำบรรยายของภาษานี้ได้ถูกเลือกในเมนู playback หรือไม่?"
+   },
+   "subtitlesNotLoaded_error_yt": {
+      "message": "คำบรรยายไม่ได้ถูกโหลดไว้บน Youtube คำบรรยายของภาษานี้ได้ถูกเลือกในเมนู playback หรือไม่?"
+   },
+   "toggleAutoPause": {
+      "message": "เปิด / ปิดเพื่อหยุดพักการเล่นอัตโนมัติ"
+   },
+   "translationLanguage_label": {
+      "message": "การแปลภาษา:"
+   },
+   "translationLanguage_tooltip": {
+      "message": "นี่คือภาษาที่จะแปล ตั้งค่านี้เป็นภาษาของคุณ"
+   },
+   "translationNotFound": {
+      "message": "ไม่พบคำแปล"
+   },
+   "trialBegunModal_body_string": {
+      "message": "รุ่นทดลองของคุณได้เริ่มขึ้นแล้ว! เปิดใช้งานคุณสมบัติ \"Pro\" แล้ว!"
+   },
+   "tryForFree": {
+      "message": "ทดลองใช้ฟรี"
+   },
+   "turnOnOff": {
+      "message": "เปิด / ปิด"
+   },
+   "updatePayment_btn_string": {
+      "message": "อัปเดตข้อมูลการชำระเงิน"
+   },
+   "usageExamples": {
+      "message": "ตัวอย่างการใช้งาน"
+   },
+   "userDefinedExternalDict_label": {
+      "message": "URLs ของพจนานุกรมผู้ใช้:"
+   },
+   "vocabHighlight_label": {
+      "message": "การเน้นคำศัพท์:"
+   },
+   "vocabHighlight_tooltip": {
+      "message": "(ทดลอง) คำที่ไม่ใช่คำทั่วไปจะเป็นสีเทา เพื่อให้คุณโฟกัสกับคำที่สำคัญในระดับความรู้คุณ"
+   },
+   "welcomeModal_line1_string": {
+      "message": "เรียน ผู้ใช้"
+   },
+   "welcomeModal_line2_string": {
+      "message": "เราได้ทำการอัปเดตส่วนขยายสำคัญแล้ว เราหวังว่าคุณจะเพลิดเพลินไปกับคุณสมบัติใหม่ ดังนี้"
+   },
+   "welcomeModal_line3_string": {
+      "message": "ตอนนี้สามารถแสดงคำบรรยายไว้ที่ด้านบนของวิดีโอแล้ว"
+   },
+   "welcomeModal_line4_string": {
+      "message": "เพิ่มแถบด้านข้างเพื่อให้สามารถดูคำบรรยายทั้งหมดได้"
+   },
+   "welcomeModal_line5_string": {
+      "message": "การรองรับภาษาต่าง ๆ ในทวีปเอเชียที่ดีกว่า"
+   },
+   "welcomeModal_line6_string": {
+      "message": "เครื่องแปลภาษาเคยมีให้บริการฟรี อย่างไรก็ตาม มันเป็นบริการที่มีราคาแพง ทางเราจึงหวังเป็นอย่างยิ่งว่าคุณจะเข้าใจ"
+   },
+   "writeReview": {
+      "message": "เขียนรีวิว"
+   },
+   "yellowWords": {
+      "message": "คำสีเหลือง"
+   }
+}

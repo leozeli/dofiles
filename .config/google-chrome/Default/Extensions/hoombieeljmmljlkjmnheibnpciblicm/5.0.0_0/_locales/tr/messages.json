@@ -1,0 +1,542 @@
+{
+   "allItems": {
+      "message": "Tüm ögeler"
+   },
+   "allLanguages": {
+      "message": "Tüm diller"
+   },
+   "allTypes": {
+      "message": "Tüm türler"
+   },
+   "alreadyUserPleaseSignIn": {
+      "message": "Zaten bir kullanıcı mısınız? Lütfen oturum açın."
+   },
+   "alsoUseASD": {
+      "message": "Ayrıca şunları da kullanabilirsiniz: A, S, D, Space"
+   },
+   "appDesc": {
+      "message": "Çalışmakta olduğunuz dilde film ve dizi izleyerek becerilerinizi kendi başınıza, etkin ve zevkli bir şekilde geliştirin."
+   },
+   "appName": {
+      "message": "Language Reactor"
+   },
+   "appNameTr": {
+      "message": "Netflix ile Dil Öğreniyorum"
+   },
+   "areYouSure": {
+      "message": "Emin misiniz?"
+   },
+   "audioLanguage_label": {
+      "message": "Netflix Ses Dili:"
+   },
+   "audioLanguage_tooltip": {
+      "message": "Bu seçilen Netflix ses parçasının dilidir."
+   },
+   "audioNoMatchSubtitles_error": {
+      "message": "Seçili Netflix ses parçası  (\u003Ctext>) altyazılarla eşleşmiyor olabilir. Netflix oynatma kontrollerinde başlığın orijinal diline (\u003Ctext>) ayarlamayı deneyin ya da okuduğunuz dil için önerilen başlıklar için Language Reactor kataloğunu tarayın."
+   },
+   "autoPause": {
+      "message": "Otomatik duraklatma"
+   },
+   "autoPause_tooltip": {
+      "message": "Her altyazının sonunda oynatmayı otomatik olarak duraklat."
+   },
+   "autoPaused": {
+      "message": "OTO-DURAKLATMA"
+   },
+   "blueWords": {
+      "message": "Mavi kelimeler"
+   },
+   "cancelGoogle_line_string": {
+      "message": "Not: 'Pro' modu, son ödemenizden sonraki 30 gün boyunca etkin olacaktır."
+   },
+   "cancelSubscription_btn_string": {
+      "message": "Aboneliği iptal et"
+   },
+   "catalogue": {
+      "message": "Katalog"
+   },
+   "catalogue_tooltip": {
+      "message": "Language Reactor kullanımına uygun filmleri ve dizileri bulun."
+   },
+   "choosePaymentProvider_line_string": {
+      "message": "Lütfen bir ödeme yöntemi seçin:"
+   },
+   "clickAStar": {
+      "message": "Bir altyazı kaydetmek için yıldıza, bir kelime kaydetmek için sözlükteki renkli butonlara tıklayın"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "continueWithGoogle_btn_string": {
+      "message": "Google Hesabı ile devam et"
+   },
+   "doNothing_option": {
+      "message": "Bir Şey Yapma"
+   },
+   "doYouLikeOurExtension": {
+      "message": "Language Reactor'i beğendiniz mi?"
+   },
+   "download": {
+      "message": "İndir"
+   },
+   "enableLln": {
+      "message": "Language Reactor'i etkinleştir"
+   },
+   "errorApology": {
+      "message": "Language Reactor bir hata oluştuğunu tespit etti. Geliştiricilere bildirim yapıldı. Sayfayı yeniden yüklemeyi deneyin veya 24 saat içinde tekrar deneyin. Rahatsızlıktan dolayı özür dileriz. Güncellemeler için Facebook sayfamızı ziyaret edin. Hata mesajı: \u003Ctext>"
+   },
+   "exportAsCsv": {
+      "message": "CSV olarak dışa aktar"
+   },
+   "exportAsJson": {
+      "message": "JSON olarak dışa aktar"
+   },
+   "exportToAnki": {
+      "message": "Anki'ye Aktar"
+   },
+   "extraLarge": {
+      "message": "Ekstra büyük"
+   },
+   "extraSmall": {
+      "message": "Ekstra küçük"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_tooltip": {
+      "message": "Sayfamızı beğenin ve en son haberleri takip edin."
+   },
+   "featureComingSoon": {
+      "message": "Özellik çok yakında geliyor."
+   },
+   "feedback": {
+      "message": "Geri Bildirim"
+   },
+   "feedback_tooltip": {
+      "message": "Bir sorun mu var? Talebiniz nedir?"
+   },
+   "firstSubtitleNotReached": {
+      "message": "- İlk altyazı henüz başlamadı. -"
+   },
+   "fix": {
+      "message": "Düzelt"
+   },
+   "fontSize_label": {
+      "message": "Yazı tipi boyutu:"
+   },
+   "freeTrial3_line_string": {
+      "message": "Ücretsiz 3 günlük deneme ile 'Pro' modunu deneyebilirsiniz."
+   },
+   "freeTrial7_line_string": {
+      "message": "Ücretsiz 7 günlük deneme ile 'Pro' modunu deneyebilirsiniz."
+   },
+   "greenWords": {
+      "message": "Yeşil kelimeler"
+   },
+   "help": {
+      "message": "Destek"
+   },
+   "help_tooltip": {
+      "message": "Kullanım yönergeleri, ipuçları."
+   },
+   "hideTranslation": {
+      "message": "Tercümeyi gizle:"
+   },
+   "hideTranslation_tt": {
+      "message": "Video oynatılırken tercümeyi gizleyin. Tercümenin görüntülenmesi için metne tıklayın ya da [e] tuşuna basın."
+   },
+   "highlightSavedWords_label": {
+      "message": "Kaydedilen Kelimeleri Belirt"
+   },
+   "hiragana": {
+      "message": "Hiragana"
+   },
+   "keyboardShortcuts": {
+      "message": "Klavye kısayolları:"
+   },
+   "langCode": {
+      "message": "tr"
+   },
+   "large": {
+      "message": "Büyük"
+   },
+   "levelDisable": {
+      "message": "Seviye \u003Ctext>: devre dışı bırak"
+   },
+   "levelWithNumber": {
+      "message": "Seviye \u003Ctext>: \u003Ctext> kelime"
+   },
+   "littlePracticeEveryDay": {
+      "message": "Bir dil öğrenmek her gün biraz pratik yapmayı gerektirir."
+   },
+   "loadingDotDotDot": {
+      "message": "Yükleniyor..."
+   },
+   "loadingSubtitles": {
+      "message": "- Altyazılar Yükleniyor, Lütfen Bekleyin... -"
+   },
+   "loadingTranslations": {
+      "message": "Çeviriler yükleniyor..."
+   },
+   "manageSubscription": {
+      "message": "Aboneliği Yönet"
+   },
+   "mode": {
+      "message": "Mod:"
+   },
+   "mode_free": {
+      "message": "Ücretsiz"
+   },
+   "mode_pro": {
+      "message": "Pro"
+   },
+   "mode_trial": {
+      "message": "Deneme"
+   },
+   "next": {
+      "message": "Sonraki"
+   },
+   "nextSub": {
+      "message": "Sonraki Altyazı"
+   },
+   "nms_tip": {
+      "message": "Dil mi öğreniyorsunuz? Yepyeni Netlifx eklentimiz ile dil öğrenin."
+   },
+   "noCharge": {
+      "message": "Başkalarının aksine, deneme süreniz boyunca sizden herhangi bir ücret almıyor ve aboneliğinizi otomatik olarak yükseltmiyoruz."
+   },
+   "noCreditCardRequired": {
+      "message": "Kredi kartı gerekmez."
+   },
+   "noDictionary_error": {
+      "message": "Language Reactor uzantısı henüz \u003Ctext> sözlüğünün kullanılmasını desteklememektedir. Bu özellik yakında geliyor!"
+   },
+   "noHTAvailable": {
+      "message": "Seçilen çeviri dili için İnsan çevirisi mevcut değil."
+   },
+   "noMTAvailable": {
+      "message": "Makine Çevirileri yalnızca filmin orijinal altyazıları için kullanılabilir."
+   },
+   "noSavedItems": {
+      "message": "Kaydedilen öge yok."
+   },
+   "noTransliterations": {
+      "message": "Harf çevirisi yok"
+   },
+   "none": {
+      "message": "Yok"
+   },
+   "normal": {
+      "message": "Normal"
+   },
+   "notAvailable": {
+      "message": "Mevcut değil."
+   },
+   "notNow_btn_string": {
+      "message": "Şimdi değil"
+   },
+   "notSignedIn": {
+      "message": "Giriş yapılmadı"
+   },
+   "ok_btn_string": {
+      "message": "Tamam"
+   },
+   "onLeftClick_label": {
+      "message": "Sol Tıklamada:"
+   },
+   "onRightClick_label": {
+      "message": "Sağ Tıklamada:"
+   },
+   "openCloseBottomPanel": {
+      "message": "Alt paneli aç / kapat"
+   },
+   "openCloseVerticalView": {
+      "message": "Dikey görünümü aç / kapat"
+   },
+   "openClose_tooltip": {
+      "message": "Language Reactor'yi aç/kapat."
+   },
+   "options": {
+      "message": "Seçenekler"
+   },
+   "originalLanguage_label": {
+      "message": "Başlık Orijinal Dili:"
+   },
+   "originalLanguage_tooltip": {
+      "message": "Bu, Netflix başlığının orijinal dilidir."
+   },
+   "overrideArrowKeys_label": {
+      "message": "Ok Tuşlarını Geçersiz Kıl"
+   },
+   "overrideArrowKeys_tt": {
+      "message": "Ok klavye tuşlarının A, S, D tuşlarıyla aynı şekilde davranmasını sağla"
+   },
+   "pauseOnSubsHover_label": {
+      "message": "Fareyle Üzerine Geldiğinde Duraklat"
+   },
+   "pauseOnSubsHover_tt": {
+      "message": "Fare alt yazının üzerinde olduğunda otomatik olarak duraklat"
+   },
+   "payWithGoogle_btn_string": {
+      "message": "Kredi kartı geçerlidir."
+   },
+   "payWithPaddle_btn_string": {
+      "message": "Kredi kartı ve Paypal geçerlidir."
+   },
+   "paymentSuccessfulPaddleMessage_line_string": {
+      "message": "Not: Ödemenizin manuel olarak kontrol edilmesi gerekiyorsa lütfen birkaç saat bekleyin, sonrasında 'Pro' modu otomatik olarak etkinleştirilecektir. Gecikme için üzgünüz!"
+   },
+   "paymentSuccessful_line1_string": {
+      "message": "Ödeme başarılı! Projemize destek olduğunuz için teşekkür ederiz!"
+   },
+   "paymentSuccessful_line2_string": {
+      "message": "Aboneliğinizi istediğiniz zaman ayarlar kısmından iptal edebilirsiniz."
+   },
+   "phrases": {
+      "message": "İfadeler"
+   },
+   "play": {
+      "message": "Oynat"
+   },
+   "playPause": {
+      "message": "Oynat / Duraklat"
+   },
+   "playbackSpeed": {
+      "message": "Oynatma hızı:"
+   },
+   "pleaseSelectItemsToExport": {
+      "message": "Lütfen dışa aktarılacak ögeleri seçin:"
+   },
+   "pleaseSelectSubtitles": {
+      "message": "- Lütfen Netflix Player'da Altyazıları Seçin -"
+   },
+   "pleaseSignIn": {
+      "message": "Lütfen oturum açın."
+   },
+   "prePaymentModal_line1_string": {
+      "message": "'Pro' özelliklerini kullanmaya devam etmek için abone olun."
+   },
+   "pressSpaceToContinue": {
+      "message": "(Devam etmek için BOŞLUK tuşuna basın)"
+   },
+   "previous": {
+      "message": "Önceki"
+   },
+   "previousSub": {
+      "message": "Önceki Altyazı"
+   },
+   "price_string": {
+      "message": "Aylık fiyat:"
+   },
+   "proFeature": {
+      "message": "Pro Özelliği"
+   },
+   "proFeatures_line1_string": {
+      "message": "'Pro' modu, ek özelliklere olanak sağlar:"
+   },
+   "proFeatures_line2_string": {
+      "message": "Makine çevirileri"
+   },
+   "proFeatures_line3_string": {
+      "message": "Kelimeleri ve ifadeleri kaydet"
+   },
+   "proFeatures_line4_string": {
+      "message": "Dublajlı Filmler için Altyazılar"
+   },
+   "proFeatures_line5_string": {
+      "message": "Geliştiricileri destekleyin"
+   },
+   "proFeatures_tt2_string": {
+      "message": "Bunlar anlam olarak orijinal altyazılara daha yakındır. Dil öğrencileri için daha faydalıdır"
+   },
+   "proFeatures_tt3_string": {
+      "message": "Kaydettiğiniz kelimeler tüm altyazılarda öne çıkarılır. Bu, öğrenme düzeni sağlamanıza yardımcı olur. Kaydedilen kelimeler ve ifadeler Anki'ye (flashcard programı) aktarılabilir."
+   },
+   "proFeatures_tt4_string": {
+      "message": "Netflix'teki birçok dizi, farklı seslendirme dillerine sahip (dublaj), ama Netflix bu seslendirme kayıtları için doğru altyazılara sahip değil. Biz bunları oluşturmak istiyoruz, böylelikle örneğin Breaking Bad ile Almanca çalışabilirsiniz."
+   },
+   "proFeatures_tt5_string": {
+      "message": "Uzantıyı iyileştirmek ve size yeni özellikler sunabilmek için çok çalışıyoruz."
+   },
+   "problemWithPayment_line1_string": {
+      "message": "Abonelik ödemenizle ilgili bir sorun oluştu."
+   },
+   "problemWithPayment_line2_string": {
+      "message": "Ödeme bilgilerinizi güncelledikten sonra lütfen bu pencereyi yeniden yükleyin."
+   },
+   "purpleWords": {
+      "message": "Mor kelimeler"
+   },
+   "redWords": {
+      "message": "Kırmızı kelimeler"
+   },
+   "removeAllItems": {
+      "message": "Tümünü kaldır"
+   },
+   "removeSubtitle": {
+      "message": "Kaldır"
+   },
+   "repeat": {
+      "message": "Yeniden Başlat"
+   },
+   "reportBug": {
+      "message": "Hata bildir"
+   },
+   "romaji": {
+      "message": "Romaji"
+   },
+   "saveCurrentSubtitle": {
+      "message": "Mevcut altyazıyı kaydet"
+   },
+   "saveWordTooltip": {
+      "message": "Kelimeyi kaydet. Ayrıca kaydetmek için kelimeye sağ tıklayabilirsiniz."
+   },
+   "saveWord_option": {
+      "message": "Kelimeyi kaydet"
+   },
+   "savedItems": {
+      "message": "Kaydedilmiş Ögeler"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "showDictSpeak_option": {
+      "message": "Sözlüğü göster ve kelimeyi söyle"
+   },
+   "showDict_option": {
+      "message": "Sözlüğü göster"
+   },
+   "showHumanTranslation_label": {
+      "message": "İnsan Çevirisini Göster:"
+   },
+   "showHumanTranslation_tooltip": {
+      "message": "Mevcutsa kendi dilindeki kaynak alt başlıkların insan çevirisini göster."
+   },
+   "showMachineTranslation_label": {
+      "message": "Makine Çevirisini Göster:"
+   },
+   "showMachineTranslation_tooltip": {
+      "message": "Dilindeki kaynak alt başlıkların makine çevirisini göster."
+   },
+   "showMore": {
+      "message": "Daha fazla göster"
+   },
+   "showTransliterations": {
+      "message": "Harf Çevirilerini Göster:"
+   },
+   "signIn": {
+      "message": "Oturum Aç"
+   },
+   "signInStatus": {
+      "message": "Giriş durumu:"
+   },
+   "signOut": {
+      "message": "Oturumu Kapat"
+   },
+   "signedIn": {
+      "message": "Giriş yapıldı"
+   },
+   "slowDownPlayback": {
+      "message": "Yeniden oynatmayı yavaşlat"
+   },
+   "slowSpeechSegments": {
+      "message": "Yavaş konuşma segmentleri:"
+   },
+   "slowSpeechSegments_tooltip": {
+      "message": "Bir altyazı aktifken videonun oynatma hızını azaltın (0.8x), anlaşılmasını kolaylaştırın."
+   },
+   "small": {
+      "message": "Küçük"
+   },
+   "speakWord_option": {
+      "message": "Kelimeyi söyle"
+   },
+   "speedUpPlayback": {
+      "message": "Yeniden oynatmayı hızlandır"
+   },
+   "subscriptionToProFeatures": {
+      "message": "'Pro' özellikler için abonelik."
+   },
+   "subtitleLanguage_label": {
+      "message": "Netflix Altyazı Dili:"
+   },
+   "subtitleLanguage_label_yt": {
+      "message": "Youtube Altyazı Dili:"
+   },
+   "subtitleLanguage_tooltip": {
+      "message": "Bu, seçilen Netflix altyazılarının dilidir."
+   },
+   "subtitleLanguage_tooltip_yt": {
+      "message": "Bu, seçilen Youtube altyazılarının dilidir."
+   },
+   "subtitles": {
+      "message": "Altyazılar"
+   },
+   "subtitlesNoMatchAudio_error": {
+      "message": "Seçilen Netflix altyazıları (\u003Ctext>) ses ile eşleşmiyor. Bunları Netflix oynatma kontrollerinde başlığın orijinal diline (\u003Ctext>) ayarlamayı deneyin ya da okuduğunuz dil için önerilen başlıklar için Language Reactor kataloğunu tarayın."
+   },
+   "subtitlesNotLoaded_error": {
+      "message": "Netflix altyazıları yüklenemedi. Netflix oynatma menüsünde bir altyazı dili seçtiniz mi?"
+   },
+   "subtitlesNotLoaded_error_yt": {
+      "message": "Youtube altyazıları yüklenemedi. Youtube oynatma menüsünde bir altyazı dili seçtiniz mi?"
+   },
+   "toggleAutoPause": {
+      "message": "Otomatik duraklatmayı değiştir"
+   },
+   "translationLanguage_label": {
+      "message": "Çeviri dili:"
+   },
+   "translationLanguage_tooltip": {
+      "message": "Bu, çevirilerin dilidir. Bunu ana dilinize ayarlayın."
+   },
+   "translationNotFound": {
+      "message": "Çeviri bulunamadı."
+   },
+   "trialBegunModal_body_string": {
+      "message": "Deneme süreniz başladı! 'Pro' özellikleri etkinleştirildi!"
+   },
+   "tryForFree": {
+      "message": "Ücretsiz deneyin"
+   },
+   "turnOnOff": {
+      "message": "Aç / kapat"
+   },
+   "updatePayment_btn_string": {
+      "message": "Ödeme Bilgilerini Güncelle"
+   },
+   "usageExamples": {
+      "message": "Kullanım Örnekleri"
+   },
+   "userDefinedExternalDict_label": {
+      "message": "Kullanıcı Sözlüğü URL’leri:"
+   },
+   "vocabHighlight_label": {
+      "message": "Kelime Vurgulama:"
+   },
+   "vocabHighlight_tooltip": {
+      "message": "(Deneme aşaması) Daha az yaygın kelimeleri gri yaparak, seviyenizde sizin için daha önemli olan kelimelere odaklanın."
+   },
+   "welcomeModal_line1_string": {
+      "message": "Sevgili Kullanıcılar,"
+   },
+   "welcomeModal_line2_string": {
+      "message": "Uzantı için büyük bir güncelleme yaptık. Umarız yeni özelliklerden memnun kalırsınız:"
+   },
+   "welcomeModal_line3_string": {
+      "message": "Altyazılar artık videonun üst kısmında gösterilebilir."
+   },
+   "welcomeModal_line4_string": {
+      "message": "Tüm altyazıları görüntülemeye imkan sağlayan ek yan panel."
+   },
+   "welcomeModal_line5_string": {
+      "message": "Asya dilleri için daha iyi destek."
+   },
+   "welcomeModal_line6_string": {
+      "message": "Makine çevirisi önceden ücretsizdi, ancak bunu sağlamak pahalı bir hizmet. Umarız anlayışla karşılarsınız."
+   },
+   "yellowWords": {
+      "message": "Sarı kelimeler"
+   }
+}

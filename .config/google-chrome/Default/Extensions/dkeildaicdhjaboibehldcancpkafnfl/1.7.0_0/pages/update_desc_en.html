@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Card Bookmarks</title>
+	<link rel="stylesheet" href="css.css">
+	<!-- <script src="vue.min.js"></script> -->
+	<style>
+	::-webkit-scrollbar{width:0px;height:0px}
+	::-webkit-scrollbar-button:vertical{display:none}
+	/*滚动槽*/
+	::-webkit-scrollbar-track:vertical{background-color:transparent}
+	/*滚动块*/
+    ::-webkit-scrollbar-thumb:vertical{background-color:#eee;border-radius:0px}
+	::-webkit-scrollbar-thumb:vertical:hover{background-color:#ccc}
+	::-webkit-scrollbar-track-piece{background:transparent;border-radius:0px}
+	::-webkit-scrollbar-corner:vertical{background-color:#535353}
+	::-webkit-scrollbar-resizer:vertical{background-color:#FF6E00}
+	
+	body
+	{
+	background-image: linear-gradient(to left, #2196f3 0%, #a9cfee 100%);
+	}
+	
+	#main
+	{
+	margin:auto;
+	width:51%;
+	min-height:100vh;
+	box-sizing:border-box;
+	padding:0px 36px 50px;
+	font-family:"Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+	background:rgba(255,255,255, 0.86);
+	}
+	
+	#main p
+	{
+	color:#333;
+	font-size:18px;
+	line-height:2em;
+	text-align:justify;
+	}
+	
+	#main .head
+	{
+	padding:25px 0 20px;
+	font-size:36px;
+	font-weight:100;
+	color:#000;
+	}
+	
+	#main .title_s
+	{
+	margin-bottom:4px;
+	display:flex;
+	align-items:center;
+	}
+	
+	#main .title_s:nth-of-type(n+2)
+	{
+	margin-top:20px;
+	}
+	
+	#main .title_s div
+	{
+	width:0;
+	height:0;
+	border-style:solid;
+	border-width:6px 0 6px 10px;
+	border-color:transparent transparent transparent #666;
+	}
+	
+	#main .title_s p
+	{
+	margin-left:6px;
+	color:#000;
+	font-size:24px;
+	font-weight:300;
+	}
+	
+	#main .update > p
+	{
+	margin-bottom:12px;
+	padding:0px 12px 0px 16px;
+	}
+	
+	#main .update > p .hidden
+	{
+	font-size:10px;
+	color:#444;
+	background-color:#444;
+	}
+	
+	#main .update p span
+	{
+	font-weight:bold;
+	}
+	
+	#main .li
+	{
+	display:flex;
+	align-items:center;
+	margin-bottom:10px;
+	padding:0px 12px 0px 16px;
+	}
+	
+	#main .li div
+	{
+	width :0;
+	height:0;
+	border-style:solid;
+	border-color:transparent transparent transparent #333;
+	border-width:6px 0 6px 9px;
+	}
+	
+	#main .li p
+	{
+	color:#333;
+	font-size:16px;
+	margin-left:14px;
+	}
+	
+	#main .word p
+	{
+	padding:0px 12px 0px 16px;
+	margin-bottom:14px;
+	}
+	
+	#main .word p:last-of-type
+	{
+	margin-bottom:0px;
+	}
+	
+	#main a
+	{
+	color:#337acf;
+	text-decoration:underline;
+	font-weight:bold;
+	}
+	
+	#main img
+	{
+	margin:8px auto;
+	display:block;
+	max-width:100%;
+	cursor:pointer;
+	}
+	
+	#footer
+	{
+	margin:-30px auto 0px;
+	width:80px;
+	height:1px;
+	background:#000;
+	}
+	
+	canvas
+	{
+	display:block;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	z-index:-1;
+	}
+	</style>
+</head>
+<body>
+	<div id="main">
+		<p class="head">Update description</p>
+		
+		<div class="title_s">
+		    <div></div>
+	        <p>This update is as follows:</p>
+		</div>
+		<div class="update lists">
+			<p>Optimize search experience: the first search result is selected by default, and it can be opened directly by pressing Enter.</p>
+		</div>
+	</div>
+	
+	<div id="footer"></div>
+	
+	<canvas></canvas>
+</body>
+    <script src="update_desc.js"></script>
+</html>

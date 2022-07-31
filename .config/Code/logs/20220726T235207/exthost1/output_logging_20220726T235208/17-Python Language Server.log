@@ -1,0 +1,13 @@
+[Info  - 11:54:24 PM] (135802) Pylance language server 2022.7.40 (pyright bd00e0d1) starting
+[Info  - 11:54:24 PM] (135802) Server root directory: /home/leozeli/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist
+Notebook support: Legacy
+[Info  - 11:54:24 PM] (135802) No configuration file found.
+[Info  - 11:54:24 PM] (135802) No pyproject.toml file found.
+[Info  - 11:54:24 PM] (135802) Setting pythonPath for service "Code Space": "/bin/python"
+[Warn  - 11:54:24 PM] (135802) stubPath /home/leozeli/Documents/Code Space/typings is not a valid directory.
+[Info  - 11:54:24 PM] (135802) Assuming Python version 3.10
+[Info  - 11:54:24 PM] (135802) Assuming Python platform Linux
+[Info  - 11:54:24 PM] (135802) Searching for source files
+[Info  - 11:54:24 PM] (135802) No source files found.
+[Info  - 11:54:24 PM] (135802) Background analysis(1) root directory: /home/leozeli/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist
+[Info  - 11:54:24 PM] (135802) Background analysis(1) started

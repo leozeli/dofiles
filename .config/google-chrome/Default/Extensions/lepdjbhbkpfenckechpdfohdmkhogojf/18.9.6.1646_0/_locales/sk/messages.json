@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Zrušiť"
+   },
+   "Change_name": {
+      "message": "Zmeniť meno"
+   },
+   "Collapse": {
+      "message": "kolaps"
+   },
+   "Collapse_activity_window": {
+      "message": "Zbaliť okno aktivity"
+   },
+   "Collapse_all_windows": {
+      "message": "Zbaliť všetky okná"
+   },
+   "Collapse_tabs": {
+      "message": "Zbaliť karty"
+   },
+   "Current_window": {
+      "message": "Aktuálne okno"
+   },
+   "Customize": {
+      "message": "prispôsobenie"
+   },
+   "Delete_group": {
+      "message": "Odstrániť skupinu"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Spätná väzba a návrh"
+   },
+   "Fixed_tabs": {
+      "message": "Pevná karta"
+   },
+   "History_tab_group": {
+      "message": "Skupina kariet História"
+   },
+   "New_window": {
+      "message": "Nové okno"
+   },
+   "No_search_results_found": {
+      "message": "Neboli nájdené žiadne výsledky vyhľadávania"
+   },
+   "Not_collapse": {
+      "message": "Nie sa zrúti"
+   },
+   "Open_all": {
+      "message": "Otvorte všetko"
+   },
+   "Open_group": {
+      "message": "Otvoriť skupinu"
+   },
+   "Open_with_browser": {
+      "message": "Otvorte prehliadač"
+   },
+   "Recovery_window": {
+      "message": "Obnova okna"
+   },
+   "Save_group": {
+      "message": "Uložiť skupinu"
+   },
+   "Save_tab_group": {
+      "message": "Uložiť skupinu kariet"
+   },
+   "Search_group": {
+      "message": "Hľadať skupinu"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Skupina tabuliek"
+   },
+   "Turn_off": {
+      "message": "Vypnúť"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "O nás"
+   },
+   "add_tab": {
+      "message": "Pridať kartu"
+   },
+   "contact": {
+      "message": "Kontakt"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Prispieť"
+   },
+   "extdesc": {
+      "message": "Ušetrite 95% pamäte a znížte nepochopenie štítku."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "ok"
+   },
+   "old_tab_empty": {
+      "message": "Skupina kariet História je prázdna"
+   },
+   "old_tab_group": {
+      "message": "Nasleduje stará skupina kariet"
+   },
+   "options": {
+      "message": "Možnosti"
+   },
+   "pin_tab": {
+      "message": "Pripnúť kartu"
+   },
+   "placeholder": {
+      "message": "Zadajte názov skupiny kariet"
+   },
+   "praise": {
+      "message": "Päťhviezdičková pochvala"
+   },
+   "privacyPolicy": {
+      "message": "Ochrana súkromia"
+   },
+   "rating_button_tate": {
+      "message": "Hodnotiť"
+   },
+   "rename": {
+      "message": "premenovať"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "Mám čo povedať"
+   },
+   "share": {
+      "message": "Zdieľať"
+   },
+   "shareFriends": {
+      "message": "Zdieľajte nás so svojimi priateľmi!"
+   },
+   "supportUs": {
+      "message": "Vaša podpora je pre nás veľkou podporou"
+   },
+   "tab_address": {
+      "message": "Adresa karty"
+   },
+   "tabs": {
+      "message": "záložky"
+   },
+   "termsOfUse": {
+      "message": "Podmienky používania"
+   },
+   "turn_on": {
+      "message": "Zapnúť"
+   },
+   "usproductokey": {
+      "message": "Naše výrobky sú v poriadku?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

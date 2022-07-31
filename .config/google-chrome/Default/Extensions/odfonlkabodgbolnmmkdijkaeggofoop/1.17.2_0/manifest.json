@@ -1,0 +1,47 @@
+{
+   "background": {
+      "scripts": [ "pages/background/lru.js", "pages/background/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "assets/icons/disable/ic_128.png",
+         "16": "assets/icons/disable/ic_16.png",
+         "32": "assets/icons/disable/ic_32.png",
+         "48": "assets/icons/disable/ic_48.png"
+      },
+      "default_title": "Active Clearly (Alt/Option+R)"
+   },
+   "commands": {
+      "toggle": {
+         "description": "Toggle Reader",
+         "suggested_key": {
+            "chromeos": "Alt+R",
+            "linux": "Alt+R",
+            "mac": "Alt+R",
+            "windows": "Alt+R"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "pages/content/readability-readable-v1.7.1.js", "pages/content/clearly.js", "pages/content/env.js", "pages/content/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_idle"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self';",
+   "default_locale": "en",
+   "description": "__MSG_pkgDescription__",
+   "icons": {
+      "128": "assets/icons/readable/ic_128.png",
+      "16": "assets/icons/readable/ic_16.png",
+      "32": "assets/icons/readable/ic_32.png",
+      "48": "assets/icons/readable/ic_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh54r9czkWDTC7RTELhBcCuidYkjlj43yCsLdyWyscH8qY9BsFlzcLxLnuUFQWTn16pIob7HH+hQfpWjwDo+OeEt0KeLydULLbFGNVoIT5aEMhHjOHZhp26mmTzVzYTRF9bYOcga+FsDse37Q/+qyE8gDI8ECmIsFAoRPgG3P9oTH4JGisvmhncE7LNaZ5EHgdqZEdnvr0yUGOkoV7gb/plQiux4DheJhmm9ovo8KUrCIOqc8STgoxB7oAH21PFO3QHMDd+UGf5fYKTqiH+ig03SXCcG0KDgeW0TibZ3EuLQQVA7u/B7TaQ7+K26bzhgzstSLpJarvQmIUMrcdd9T/QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_pkgName__",
+   "offline_enabled": true,
+   "permissions": [ "contextMenus", "storage", "activeTab", "tts", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.17.2",
+   "web_accessible_resources": [ "*" ]
+}

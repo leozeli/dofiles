@@ -1,0 +1,7 @@
+2022/07/26-12:35:45.254 271b Reusing MANIFEST /home/leozeli/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/26-12:35:45.254 271b Recovering log #3
+2022/07/26-12:35:45.255 271b Reusing old log /home/leozeli/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/07/26-13:29:34.146 1cd22 Level-0 table #5: started
+2022/07/26-13:29:34.148 1cd22 Level-0 table #5: 119297 bytes OK
+2022/07/26-13:29:34.149 1cd22 Delete type=0 #3
+2022/07/26-13:29:34.150 1cd22 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

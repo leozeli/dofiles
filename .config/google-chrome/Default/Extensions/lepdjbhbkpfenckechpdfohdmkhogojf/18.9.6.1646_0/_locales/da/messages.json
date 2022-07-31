@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Afbestille"
+   },
+   "Change_name": {
+      "message": "Ændre navn"
+   },
+   "Collapse": {
+      "message": "Bryder sammen"
+   },
+   "Collapse_activity_window": {
+      "message": "Skjul aktivitetsvindue"
+   },
+   "Collapse_all_windows": {
+      "message": "Skjul alle vinduer"
+   },
+   "Collapse_tabs": {
+      "message": "Skjul faner"
+   },
+   "Current_window": {
+      "message": "Nuværende vindue"
+   },
+   "Customize": {
+      "message": "Tilpas"
+   },
+   "Delete_group": {
+      "message": "Slet gruppe"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback og forslag"
+   },
+   "Fixed_tabs": {
+      "message": "Faste faneblad"
+   },
+   "History_tab_group": {
+      "message": "Historik fanegruppe"
+   },
+   "New_window": {
+      "message": "Nyt vindue"
+   },
+   "No_search_results_found": {
+      "message": "Ingen søgeresultater fundet"
+   },
+   "Not_collapse": {
+      "message": "Ikke sammenbrud"
+   },
+   "Open_all": {
+      "message": "Åbn alle"
+   },
+   "Open_group": {
+      "message": "Åben gruppe"
+   },
+   "Open_with_browser": {
+      "message": "Åbn med browser"
+   },
+   "Recovery_window": {
+      "message": "Gendannelsesvindue"
+   },
+   "Save_group": {
+      "message": "Gem gruppe"
+   },
+   "Save_tab_group": {
+      "message": "Gem fanegruppe"
+   },
+   "Search_group": {
+      "message": "Søg gruppe"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Fanegruppe"
+   },
+   "Turn_off": {
+      "message": "Sluk"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "Om os"
+   },
+   "add_tab": {
+      "message": "Tilføj fane"
+   },
+   "contact": {
+      "message": "Navn"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Doner"
+   },
+   "extdesc": {
+      "message": "Gem 95% af hukommelsen og reducer etiketterne."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "Okay"
+   },
+   "old_tab_empty": {
+      "message": "Historik fanegruppen er tom"
+   },
+   "old_tab_group": {
+      "message": "Det følgende er den gamle fanegruppe"
+   },
+   "options": {
+      "message": "Valgmuligheder"
+   },
+   "pin_tab": {
+      "message": "Fastgør fane"
+   },
+   "placeholder": {
+      "message": "Indtast fanegruppens navn"
+   },
+   "praise": {
+      "message": "Femstjernes ros"
+   },
+   "privacyPolicy": {
+      "message": "Anonymitetspolitik"
+   },
+   "rating_button_tate": {
+      "message": "Vurdering"
+   },
+   "rename": {
+      "message": "Omdøb"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "Jeg har noget at sige"
+   },
+   "share": {
+      "message": "Del"
+   },
+   "shareFriends": {
+      "message": "Del os med dine venner!"
+   },
+   "supportUs": {
+      "message": "Ihre Unterstützung ist eine große Ermutigung für uns"
+   },
+   "tab_address": {
+      "message": "Fanebladet"
+   },
+   "tabs": {
+      "message": "Faner"
+   },
+   "termsOfUse": {
+      "message": "Betingelser for brug"
+   },
+   "turn_on": {
+      "message": "Tænde for"
+   },
+   "usproductokey": {
+      "message": "Vores produkter er okay med det?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

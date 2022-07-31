@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=c987617162@gmail.com
+Enabled=true
+Parent=b24a0633e2074116372fed1b8f2232199895efdc
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=c987617162@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

@@ -1,0 +1,5 @@
+2022/07/28-20:17:04.959 2a855 Creating DB /home/leozeli/.config/discord/Local Storage/leveldb since it was missing.
+2022/07/28-20:17:04.962 2a855 Reusing MANIFEST /home/leozeli/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/07/28-20:47:13.366 2a855 Level-0 table #5: started
+2022/07/28-20:47:13.369 2a855 Level-0 table #5: 490809 bytes OK
+2022/07/28-20:47:13.371 2a855 Delete type=0 #3

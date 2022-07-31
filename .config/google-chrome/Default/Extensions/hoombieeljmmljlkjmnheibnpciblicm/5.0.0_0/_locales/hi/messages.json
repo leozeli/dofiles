@@ -1,0 +1,545 @@
+{
+   "allItems": {
+      "message": "सभी आइटम"
+   },
+   "allLanguages": {
+      "message": "सभी भाषाएं"
+   },
+   "allTypes": {
+      "message": "सभी प्रकार "
+   },
+   "alreadyUserPleaseSignIn": {
+      "message": "पहले से ही एक उपयोगकर्ता? कृपया साइन इन करें।"
+   },
+   "alsoUseASD": {
+      "message": "आप यह भी उपयोग कर सकते हैं: ए, एस, डी, स्पेस"
+   },
+   "appDesc": {
+      "message": "आपके द्वारा अध्ययन की जाने वाली भाषा में फिल्मों और श्रृंखलाओं को देखकर, प्रभावी रूप से और आनंदपूर्वक, अपने कौशल में सुधार करें।"
+   },
+   "appName": {
+      "message": "Language Reactor"
+   },
+   "appNameTr": {
+      "message": "नेटफ्लिक्स के साथ भाषा सीखना"
+   },
+   "areYouSure": {
+      "message": "वाक़ई?"
+   },
+   "audioLanguage_label": {
+      "message": "नेटफ्लिक्स ऑडियो भाषा:"
+   },
+   "audioLanguage_tooltip": {
+      "message": "यह चयनित नेटफ्लिक्स ऑडियो ट्रैक की भाषा है।"
+   },
+   "audioNoMatchSubtitles_error": {
+      "message": "चयनित नेटफ्लिक्स ऑडियो ट्रैक (\u003Ctext>) के उपशीर्षक से मेल नहीं खाने की संभावना है। इसे नेटफ्लिक्स प्लेबैक नियंत्रण में शीर्षक की मूल भाषा (\u003Ctext>) पर सेट करने का प्रयास करें, या आपके द्वारा अध्ययन की जाने वाली भाषा के लिए सुझाए गए शीर्षक के लिए एलएलएन कैटलॉग खोजें।"
+   },
+   "autoPause": {
+      "message": "ऑटो-पॉज"
+   },
+   "autoPause_tooltip": {
+      "message": "स्वचालित रूप से हर उपशीर्षक के अंत में प्लेबैक रोकें।"
+   },
+   "autoPaused": {
+      "message": "ऑटो=पॉज"
+   },
+   "blueWords": {
+      "message": "नीले शब्द"
+   },
+   "cancelGoogle_line_string": {
+      "message": "नोट:  'Pro' मोड आपके अंतिम भुगतान के बाद 30 दिनों तक सक्रिय रहेगा।"
+   },
+   "cancelSubscription_btn_string": {
+      "message": "सदस्यता रद्द करें"
+   },
+   "catalogue": {
+      "message": "सूची"
+   },
+   "catalogue_tooltip": {
+      "message": "एलएलएन के साथ उपयोग के लिए उपयुक्त फिल्में और श्रृंखला खोजें।"
+   },
+   "choosePaymentProvider_line_string": {
+      "message": "कृपया भुगतान करने का एक तरीका चुनें:"
+   },
+   "clickAStar": {
+      "message": "उपशीर्षक (सबटाइटल) को सहेजने के लिए स्टार पर क्लिक करें, अथवा शब्द को शब्दकोश में सहेजने के लिए रंगीन बटनों पर क्लिक करें।"
+   },
+   "close": {
+      "message": "बंद करे"
+   },
+   "continueWithGoogle_btn_string": {
+      "message": "Google खाते के साथ जारी रखें"
+   },
+   "doNothing_option": {
+      "message": "कुछ मत करें"
+   },
+   "doYouLikeOurExtension": {
+      "message": "क्या आप Language Reactor पसंद करते हैं?"
+   },
+   "download": {
+      "message": "डाउनलोड"
+   },
+   "enableLln": {
+      "message": "Language Reactor सक्षम करें"
+   },
+   "errorApology": {
+      "message": "एलएलएन ने पाया है कि एक त्रुटि हुई है। डेवलपर्स को सूचित किया गया है। पृष्ठ को पुनः लोड करने का प्रयास करें, या फिर 24 घंटे में पुनः प्रयास करें। असुविधा के लिए खेद है। अपडेट के लिए हमारे फेसबुक पेज को देखें। त्रुटि संदेश: \u003Ctext>"
+   },
+   "exportAsCsv": {
+      "message": "CSV के रूप में निर्यात करें"
+   },
+   "exportAsJson": {
+      "message": "JSON के रूप में निर्यात करें"
+   },
+   "exportToAnki": {
+      "message": "Anki को एक्सपोर्ट करें"
+   },
+   "extraLarge": {
+      "message": "ज्यादा बड़ा"
+   },
+   "extraSmall": {
+      "message": "बहुत छोटा"
+   },
+   "facebook": {
+      "message": "फेसबुक"
+   },
+   "facebook_tooltip": {
+      "message": "हमारे पेज को लाइक करें और नवीनतम समाचार देखें।"
+   },
+   "featureComingSoon": {
+      "message": "जल्द ही आने वाला फीचर"
+   },
+   "feedback": {
+      "message": "प्रतिक्रिया"
+   },
+   "feedback_tooltip": {
+      "message": "कुछ गलत? सुविधा के लिए अनुरोध?"
+   },
+   "firstSubtitleNotReached": {
+      "message": "- पहला उपशीर्षक अभी तक शुरू नहीं हुआ है। -"
+   },
+   "fix": {
+      "message": "ठीक करें"
+   },
+   "fontSize_label": {
+      "message": "फ़ॉन्ट साइज़:"
+   },
+   "freeTrial3_line_string": {
+      "message": "आप 'Pro' मोड को 3-दिवसीय ट्रायल द्वारा मुफ्त में ट्राई कर सकते हैं।"
+   },
+   "freeTrial7_line_string": {
+      "message": "आप 'Pro' मोड को 7-दिवसीय ट्रायल द्वारा मुफ्त में ट्राई कर सकते हैं।"
+   },
+   "greenWords": {
+      "message": "हरे शब्द"
+   },
+   "help": {
+      "message": "मदद"
+   },
+   "help_tooltip": {
+      "message": "उपयोग के लिए निर्देश, युक्तियाँ।"
+   },
+   "hideTranslation": {
+      "message": "अनुवाद छुपाएँ:"
+   },
+   "hideTranslation_tt": {
+      "message": "वीडियो चलाते समय अनुवाद छिपाएं। पाठ पर क्लिक करें या अनुवाद देखने के लिए [e] दबाएं।"
+   },
+   "highlightSavedWords_label": {
+      "message": "सहेजे गए शब्दों को हाइलाइट करें"
+   },
+   "hiragana": {
+      "message": "हीरागाना"
+   },
+   "keyboardShortcuts": {
+      "message": "कीबोर्ड शोर्टकट:"
+   },
+   "langCode": {
+      "message": "hi"
+   },
+   "large": {
+      "message": "बड़ा"
+   },
+   "levelDisable": {
+      "message": "स्तर \u003Ctext>: अक्षम करें"
+   },
+   "levelWithNumber": {
+      "message": "स्तर \u003Ctext>: \u003Ctext> शब्द"
+   },
+   "littlePracticeEveryDay": {
+      "message": "भाषा सीखने के लिए रोज़ाना थोड़े अभ्यास की आवश्यकता होती है।"
+   },
+   "loadingDotDotDot": {
+      "message": "लोड हो रहा है..."
+   },
+   "loadingSubtitles": {
+      "message": "- उपशीर्षक लोड हो रहे हैं, कृपया प्रतीक्षा करें ... -"
+   },
+   "loadingTranslations": {
+      "message": "अनुवाद लोड हो रहे हैं ..."
+   },
+   "manageSubscription": {
+      "message": "सदस्यता प्रबंधित करें"
+   },
+   "mode": {
+      "message": "विधि(मोड)"
+   },
+   "mode_free": {
+      "message": "मुफ्त"
+   },
+   "mode_pro": {
+      "message": "प्रो(Pro)"
+   },
+   "mode_trial": {
+      "message": "ट्रायल"
+   },
+   "next": {
+      "message": "आगामी"
+   },
+   "nextSub": {
+      "message": "अगला उपशीर्षक"
+   },
+   "nms_tip": {
+      "message": "क्या आप कोई भाषा सीख रहे हैं? नेटफ्लिक्स के साथ एक भाषा का अध्ययन करने के लिए हमारे नए विस्तार को आजमायें।"
+   },
+   "noCharge": {
+      "message": "अन्य लोगों के विपरीत, हम आपकी आजमाइश के दौरान आपको चार्ज या आपकी सदस्यता को अपने आप अपग्रेड नहीं करेंगे।"
+   },
+   "noCreditCardRequired": {
+      "message": "कोई क्रेडिट कार्ड नहीं चाहिए."
+   },
+   "noDictionary_error": {
+      "message": "एलएलएन एक्सटेंशन अभी तक \u003Ctext> के लिए शब्दकोश का उपयोग करने का समर्थन नहीं करता है। यह सुविधा जल्द ही आ रही है!"
+   },
+   "noHTAvailable": {
+      "message": "चयनित अनुवाद भाषा के लिए कोई मानवीय अनुवाद उपलब्ध नहीं है।"
+   },
+   "noMTAvailable": {
+      "message": "फिल्म के मूल उपशीर्षक(सबटाइटल) के लिए केवल मशीनी अनुवाद उपलब्ध है।"
+   },
+   "noSavedItems": {
+      "message": "कोई सहेजा गया आइटम नहीं है।"
+   },
+   "noTransliterations": {
+      "message": "कोई ट्रांसलिट्रेशन नहीं"
+   },
+   "none": {
+      "message": "कोई नहीं"
+   },
+   "normal": {
+      "message": "सामान्य"
+   },
+   "notAvailable": {
+      "message": "उपलब्ध नहीं है।"
+   },
+   "notNow_btn_string": {
+      "message": "अभी नहीं"
+   },
+   "notSignedIn": {
+      "message": "साइन इन नहीं हुए"
+   },
+   "ok_btn_string": {
+      "message": "ठीक"
+   },
+   "onLeftClick_label": {
+      "message": "बाएं क्लिक पर:"
+   },
+   "onRightClick_label": {
+      "message": "दाएं क्लिक पर:"
+   },
+   "openCloseBottomPanel": {
+      "message": "निचला पैनल खोलें / बंद करें "
+   },
+   "openCloseVerticalView": {
+      "message": "वर्टिकल व्यू खोलें / बंद करें"
+   },
+   "openClose_tooltip": {
+      "message": "खुला / बंद एलएलएन।"
+   },
+   "options": {
+      "message": "विकल्प"
+   },
+   "originalLanguage_label": {
+      "message": "फिल्म मूल भाषा:"
+   },
+   "originalLanguage_tooltip": {
+      "message": "यह नेटफ्लिक्स फिल्म की मूल भाषा है।"
+   },
+   "overrideArrowKeys_label": {
+      "message": "एरो कुंजियाँ ओवरराइड करें"
+   },
+   "overrideArrowKeys_tt": {
+      "message": "एरो कीबोर्ड कुंजियों में ऐसे बदलाव करें कि ये A, S, D कुंजियों जैसे व्यवहार करें"
+   },
+   "pauseOnSubsHover_label": {
+      "message": "माउस होवर पर रोकें"
+   },
+   "pauseOnSubsHover_tt": {
+      "message": "उपशीर्षकों पर माउस के आने पर स्वचालित रूप से रोकें"
+   },
+   "payWithGoogle_btn_string": {
+      "message": "क्रेडिट कार्ड स्वीकार किए जाते हैं।"
+   },
+   "payWithPaddle_btn_string": {
+      "message": "क्रेडिट कार्ड और पेपैल स्वीकार किए जाते हैं।"
+   },
+   "paymentSuccessfulPaddleMessage_line_string": {
+      "message": "नोट: यदि आपके भुगतान को मैन्युअल रूप से जांचा जाना है, तो कृपया कुछ घंटे प्रतीक्षा करें, फिर आपका 'Pro' मोड अपने आप सक्रिय हो जाना चाहिए। विलंब के लिए क्षमा चाहते हैं!"
+   },
+   "paymentSuccessful_line1_string": {
+      "message": "भुगतान सफल! हमारे प्रोजेक्ट को सपोर्ट करने के लिए धन्यवाद!"
+   },
+   "paymentSuccessful_line2_string": {
+      "message": "आप सेटिंग्स से किसी भी समय अपनी सदस्यता रद्द कर सकते हैं।"
+   },
+   "phrases": {
+      "message": "वाक्यांश"
+   },
+   "play": {
+      "message": "प्ले"
+   },
+   "playPause": {
+      "message": "चालू करे / रोकें"
+   },
+   "playbackSpeed": {
+      "message": "प्लेबैक गति:"
+   },
+   "pleaseSelectItemsToExport": {
+      "message": "एक्सपोर्ट करने के लिए कृपया आइटम का चयन करें"
+   },
+   "pleaseSelectSubtitles": {
+      "message": "- कृपया नेटफ्लिक्स प्लेयर में उपशीर्षक चुनें -"
+   },
+   "pleaseSignIn": {
+      "message": "कृपया साइन इन करें।"
+   },
+   "prePaymentModal_line1_string": {
+      "message": "Pro' सुविधाओं का उपयोग जारी रखने के लिए सदस्यता लें।"
+   },
+   "pressSpaceToContinue": {
+      "message": "(जारी रखने के लिए SPACE को दबाएं)"
+   },
+   "previous": {
+      "message": "पिछला"
+   },
+   "previousSub": {
+      "message": "पिछला उपशीर्षक"
+   },
+   "price_string": {
+      "message": "प्रति माह मूल्य है:"
+   },
+   "proFeature": {
+      "message": "प्रो(Pro) फ़ीचर"
+   },
+   "proFeatures_line1_string": {
+      "message": "‘प्रो’ मोड अतिरिक्त सुविधाओं को सक्षम करता है:"
+   },
+   "proFeatures_line2_string": {
+      "message": "मशीनी अनुवाद"
+   },
+   "proFeatures_line3_string": {
+      "message": "शब्दों और वाक्यांशों को सरक्षित करें"
+   },
+   "proFeatures_line4_string": {
+      "message": "डब फिल्मों के लिए उपशीर्षक(सबटाइटल्स)"
+   },
+   "proFeatures_line5_string": {
+      "message": "डेवलपर्स का समर्थन करें"
+   },
+   "proFeatures_tt2_string": {
+      "message": "ये मूल उपशीर्षक(सबटाइटल) के अर्थ के अधिक करीब हैं। वे भाषा छात्रों के लिए अधिक सहायक होते हैं।"
+   },
+   "proFeatures_tt3_string": {
+      "message": "आपके द्वारा संरक्षित किए गए शब्दों को सभी सबटाइटल्स में हाइलाइट किया जाता है। यह आपके सीखने की प्रक्रिया को व्यवस्थित करने में मदद करता है। सहेजे गए शब्दों और वाक्यांशों को Anki(फ्लैशकार्ड प्रोग्राम) में एक्सपोर्ट किया जा सकता है।"
+   },
+   "proFeatures_tt4_string": {
+      "message": "अमेरिकी श्रृंखला के लिए उपशीर्षक बनाने के हमारे प्रयास का समर्थन करें जो अन्य भाषाओं में डब किए गए ऑडियो से मेल खाता है। आप इसका उपयोग कर सकते हैं, उदाहरण के लिए, ब्रेकिंग बैड के साथ जर्मन का अध्ययन करने के लिए।"
+   },
+   "proFeatures_tt5_string": {
+      "message": "हम एक्सटेंशन को बेहतर बनाने और आप तो नई सुविधाएं देने के लिए कड़ी मेहनत कर रहे हैं।"
+   },
+   "problemWithPayment_line1_string": {
+      "message": "आपके सदस्यता भुगतान में कोई समस्या थी।"
+   },
+   "problemWithPayment_line2_string": {
+      "message": "अपनी भुगतान जानकारी अपडेट करने के बाद, कृपया इस विंडो को पुनः लोड करें।"
+   },
+   "purpleWords": {
+      "message": "बैंगनी शब्द"
+   },
+   "redWords": {
+      "message": "लाल शब्द"
+   },
+   "removeAllItems": {
+      "message": "सभी निकालें"
+   },
+   "removeSubtitle": {
+      "message": "निकालें"
+   },
+   "repeat": {
+      "message": "दोहराना"
+   },
+   "reportBug": {
+      "message": "बग की रिपोर्ट करें"
+   },
+   "romaji": {
+      "message": "रोमाजी"
+   },
+   "saveCurrentSubtitle": {
+      "message": "वर्तमान उपशीर्षक सहेजें"
+   },
+   "saveWordTooltip": {
+      "message": "शब्द सहेजें। आप शब्द पर राइट क्लिक करके भी उसे सहेज सकते हैं।"
+   },
+   "saveWord_option": {
+      "message": "शब्द सहेजें"
+   },
+   "savedItems": {
+      "message": "सहेजे गए आइटम"
+   },
+   "settings": {
+      "message": "सेटिंग्स"
+   },
+   "showDictSpeak_option": {
+      "message": "शब्दकोश दिखाएँ और शब्द बोलें"
+   },
+   "showDict_option": {
+      "message": "शब्दकोश दिखाएँ"
+   },
+   "showHumanTranslation_label": {
+      "message": "मानव अनुवाद दिखाएं:"
+   },
+   "showHumanTranslation_tooltip": {
+      "message": "यदि उपलब्ध हो तो अपनी भाषा में स्रोत उपशीर्षक का मानव अनुवाद दिखाएं।"
+   },
+   "showMachineTranslation_label": {
+      "message": "मशीन अनुवाद दिखाएं:"
+   },
+   "showMachineTranslation_tooltip": {
+      "message": "अपनी भाषा में स्रोत उपशीर्षक का एक मशीनी अनुवाद दिखाएँ।"
+   },
+   "showMore": {
+      "message": "और दिखाएं"
+   },
+   "showTransliterations": {
+      "message": "ट्रांसलिट्रेशन दिखाएं"
+   },
+   "signIn": {
+      "message": "साइन इन"
+   },
+   "signInStatus": {
+      "message": "साइन इन स्थिति"
+   },
+   "signOut": {
+      "message": "साइन आउट"
+   },
+   "signedIn": {
+      "message": "साइन इन हुए"
+   },
+   "slowDownPlayback": {
+      "message": "प्लेबैक धीमा करें"
+   },
+   "slowSpeechSegments": {
+      "message": "धीमे भाषण खंड:"
+   },
+   "slowSpeechSegments_tooltip": {
+      "message": "किसी उपशीर्षक के सक्रिय होने पर वीडियो की प्लेबैक गति कम करें (0.8x), जिससे समझने में आसानी हो।"
+   },
+   "small": {
+      "message": "छोटा"
+   },
+   "speakWord_option": {
+      "message": "शब्द बोलें"
+   },
+   "speedUpPlayback": {
+      "message": "प्लेबैक को गति दें"
+   },
+   "subscriptionActive": {
+      "message": "आपकी सदस्यता सक्रिय है."
+   },
+   "subscriptionToProFeatures": {
+      "message": "प्रो' सुविधाओं के लिए सदस्यता"
+   },
+   "subtitleLanguage_label": {
+      "message": "नेटफ्लिक्स उपशीर्षक भाषा:"
+   },
+   "subtitleLanguage_label_yt": {
+      "message": "यूट्यूब उपशीर्षक भाषा:"
+   },
+   "subtitleLanguage_tooltip": {
+      "message": "यह चयनित नेटफ्लिक्स सबटाइटल की भाषा है।"
+   },
+   "subtitleLanguage_tooltip_yt": {
+      "message": "यह चयनित यूट्यूब सबटाइटल की भाषा है।"
+   },
+   "subtitles": {
+      "message": "उपशीर्षक"
+   },
+   "subtitlesNoMatchAudio_error": {
+      "message": "चयनित नेटफ्लिक्स सबटाइटल (\u003Ctext>) ऑडियो से मेल नहीं खाता। उन्हें नेटफ्लिक्स प्लेबैक नियंत्रण में शीर्षक की मूल भाषा (\u003Ctext>) पर सेट करने का प्रयास करें, या आपके द्वारा अध्ययन की जाने वाली भाषा के लिए सुझाए गए शीर्षक के लिए एलएलएन कैटलॉग खोजें।"
+   },
+   "subtitlesNotLoaded_error": {
+      "message": "नेटफ्लिक्स सबटाइटल्स को लोड नहीं किया गया था। क्या नेटफ्लिक्स प्लेबैक मेनू में एक उपशीर्षक भाषा का चयन किया गया है?"
+   },
+   "subtitlesNotLoaded_error_yt": {
+      "message": "यूट्यूब सबटाइटल्स को लोड नहीं किया गया था। क्या यूट्यूब प्लेबैक मेनू में एक उपशीर्षक भाषा का चयन किया गया है?"
+   },
+   "toggleAutoPause": {
+      "message": "ऑटो-पॉज़ को टॉगल करें"
+   },
+   "translationLanguage_label": {
+      "message": "अनुवाद की भाषा:"
+   },
+   "translationLanguage_tooltip": {
+      "message": "यह अनुवाद की भाषा है। इसे अपनी मूल भाषा में सेट करें।"
+   },
+   "translationNotFound": {
+      "message": "अनुवाद नहीं मिला।"
+   },
+   "trialBegunModal_body_string": {
+      "message": "आप का ट्रायल शुरू हो गया है! 'Pro' सुविधाएं उपलब्ध करा दी गई है!"
+   },
+   "tryForFree": {
+      "message": "निशुल्क आज़माएँ"
+   },
+   "turnOnOff": {
+      "message": "चालू/बंद करें"
+   },
+   "updatePayment_btn_string": {
+      "message": "भुगतान जानकारी अपडेट करें"
+   },
+   "usageExamples": {
+      "message": "उपयोग के उदाहरण"
+   },
+   "userDefinedExternalDict_label": {
+      "message": "उपयोगकर्ता शब्दकोश URLs:"
+   },
+   "vocabHighlight_label": {
+      "message": "शब्दावली हाइलाइटिंग:"
+   },
+   "vocabHighlight_tooltip": {
+      "message": "(प्रायोगिक) कम सामान्य शब्दों को ग्रे-आउट करें, जिससे आप उन शब्दों को ध्यान केंद्रित कर सकें जो आपके स्तर पर आपके लिए अधिक महत्वपूर्ण हैं।"
+   },
+   "welcomeModal_line1_string": {
+      "message": "प्रिय उपयोगकर्ताओं,"
+   },
+   "welcomeModal_line2_string": {
+      "message": "हमने एक्सटेंशन में एक महत्वपूर्ण अद्यतन(अपडेट) की है। हमें उम्मीद है कि आप नई सुविधाओं का आनंद लेंगे:"
+   },
+   "welcomeModal_line3_string": {
+      "message": "सबटाइटल अब वीडियो के ऊपर दिखाये जा सकते हैं।"
+   },
+   "welcomeModal_line4_string": {
+      "message": "सभी उपशीर्षक(सबटाइटल) देखने के लिए अतिरिक्त साइड पैनल।"
+   },
+   "welcomeModal_line5_string": {
+      "message": "एशियाई भाषाओं के लिए बेहतर समर्थन।"
+   },
+   "welcomeModal_line6_string": {
+      "message": "मशीनी अनुवाद एक मुफ्त सेवा हुआ करती थी, लेकिन यह सेवा उपलब्ध कराना काफी महंगा होता है। हमें उम्मीद है कि आप समझ सकते हैं।"
+   },
+   "yellowWords": {
+      "message": "पीले शब्द"
+   }
+}

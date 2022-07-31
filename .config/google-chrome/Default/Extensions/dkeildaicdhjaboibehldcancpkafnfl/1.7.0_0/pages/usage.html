@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>使用说明 | 卡片书签</title>
+	<link rel="stylesheet" href="css.css">
+	<!-- <script src="vue.min.js"></script> -->
+	<style>
+	::-webkit-scrollbar{width:0px;height:0px}
+	::-webkit-scrollbar-button:vertical{display:none}
+	/*滚动槽*/
+	::-webkit-scrollbar-track:vertical{background-color:transparent}
+	/*滚动块*/
+    ::-webkit-scrollbar-thumb:vertical{background-color:#eee;border-radius:0px}
+	::-webkit-scrollbar-thumb:vertical:hover{background-color:#ccc}
+	::-webkit-scrollbar-track-piece{background:transparent;border-radius:0px}
+	::-webkit-scrollbar-corner:vertical{background-color:#535353}
+	::-webkit-scrollbar-resizer:vertical{background-color:#FF6E00}
+	
+	body
+	{
+	background:#00BCD4;
+	}
+	
+	#main
+	{
+	margin:auto;
+	width:51%;
+	min-height:100vh;
+	box-sizing:border-box;
+	padding:0px 36px 50px;
+	font-family:"Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+	background:#fff;
+	}
+	
+	#main p
+	{
+	color:#333;
+	font-size:16px;
+	line-height:1.9em;
+	text-align:justify;
+	}
+	
+	#main .head
+	{
+	padding:25px 0 20px;
+	font-size:32px;
+	font-weight:100;
+	color:#000;
+	}
+	
+	#main .title_s
+	{
+	margin-bottom:4px;
+	display:flex;
+	align-items:center;
+	}
+	
+	#main .title_s:nth-of-type(n+2)
+	{
+	margin-top:20px;
+	}
+	
+	#main .title_s div
+	{
+	width:0;
+	height:0;
+	border-style:solid;
+	border-width:6px 0 6px 10px;
+	border-color:transparent transparent transparent #666;
+	}
+	
+	#main .title_s p
+	{
+	margin-left:6px;
+	color:#000;
+	font-size:20px;
+	font-weight:300;
+	}
+	
+	#main .lists p
+	{
+	padding:0px 12px 0px 16px;
+	margin-bottom:14px;
+	}
+	
+	#main .lists p:last-of-type
+	{
+	margin-bottom:0px;
+	}
+	
+	#main .lists em
+	{
+	font-weight:600;
+	}
+	
+	#main .lists a
+	{
+	color:#337acf;
+	text-decoration:underline;
+	}
+	
+	#main .lists img
+	{
+	margin:8px auto;
+	display:block;
+	max-width:100%;
+	cursor:pointer;
+	}
+	
+	#main #footer
+	{
+	margin:80px auto 0px;
+	width:60px;
+	height:2px;
+	background:#00bcd4;
+	}
+	</style>
+</head>
+<body>
+	<div id="main">
+		<p class="head">使用说明</p>
+		
+		<div class="title_s">
+		    <div></div>
+	        <p>使用快捷键</p>
+		</div>
+		<div class="lists">
+	        <p>1. 在 Chrome 上可以使用 <em> Ctrl+B </em> 打开卡片书签（其他浏览器可能会有冲突），你也可以打开 chrome://extensions/shortcuts 找到卡片书签进行修改；</p>
+			<p>2. 打开卡片书签后可以使用 <em> Tab </em> 键选择书签，<em> Enter </em> 打开；</p>
+			<p>3. 在书签上点击右键后可以使用 <em> Shift </em> 键区间选中多个书签；</p>
+		</div>
+		
+		<div class="title_s">
+		    <div></div>
+	        <p>其他 Tips</p>
+		</div>
+		<div class="lists">
+		    <p>搜索书签时，点击搜索结果的图标可以打开其所在的书签夹；</p>
+		    <p>如果需要连续打开多个书签，请在设置中开启 <em>连续打开</em>；</p>
+		</div>
+		
+		<div class="title_s">
+		    <div></div>
+	        <p>联系开发者</p>
+		</div>
+		<div class="lists">
+		    <p>如果你需要获得更多帮助，请联系我：</p>
+			<p>微博：<a href="https://weibo.com/1667387292/GuvwLgtNI">小小KR</a></p>
+			<p>邮箱：pinbo252@gmail.com</p>
+			<p>你也可以在应用商店里评论，但我的回复可能会晚一些，你也可能不会再次查看评论，所以，如果你遇到了问题，建议通过上面的两种方式联系我，通常可以更快得到解决！</p>
+		</div>
+		
+		<div id="footer"></div>
+	</div>
+</body>
+</html>

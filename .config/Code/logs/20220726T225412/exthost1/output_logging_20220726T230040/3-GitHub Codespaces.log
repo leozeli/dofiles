@@ -1,0 +1,11 @@
+[Client I] isRunningInWeb: "false"
+[Client V] Initializing authentication
+[Authentication I] Did not find existing login session
+[Authentication I] Did not find existing login session
+[API I] Signing out due to unsuccessful sign in attempt
+[Client:extension:c7ef I] initializing
+[Client:extension:c7ef I] creating LiveShare ConnectionHub, with type: "main thread"
+[Client:extension:c7ef I] 1 connections used: > object #0: [object Object]
+[Client:extension:c7ef:resolver I] created with protocol "codespaces"
+[RemoteExplorer I] Updating codespace performance info
+[Client:extension:c7ef:resolver V] disposing reason: 'vscode disposed the resolver', disposing 2 objects

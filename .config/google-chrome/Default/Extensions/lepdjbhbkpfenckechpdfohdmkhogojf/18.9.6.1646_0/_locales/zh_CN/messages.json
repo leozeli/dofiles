@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "取消增加"
+   },
+   "Change_name": {
+      "message": "修改名称"
+   },
+   "Collapse": {
+      "message": "收起"
+   },
+   "Collapse_activity_window": {
+      "message": "收起活动窗口"
+   },
+   "Collapse_all_windows": {
+      "message": "收起所有窗口"
+   },
+   "Collapse_tabs": {
+      "message": "收起标签页"
+   },
+   "Current_window": {
+      "message": "当前窗口"
+   },
+   "Customize": {
+      "message": "自定义"
+   },
+   "Delete_group": {
+      "message": "删除组"
+   },
+   "FeedbackandSuggestion": {
+      "message": "反馈和建议"
+   },
+   "Fixed_tabs": {
+      "message": "固定标签页"
+   },
+   "History_tab_group": {
+      "message": "历史标签组"
+   },
+   "New_window": {
+      "message": "新窗口"
+   },
+   "No_search_results_found": {
+      "message": "未找到任何搜索结果"
+   },
+   "Not_collapse": {
+      "message": "不收起"
+   },
+   "Open_all": {
+      "message": "打开全部"
+   },
+   "Open_group": {
+      "message": "打开组"
+   },
+   "Open_with_browser": {
+      "message": "随浏览器打开"
+   },
+   "Recovery_window": {
+      "message": "恢复窗口"
+   },
+   "Save_group": {
+      "message": "保存组"
+   },
+   "Save_tab_group": {
+      "message": "保存标签组"
+   },
+   "Search_group": {
+      "message": "搜索组"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:标签效率管理扩展"
+   },
+   "Tab_group": {
+      "message": "标签组"
+   },
+   "Turn_off": {
+      "message": "关闭"
+   },
+   "Unnamed_tab_group": {
+      "message": "未命名标签组"
+   },
+   "aboutUs": {
+      "message": "关于我们"
+   },
+   "add_tab": {
+      "message": "增加标签"
+   },
+   "contact": {
+      "message": "联系方式"
+   },
+   "d_ago": {
+      "message": "天前"
+   },
+   "donate": {
+      "message": "捐赠"
+   },
+   "extdesc": {
+      "message": "节省95％的内存并减少标签混乱。"
+   },
+   "extname": {
+      "message": "标签管家"
+   },
+   "h_ago": {
+      "message": "小时前"
+   },
+   "m_ago": {
+      "message": "分前"
+   },
+   "mo_ago": {
+      "message": "月前"
+   },
+   "ok": {
+      "message": "确定提交"
+   },
+   "old_tab_empty": {
+      "message": "历史标签组为空"
+   },
+   "old_tab_group": {
+      "message": "以下为旧标签组"
+   },
+   "options": {
+      "message": "选项"
+   },
+   "pin_tab": {
+      "message": "固定标签页"
+   },
+   "placeholder": {
+      "message": "请输入标签组名称"
+   },
+   "praise": {
+      "message": "五星好评"
+   },
+   "privacyPolicy": {
+      "message": "隐私政策"
+   },
+   "rating_button_tate": {
+      "message": "评分"
+   },
+   "rename": {
+      "message": "重命名"
+   },
+   "s_ago": {
+      "message": "秒前"
+   },
+   "say": {
+      "message": "我有话说"
+   },
+   "share": {
+      "message": "分享"
+   },
+   "shareFriends": {
+      "message": "分享我们给你的朋友吧！"
+   },
+   "supportUs": {
+      "message": "你的支持是对我们极大的肯定"
+   },
+   "tab_address": {
+      "message": "标签地址"
+   },
+   "tabs": {
+      "message": "标签页"
+   },
+   "termsOfUse": {
+      "message": "使用条款"
+   },
+   "turn_on": {
+      "message": "打开"
+   },
+   "usproductokey": {
+      "message": "我们的产品好用吗？"
+   },
+   "y_ago": {
+      "message": "年前"
+   }
+}

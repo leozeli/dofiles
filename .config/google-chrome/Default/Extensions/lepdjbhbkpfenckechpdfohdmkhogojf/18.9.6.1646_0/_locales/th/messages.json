@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "ยกเลิก"
+   },
+   "Change_name": {
+      "message": "เปลี่ยนชื่อ"
+   },
+   "Collapse": {
+      "message": "ล่มสลาย"
+   },
+   "Collapse_activity_window": {
+      "message": "ยุบหน้าต่างกิจกรรม"
+   },
+   "Collapse_all_windows": {
+      "message": "ยุบหน้าต่างทั้งหมด"
+   },
+   "Collapse_tabs": {
+      "message": "ยุบแท็บ"
+   },
+   "Current_window": {
+      "message": "หน้าต่างปัจจุบัน"
+   },
+   "Customize": {
+      "message": "ปรับแต่ง"
+   },
+   "Delete_group": {
+      "message": "ลบกลุ่ม"
+   },
+   "FeedbackandSuggestion": {
+      "message": "ข้อเสนอแนะและข้อเสนอแนะ"
+   },
+   "Fixed_tabs": {
+      "message": "แท็บถาวร"
+   },
+   "History_tab_group": {
+      "message": "กลุ่มแท็บประวัติ"
+   },
+   "New_window": {
+      "message": "หน้าต่างใหม่"
+   },
+   "No_search_results_found": {
+      "message": "ไม่พบผลการค้นหา"
+   },
+   "Not_collapse": {
+      "message": "ไม่ยุบ"
+   },
+   "Open_all": {
+      "message": "เปิดทั้งหมด"
+   },
+   "Open_group": {
+      "message": "เปิดกลุ่ม"
+   },
+   "Open_with_browser": {
+      "message": "เปิดด้วยเบราเซอร์"
+   },
+   "Recovery_window": {
+      "message": "หน้าต่างการกู้คืน"
+   },
+   "Save_group": {
+      "message": "บันทึกกลุ่ม"
+   },
+   "Save_tab_group": {
+      "message": "บันทึกกลุ่มแท็บ"
+   },
+   "Search_group": {
+      "message": "กลุ่มการค้นหา"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "กลุ่มแท็บ"
+   },
+   "Turn_off": {
+      "message": "ปิด"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "เกี่ยวกับเรา"
+   },
+   "add_tab": {
+      "message": "เพิ่มแท็บ"
+   },
+   "contact": {
+      "message": "ผู้ติดต่อ"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "บริจาค"
+   },
+   "extdesc": {
+      "message": "บันทึก 95% ของหน่วยความจำและลดความยุ่งเหยิงของฉลาก"
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "ตกลง"
+   },
+   "old_tab_empty": {
+      "message": "กลุ่มแท็บประวัติว่างเปล่า"
+   },
+   "old_tab_group": {
+      "message": "ต่อไปนี้เป็นกลุ่มแท็บเก่า"
+   },
+   "options": {
+      "message": "ตัวเลือก"
+   },
+   "pin_tab": {
+      "message": "ตรึงแท็บ"
+   },
+   "placeholder": {
+      "message": "โปรดป้อนชื่อกลุ่มแท็บ"
+   },
+   "praise": {
+      "message": "การสรรเสริญระดับห้าดาว"
+   },
+   "privacyPolicy": {
+      "message": "นโยบายความเป็นส่วนตัว"
+   },
+   "rating_button_tate": {
+      "message": "จัดอันดับ"
+   },
+   "rename": {
+      "message": "ตั้งชื่อใหม่"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "ฉันมีอะไรจะพูด"
+   },
+   "share": {
+      "message": "แชร์"
+   },
+   "shareFriends": {
+      "message": "แบ่งปันเรากับเพื่อนของคุณ!"
+   },
+   "supportUs": {
+      "message": "การสนับสนุนของคุณเป็นแรงสนับสนุนที่ดีสำหรับเรา"
+   },
+   "tab_address": {
+      "message": "ที่อยู่แท็บ"
+   },
+   "tabs": {
+      "message": "แท็บ"
+   },
+   "termsOfUse": {
+      "message": "ข้อกำหนดการใช้"
+   },
+   "turn_on": {
+      "message": "เปิด"
+   },
+   "usproductokey": {
+      "message": "ผลิตภัณฑ์ของเราไม่เป็นไรกับมัน"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

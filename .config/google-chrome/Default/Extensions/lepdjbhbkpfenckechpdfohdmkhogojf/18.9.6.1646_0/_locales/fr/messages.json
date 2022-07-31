@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Annuler"
+   },
+   "Change_name": {
+      "message": "Changer de nom"
+   },
+   "Collapse": {
+      "message": "Effondrer"
+   },
+   "Collapse_activity_window": {
+      "message": "Réduire la fenêtre d'activité"
+   },
+   "Collapse_all_windows": {
+      "message": "Réduire toutes les fenêtres"
+   },
+   "Collapse_tabs": {
+      "message": "Réduire les onglets"
+   },
+   "Current_window": {
+      "message": "Fenêtre actuelle"
+   },
+   "Customize": {
+      "message": "Personnaliser"
+   },
+   "Delete_group": {
+      "message": "Supprimer le groupe"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Commentaires et suggestions"
+   },
+   "Fixed_tabs": {
+      "message": "Onglet fixe"
+   },
+   "History_tab_group": {
+      "message": "Groupe d'onglets Historique"
+   },
+   "New_window": {
+      "message": "Nouvelle fenetre"
+   },
+   "No_search_results_found": {
+      "message": "Aucun résultat de recherche trouvé"
+   },
+   "Not_collapse": {
+      "message": "Pas s'effondrer"
+   },
+   "Open_all": {
+      "message": "Ouvre tout"
+   },
+   "Open_group": {
+      "message": "Groupe ouvert"
+   },
+   "Open_with_browser": {
+      "message": "Ouvrir avec le navigateur"
+   },
+   "Recovery_window": {
+      "message": "Fenêtre de récupération"
+   },
+   "Save_group": {
+      "message": "Enregistrer le groupe"
+   },
+   "Save_tab_group": {
+      "message": "Enregistrer groupe d'onglets"
+   },
+   "Search_group": {
+      "message": "Groupe de recherche"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Groupe de tabulation"
+   },
+   "Turn_off": {
+      "message": "Éteindre"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "À propos de nous"
+   },
+   "add_tab": {
+      "message": "Ajouter un onglet"
+   },
+   "contact": {
+      "message": "Contact"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Faire un don"
+   },
+   "extdesc": {
+      "message": "Économisez 95% de la mémoire et réduisez le fouillis d'étiquette."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "D'accord"
+   },
+   "old_tab_empty": {
+      "message": "Le groupe d'onglets Historique est vide"
+   },
+   "old_tab_group": {
+      "message": "Ce qui suit est l'ancien groupe d'onglets"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "pin_tab": {
+      "message": "Épingler l'onglet"
+   },
+   "placeholder": {
+      "message": "Veuillez entrer le nom du groupe d'onglets"
+   },
+   "praise": {
+      "message": "Louanges cinq étoiles"
+   },
+   "privacyPolicy": {
+      "message": "Confidentialité"
+   },
+   "rating_button_tate": {
+      "message": "Noter"
+   },
+   "rename": {
+      "message": "Renommer"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "J'ai quelque chose à dire"
+   },
+   "share": {
+      "message": "Partager"
+   },
+   "shareFriends": {
+      "message": "Partagez-nous avec vos amis!"
+   },
+   "supportUs": {
+      "message": "Votre soutien est un grand encouragement pour nous"
+   },
+   "tab_address": {
+      "message": "Adresse de l'onglet"
+   },
+   "tabs": {
+      "message": "Tabs"
+   },
+   "termsOfUse": {
+      "message": "Conditions d’utilisation"
+   },
+   "turn_on": {
+      "message": "Allumer"
+   },
+   "usproductokey": {
+      "message": "Nos produits sont d'accord avec cela?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

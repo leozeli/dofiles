@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Peruuttaa"
+   },
+   "Change_name": {
+      "message": "Vaihtaa nimeä"
+   },
+   "Collapse": {
+      "message": "Romahdus"
+   },
+   "Collapse_activity_window": {
+      "message": "Kutista aktiviteettiikkuna"
+   },
+   "Collapse_all_windows": {
+      "message": "Kutista kaikki ikkunat"
+   },
+   "Collapse_tabs": {
+      "message": "Kutista välilehdet"
+   },
+   "Current_window": {
+      "message": "Nykyinen ikkuna"
+   },
+   "Customize": {
+      "message": "muokata"
+   },
+   "Delete_group": {
+      "message": "Poista ryhmä"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Palaute ja ehdotus"
+   },
+   "Fixed_tabs": {
+      "message": "Kiinteä välilehti"
+   },
+   "History_tab_group": {
+      "message": "Historia-välilehden ryhmä"
+   },
+   "New_window": {
+      "message": "Uusi ikkuna"
+   },
+   "No_search_results_found": {
+      "message": "Hakutuloksia ei löytynyt"
+   },
+   "Not_collapse": {
+      "message": "Ei romahdusta"
+   },
+   "Open_all": {
+      "message": "Avaa kaikki"
+   },
+   "Open_group": {
+      "message": "Avaa ryhmä"
+   },
+   "Open_with_browser": {
+      "message": "Avaa selaimella"
+   },
+   "Recovery_window": {
+      "message": "Palautusikkuna"
+   },
+   "Save_group": {
+      "message": "Tallenna ryhmä"
+   },
+   "Save_tab_group": {
+      "message": "Tallenna välilehtiryhmä"
+   },
+   "Search_group": {
+      "message": "Hakuryhmä"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Tab-ryhmä"
+   },
+   "Turn_off": {
+      "message": "Sammuttaa"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "Meistä"
+   },
+   "add_tab": {
+      "message": "Lisää välilehti"
+   },
+   "contact": {
+      "message": "Yhteyshenkilö"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Lahjoita"
+   },
+   "extdesc": {
+      "message": "Tallenna 95% muistista ja vähennä tarrahäiriöitä."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "kunnossa"
+   },
+   "old_tab_empty": {
+      "message": "Historia-välilehti-ryhmä on tyhjä"
+   },
+   "old_tab_group": {
+      "message": "Seuraavassa on vanha välilehtiryhmä"
+   },
+   "options": {
+      "message": "Asetukset"
+   },
+   "pin_tab": {
+      "message": "Kiinnitä välilehti"
+   },
+   "placeholder": {
+      "message": "Anna välilehden ryhmän nimi"
+   },
+   "praise": {
+      "message": "Viiden tähden kiitosta"
+   },
+   "privacyPolicy": {
+      "message": "Tietosuojakäytäntö"
+   },
+   "rating_button_tate": {
+      "message": "Arvioi"
+   },
+   "rename": {
+      "message": "Nimeä uudelleen"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "minulla on asiaa"
+   },
+   "share": {
+      "message": "Jaa"
+   },
+   "shareFriends": {
+      "message": "Jaa meidät ystäviesi kanssa!"
+   },
+   "supportUs": {
+      "message": "Sinun kannatuksesi on suuri rohkaisu meille"
+   },
+   "tab_address": {
+      "message": "Välilehden osoite"
+   },
+   "tabs": {
+      "message": "välilehdet"
+   },
+   "termsOfUse": {
+      "message": "Käyttöehdot"
+   },
+   "turn_on": {
+      "message": "Kiihottua"
+   },
+   "usproductokey": {
+      "message": "Tuotteemme ovat kunnossa sen kanssa?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

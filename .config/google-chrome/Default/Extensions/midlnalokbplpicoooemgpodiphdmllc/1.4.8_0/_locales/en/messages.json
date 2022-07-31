@@ -1,0 +1,10 @@
+{
+   "app_description": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Quickly and comfortably search multiple (e.g. css, git, python) programming documents in the NewTab."
+   },
+   "app_name": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Search Documents in the NewTab"
+   }
+}

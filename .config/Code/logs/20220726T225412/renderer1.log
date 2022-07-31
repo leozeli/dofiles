@@ -1,0 +1,23 @@
+[2022-07-26 22:54:13.105] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-07-26 22:54:13.105] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-07-26 22:54:13.503] [renderer1] [error] [Extension Host] (node:94486) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-07-26 22:59:47.083] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-07-26 22:59:47.083] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-07-26 22:59:47.699] [renderer1] [error] [Extension Host] (node:95177) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-07-26 23:00:08.352] [renderer1] [error] RequestService#request (browser) - error https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/jupyter/2022.7.1002091028/1658827926850/Microsoft.VisualStudio.Code.Manifest {}
+[2022-07-26 23:00:15.744] [renderer1] [error] RequestService#request (browser) - error https://ms-toolsai.gallery.vsassets.io/_apis/public/gallery/publisher/ms-toolsai/extension/jupyter/2022.7.1002091028/assetbyname/Microsoft.VisualStudio.Code.Manifest {}
+[2022-07-26 23:00:15.744] [renderer1] [error] XHR failed: Error: XHR failed
+    at XMLHttpRequest.m.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:9062)
+[2022-07-26 23:00:17.655] [renderer1] [error] XHR failed: Error: XHR failed
+    at XMLHttpRequest.D.onerror (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:16:51050)
+[2022-07-26 23:00:40.063] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-07-26 23:00:40.064] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-07-26 23:00:40.729] [renderer1] [error] [Extension Host] (node:95413) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-07-26 23:35:58.005] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-07-26 23:35:58.938] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-07-26 23:36:00.178] [renderer1] [error] [hollowtree.vue-snippets]: Unknown language in `contributes.vue-snippets.language`. Provided value: vue-html
+[2022-07-26 23:36:01.410] [renderer1] [error] [Extension Host] (node:126302) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)

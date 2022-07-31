@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+  <style>
+    html {
+      width: 100%;
+      height: 100%;
+    }
+
+    body {
+      overflow: hidden !important;
+      margin: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+  </style>
+  <link href="/assets/css/font-awesome.min.css" rel="stylesheet" />
+  <link href="/pages/content/highlight.min.css" rel="stylesheet" />
+  <link href="/pages/content/app.css" rel="stylesheet" />
+  <!-- clearly placeholder -->
+</head>
+
+<body id="root">
+  <div id="popshare">
+    <canvas id="popshare-image"></canvas>
+  </div>
+  <div id="clearly-btn"><img src="/assets/icons/active/ic_48.png" /></div>
+  <div id="alert" class="alert alert-ok">Copy down</div>
+  <div id="poptranslate">
+    <div id="poptranslate-toolbox">
+      <span>Translation language:</span> <select id="poptranslate-lang">
+        <option value="af">Afrikaans</option>
+        <option value="sq">Albanian</option>
+        <option value="am">Amharic</option>
+        <option value="ar">Arabic</option>
+        <option value="hy">Armenian</option>
+        <option value="az">Azerbaijani</option>
+        <option value="eu">Basque</option>
+        <option value="be">Belarusian</option>
+        <option value="bn">Bengali</option>
+        <option value="bs">Bosnian</option>
+        <option value="bg">Bulgarian</option>
+        <option value="ca">Catalan</option>
+        <option value="ceb">Cebuano</option>
+        <option value="ny">Chichewa</option>
+        <option value="zh-CN">Chinese (Simplified)</option>
+        <option value="zh-TW">Chinese (Traditional)</option>
+        <option value="co">Corsican</option>
+        <option value="hr">Croatian</option>
+        <option value="cs">Czech</option>
+        <option value="da">Danish</option>
+        <option value="nl">Dutch</option>
+        <option value="en">English</option>
+        <option value="eo">Esperanto</option>
+        <option value="et">Estonian</option>
+        <option value="tl">Filipino</option>
+        <option value="fi">Finnish</option>
+        <option value="fr">French</option>
+        <option value="fy">Frisian</option>
+        <option value="gl">Galician</option>
+        <option value="ka">Georgian</option>
+        <option value="de">German</option>
+        <option value="el">Greek</option>
+        <option value="gu">Gujarati</option>
+        <option value="ht">Haitian Creole</option>
+        <option value="ha">Hausa</option>
+        <option value="haw">Hawaiian</option>
+        <option value="iw">Hebrew</option>
+        <option value="hi">Hindi</option>
+        <option value="hmn">Hmong</option>
+        <option value="hu">Hungarian</option>
+        <option value="is">Icelandic</option>
+        <option value="ig">Igbo</option>
+        <option value="id">Indonesian</option>
+        <option value="ga">Irish</option>
+        <option value="it">Italian</option>
+        <option value="ja">Japanese</option>
+        <option value="jw">Javanese</option>
+        <option value="kn">Kannada</option>
+        <option value="kk">Kazakh</option>
+        <option value="km">Khmer</option>
+        <option value="ko">Korean</option>
+        <option value="ku">Kurdish (Kurmanji)</option>
+        <option value="ky">Kyrgyz</option>
+        <option value="lo">Lao</option>
+        <option value="la">Latin</option>
+        <option value="lv">Latvian</option>
+        <option value="lt">Lithuanian</option>
+        <option value="lb">Luxembourgish</option>
+        <option value="mk">Macedonian</option>
+        <option value="mg">Malagasy</option>
+        <option value="ms">Malay</option>
+        <option value="ml">Malayalam</option>
+        <option value="mt">Maltese</option>
+        <option value="mi">Maori</option>
+        <option value="mr">Marathi</option>
+        <option value="mn">Mongolian</option>
+        <option value="my">Myanmar (Burmese)</option>
+        <option value="ne">Nepali</option>
+        <option value="no">Norwegian</option>
+        <option value="ps">Pashto</option>
+        <option value="fa">Persian</option>
+        <option value="pl">Polish</option>
+        <option value="pt">Portuguese</option>
+        <option value="pa">Punjabi</option>
+        <option value="ro">Romanian</option>
+        <option value="ru">Russian</option>
+        <option value="sm">Samoan</option>
+        <option value="gd">Scots Gaelic</option>
+        <option value="sr">Serbian</option>
+        <option value="st">Sesotho</option>
+        <option value="sn">Shona</option>
+        <option value="sd">Sindhi</option>
+        <option value="si">Sinhala</option>
+        <option value="sk">Slovak</option>
+        <option value="sl">Slovenian</option>
+        <option value="so">Somali</option>
+        <option value="es">Spanish</option>
+        <option value="su">Sundanese</option>
+        <option value="sw">Swahili</option>
+        <option value="sv">Swedish</option>
+        <option value="tg">Tajik</option>
+        <option value="ta">Tamil</option>
+        <option value="te">Telugu</option>
+        <option value="th">Thai</option>
+        <option value="tr">Turkish</option>
+        <option value="uk">Ukrainian</option>
+        <option value="ur">Urdu</option>
+        <option value="uz">Uzbek</option>
+        <option value="vi">Vietnamese</option>
+        <option value="cy">Welsh</option>
+        <option value="xh">Xhosa</option>
+        <option value="yi">Yiddish</option>
+        <option value="yo">Yoruba</option>
+        <option value="zu">Zulu</option>
+      </select>
+    </div>
+    <div id="poptranslate-content">
+      <div id="poptranslate-word"></div>
+      <div id="poptranslate-voice">
+        <i class="material-icons" id="poptranslate-btn-speak">volume_up</i>
+        <span></span>
+      </div>
+      <div id="poptranslate-explain"></div>
+      <div id="poptranslate-translit"></div>
+      <div id="poptranslate-dict"></div>
+    </div>
+  </div>
+  <div id="popmenu">
+    <div id="popmenu-overlay"></div>
+    <div id="popmenu-container">
+      <li id="popmenu-translate" class="popmenu-item" data-type="translate">Translate</li>
+      <li id="popmenu-copy" class="popmenu-item" data-type="copy">Copy</li>
+      <!-- <li id="popmenu-highlight" class="popmenu-item" data-type="highlight">Highlight</li> -->
+      <li id="popmenu-search" class="popmenu-item" data-type="search">Search</li>
+      <li id="popmenu-wiki" class="popmenu-item" data-type="wiki">Wiki</li>
+      <!-- <li id="popmenu-share" class="popmenu-item" data-type="share">Share</li> -->
+    </div>
+    <!--<li id="popmenu-share">Share</li>-->
+  </div>
+  <div id="outline">
+    <div id="outlines" class="outlines"></div>
+    <div id="links-container">
+      <h5 id="links-head">Links</h5>
+      <div id="links" class="links"></div>
+    </div>
+  </div>
+  <div id="main">
+    <div id="loading">
+      <div class="loading-content">
+        <div class="loading-icon">
+          <div class="line line-1"></div>
+          <div class="line line-2"></div>
+          <div class="line line-3"></div>
+          <div class="line line-4"></div>
+        </div>
+        <span>Content is analyzing...</span>
+      </div>
+    </div>
+
+    <div id="container"></div>
+
+    <footer id="footer" data-html2canvas-ignore="true">
+      <div id="share" class="share">
+        <span class="share-title">Does Clearly work fine?</span>
+        <div id="share-default" class="share-overlay">
+          <i id="btn-thumb-up" class="material-icons thumb thumb-up">thumb_up</i>
+          <i id="btn-thumb-down" class="material-icons thumb thumb-down">thumb_down</i>
+        </div>
+        <div id="share-no" class="share-overlay">
+          <span class="share-letter">We have received your feedback</span>
+          <a id="btn-cantact" class="btn-cantact" href="https://clearlyreader.com/r/report" target="_blank"><i
+              class="material-icons">mail_outline</i>Contact us</a>
+        </div>
+        <div id="share-yes" class="share-overlay">
+          <span class="share-letter">Help Clearly Reader to better?</span>
+          <a id="btn-comments" href="https://clearlyreader.com/r/reviews" target="_blank"><i
+              class="material-icons">star_border</i>Give stars</a>
+        </div>
+      </div>
+
+      <div class="moretips">
+        <span class="shortcut">Tips: <strong>ALT/OPTION + R</strong> to Toggle, <strong>ESC</strong> to Close.</span>
+        <a class="feedback" target="_blank" href="https://clearlyreader.com/r/subscribe"><i
+            class="material-icons">mail</i>Subscribe newsletter</a>
+        <!-- <a target="_blank" class="donate" href="https://clearlyreader.com/r/feedback">Feedback</a> -->
+      </div>
+    </footer>
+
+    <!-- <div id="print-footer">
+      Generate by Clearly Reader
+    </div> -->
+
+  </div>
+  <div id="tool">
+    <!--
+      <div class="menu">
+        <div class="form-group">
+          <span class="btn" id="translate-start">开始</span>
+        </div>
+      </div>
+      -->
+
+    <div class="menu">
+      <span id="btn-close"><i class="material-icons">cancel</i></span>
+    </div>
+
+    <div class="menu" menu-tooltip="Theme Settings" click-state="showDialog=style">
+      <span id="btn-style"></span>
+    </div>
+
+    <div class="menu" id="menu-speak">
+      <span id="btn-speak" click-state="speak=START/PAUSE"><i class="material-icons active"
+          id="menu-speak-icon">volume_down</i></span>
+      <div class="menu-sub control">
+        <div class="control-wrapper">
+          <div class="section-control">
+            <span class="btn-control" click-state="speak=RESTART"><i class="material-icons">replay</i></span>
+            <span class="btn-control lg" click-state="speak=START" show-state-speak="PAUSE,@,STOP"><i
+                class="material-icons">play_circle_filled</i></span>
+            <span class="btn-control lg" click-state="speak=PAUSE" show-state-speak="START"><i
+                class="material-icons">pause_circle_filled</i></span>
+            <span class="btn-control stop" click-state="speak=STOP"><i class="material-icons">stop</i></span>
+          </div>
+
+          <div class="section-speed">
+            <span class="btn-speed" click-config="speakRate=0.5">0.5x</span>
+            <span class="btn-speed" click-config="speakRate=1">1x</span>
+            <span class="btn-speed" click-config="speakRate=1.5">1.5x</span>
+            <span class="btn-speed" click-config="speakRate=2">2x</span>
+          </div>
+
+          <div class="section-voice" click-state="showVoiceSelector=1/0">
+            <div class="label">Voice</div>
+            <div class="value">
+              <span bind="speakVoice"></span>
+              <i class="material-icons">expand_more</i>
+            </div>
+          </div>
+
+          <div class="voice-seletor" show-state-showVoiceSelector="1">
+            <div id="menu-voices"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="menu" id="menu-export">
+      <span><i class="material-icons" id="output">file_download</i></span>
+      <ul class="menu-sub">
+        <li class="menu-sub-header">Export to</li>
+        <li id="btn-print">PDF</li>
+        <li id="btn-export-doc">Doc</li>
+        <li id="btn-export-md">Markdown</li>
+      </ul>
+    </div>
+
+    <div class="menu" id="menu-copy">
+      <span><i class="material-icons btn-copy">content_copy</i></span>
+      <ul class="menu-sub">
+        <li class="menu-sub-header">Copy as</li>
+        <li id="btn-copy-article">Rich text</li>
+        <li id="btn-copy-markdown">Markdown</li>
+        <li id="btn-copy-html">HTML</li>
+      </ul>
+    </div>
+
+    <div class="menu" id="menu-fullscreen" menu-tooltip="Fullscreen">
+      <span><i class="material-icons" id="menu-fullscreen-icon">fullscreen</i></span>
+    </div>
+
+    <div class="menu" menu-tooltip="Info" id="btn-about" click-state="showDialog=about">
+      <span><i class="material-icons">info</i></span>
+    </div>
+
+
+    <!-- dialog style settings -->
+    <div class="dialog" id="dialog-style">
+      <div class="overlay-backdrop">
+        <div class="setting">
+          <div class="dialog-header">
+            <div class="dialog-title">Style Setting</div>
+            <div class="dialog-btn-close" click-state="showDialog="><i class="material-icons">close</i></div>
+          </div>
+
+          <div class="tcell">
+            <div class="form-label">
+              <span>Font size</span>
+              <span id="value-zoom" class="form-value"></span>
+            </div>
+            <div class="form-group">
+              <span class="btn-letter" id="btn-zoomin">A</span>
+              <span class="btn-letter" id="btn-zoomout">A</span>
+            </div>
+          </div>
+
+          <div class="tcell">
+            <div class="form-label">
+              <span>Page wide</span>
+              <span id="value-width" class="form-value"></span>
+              <span id="content-width" class="form-value"></span>
+            </div>
+            <div class="form-group">
+              <div class="btn-letter btn-content-width" id="btn-content-zoomin"></div>
+              <div class="btn-letter btn-content-width" id="btn-content-zoomout"></div>
+            </div>
+          </div>
+
+          <div class="tcell" id="themes-auto">
+            <div class="form-label">Auto Theme</div>
+            <div class="form-group">
+              <div id="switch-theme" class="switch">
+                <span class="slider"></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="tcell" id="themes">
+            <div class="form-label">Theme</div>
+            <div class="form-group">
+              <span class="btn-theme btn-theme-default"></span>
+              <span class="btn-theme btn-theme-yellow"></span>
+              <span class="btn-theme btn-theme-gray"></span>
+              <span class="btn-theme btn-theme-black"></span>
+            </div>
+          </div>
+
+          <div class="tcell" id="themes-day">
+            <div class="form-label">Day Theme</div>
+            <div class="form-group">
+              <span class="btn-theme btn-theme-default"></span>
+              <span class="btn-theme btn-theme-yellow"></span>
+            </div>
+          </div>
+
+          <div class="tcell" id="themes-night">
+            <div class="form-label">Night Theme</div>
+            <div class="form-group">
+              <span class="btn-theme btn-theme-gray"></span>
+              <span class="btn-theme btn-theme-black"></span>
+            </div>
+          </div>
+
+          <div class="tcell">
+            <div class="form-label">Background</div>
+            <div class="form-group">
+              <div id="switch-background" class="switch">
+                <span class="slider"></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="tcell flex-start">
+            <div class="form-label">Fonts</div>
+            <div id="font-select-style" class="form-group"></div>
+          </div>
+
+          <div class="tcell">
+            <div class="form-label">Code Highlight</div>
+            <div class="form-group">
+              <div id="switch-syntax" class="switch">
+                <span class="slider"></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="tcell">
+            <div class="form-label">Outline</div>
+            <div class="form-group">
+              <div id="switch-outline" class="switch">
+                <span class="slider"></span>
+              </div>
+            </div>
+          </div>
+
+          <div class="tcell">
+            <div class="form-label">Open Link in New Window</div>
+            <div class="form-group">
+              <div id="switch-linkopennew" class="switch">
+                <span class="slider"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- dialog style settings -->
+    <div class="dialog" id="dialog-about">
+      <div class="overlay-backdrop">
+        <div class="setting dialog-about">
+          <div class="dialog-header">
+            <div class="dialog-title">About Clearly Reader</div>
+            <div class="dialog-btn-close" click-state="showDialog="><i class="material-icons">close</i></div>
+          </div>
+          <div class="changelog-wrapper">
+            <h5>What's New in <strong bind="version"></strong></h5>
+            <ul>
+              <li class="item">
+                <p class="title">Support copy as HTML</p>
+              </li>
+              <li class="item">
+                <p class="title">Fix not works in Opera</p>
+              </li>
+              <li class="item">
+                <p class="title">Improve readability algorithm</p>
+              </li>
+              <li class="item">
+                <p class="title">Fix bugs that users reported</p>
+              </li>
+            </ul>
+
+            <a href="https://clearlyreader.com/changelog" target="_blank" class="btn-changelog-more">
+              <i class="material-icons">history</i>
+              <span>See full changelogs</span>
+            </a>
+          </div>
+
+          <div class="tcell link">
+            <h5>Give feedbacks</h5>
+            <div class="btn-group">
+              <a href="https://clearlyreader.com/r/report" target="_blank" class="btn-outline">
+                <i class="material-icons">bug_report</i>
+                <span>Report bugs</span>
+              </a>
+
+              <a href="https://clearlyreader.com/r/subscribe" target="_blank" class="btn-outline">
+                <i class="material-icons">star</i>
+                <span>Give stars</span>
+              </a>
+            </div>
+          </div>
+          <div class="tcell link last">
+            <h5>Useful links</h5>
+            <div class="btn-group">
+              <a href="https://clearlyreader.com" target="_blank">
+                <i class="material-icons">movie</i>
+                <span>Watch intro</span>
+              </a>
+              <a href="https://clearlyreader.com/r/subscribe" target="_blank">
+                <i class="material-icons">email</i>
+                <span>Subscribe newsletter</span>
+              </a>
+              <a href="https://clearlyreader.com/r/donate" target="_blank" class="red">
+                <i class="material-icons">favorite</i>
+                <span>Buy me a coffee</span>
+              </a>
+            </div>
+          </div>
+          <div class="tcell link last">
+            <h5>Our products</h5>
+            <a href="https://relingo.net?utm_source=clearly&utm_medium=intro" target="_blank"
+              class="item-product">Relingo - Master words from any webpage</a>
+          </div>
+          <div class="footer-brand">Built by LESSLAB</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!--div class="menu" id="menu-translate" menu-tooltip="TRANSLATE">
+        <span><i class="material-icons" id="menu-translate-icon">translate</i></span>
+    </div-->
+
+  <!-- <div class="menu" id="menu-speak" menu-tooltip="AUDIO">
+        <span><i class="material-icons" id="menu-speak-icon">volume_down</i></span> -->
+  <!--
+            <span class="btn" id="btn-speak-pause" style="display:none"><i class="fa fa-pause"></i></span>
+            <span class="btn" id="btn-speak-resume" style="display:none"><i class="fa fa-play"></i></span>
+            <span class="btn" id="btn-speak-stop" style="display:none"><i class="fa fa-stop"></i></span>
+            -->
+  <!-- </div> -->
+  <script src="/pages/content/jquery.min-v3.3.1.js" type="text/javascript"></script>
+  <script src="/pages/content/purify.min-v2.0.js" type="text/javascript"></script>
+  <script src="/pages/content/turndown.min.js" type="text/javascript"></script>
+  <script src="/pages/content/highlight.min.js" type="text/javascript"></script>
+  <script src="/pages/content/mark.min.js" type="text/javascript"></script>
+  <!-- <script src="/pages/content/html2canvas.js" type="text/javascript"></script> -->
+  <!-- <script src="/pages/content/jspdf.umd.min.js" type="text/javascript"></script> -->
+  <!-- <script src="/pages/content/_languageData.js" type="text/javascript"></script> -->
+  <!-- <script src="/pages/content/guessLanguage.js" type="text/javascript"></script> -->
+  <script src="/pages/content/app.js" type="text/javascript"></script>
+</body>
+
+</html>

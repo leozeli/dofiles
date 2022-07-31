@@ -1,0 +1,554 @@
+{
+   "allItems": {
+      "message": "모든 아이템"
+   },
+   "allLanguages": {
+      "message": "모든 언어"
+   },
+   "allTypes": {
+      "message": "모든 유형"
+   },
+   "alreadyUserPleaseSignIn": {
+      "message": "이미 사용자입니까? 로그인 해주십시오."
+   },
+   "alsoUseASD": {
+      "message": "다음과 같은 키를 사용할 수도 있습니다 : A, S, D, Space"
+   },
+   "appDesc": {
+      "message": "당신이 공부하는 언어로 영화와 드라마를 보면서 자신의 언어실력을 즐겁고 효과적인 방법으로 향상 시키세요."
+   },
+   "appName": {
+      "message": "Language Reactor"
+   },
+   "appNameTr": {
+      "message": "Netflix로 언어 공부하기"
+   },
+   "areYouSure": {
+      "message": "계속하시겠습니까?"
+   },
+   "audioLanguage_label": {
+      "message": "Netflix 오디오 언어 :"
+   },
+   "audioLanguage_tooltip": {
+      "message": "선택하신 Netflix 오디오 트랙의 언어입니다."
+   },
+   "audioNoMatchSubtitles_error": {
+      "message": "선택한 Netflix 오디오 트랙  (\u003Ctext>)이 자막과 일치하지 않을 수 있습니다. Netflix 재생 컨트롤에서 작품의 원 언어 (\u003Ctext>)로 설정하거나 Language Reactor 카탈로그에서 검색 한 언어의 추천 작품을 검색하세요."
+   },
+   "autoPause": {
+      "message": "자동 일시 중지"
+   },
+   "autoPause_tooltip": {
+      "message": "모든 자막의 마지막 부분에서 자동으로 재생을 일시 중지합니다."
+   },
+   "autoPaused": {
+      "message": "자동 일시중지됨"
+   },
+   "blueWords": {
+      "message": "파란색 단어"
+   },
+   "cancelGoogle_line_string": {
+      "message": "참고 : 'Pro'모드는 마지막 결제 후 30 일 동안 활성 상태로 유지됩니다."
+   },
+   "cancelSubscription_btn_string": {
+      "message": "구독 취소"
+   },
+   "catalogue": {
+      "message": "목록"
+   },
+   "catalogue_tooltip": {
+      "message": "Language Reactor과 사용하기에 적합한 영화 및 시리즈를 찾으세요."
+   },
+   "choosePaymentProvider_line_string": {
+      "message": "결제 방법을 선택하십시오."
+   },
+   "clickAStar": {
+      "message": "자막을 저장하려면 별을 클릭하고, 단어를 저장하려면 사전에 색상 버튼을 클릭하십시오."
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "continueWithGoogle_btn_string": {
+      "message": "Google 계정으로 계속하기"
+   },
+   "doNothing_option": {
+      "message": "아무 조치도 필요 없음"
+   },
+   "doYouLikeOurExtension": {
+      "message": "Language Reactor을 좋아하세요?"
+   },
+   "download": {
+      "message": "다운로드"
+   },
+   "enableLln": {
+      "message": "Language Reactor 활성화"
+   },
+   "errorApology": {
+      "message": "Language Reactor에서 오류가 발생되었음을 발견했습니다. 개발자들에게 이 문제에 대해 알렸습니다. 페이지를 새로 고침하시거나 24 시간 후에 다시 시도하세요. 불편을 드려 죄송합니다. 페이스 북 페이지에서 업데이트를 확인해주세요. 오류 메시지 : \u003Ctext>"
+   },
+   "exportAsCsv": {
+      "message": "CSV로 내보내기"
+   },
+   "exportAsJson": {
+      "message": "JSON으로 내보내기"
+   },
+   "exportToAnki": {
+      "message": "Anki로 보내기"
+   },
+   "extraLarge": {
+      "message": "아주 크게"
+   },
+   "extraSmall": {
+      "message": "매우 작게"
+   },
+   "facebook": {
+      "message": "페이스 북"
+   },
+   "facebook_tooltip": {
+      "message": "저희 페이지에 좋아요를 눌러주시고 최신 소식을 확인하세요."
+   },
+   "featureComingSoon": {
+      "message": "곧 제공 될 기능입니다."
+   },
+   "feedback": {
+      "message": "피드백"
+   },
+   "feedback_tooltip": {
+      "message": "뭔가 잘못되었나요? 특정 기능을 요청하고 싶으신가요?"
+   },
+   "firstSubtitleNotReached": {
+      "message": "- 첫 번째 자막이 아직 시작되지 않았습니다. -"
+   },
+   "fix": {
+      "message": "변경"
+   },
+   "fontSize_label": {
+      "message": "폰트 크기:"
+   },
+   "freeTrial3_line_string": {
+      "message": "3일 무료 체험판을 통해  'Pro'모드를 사용해 보실 수 있습니다."
+   },
+   "freeTrial7_line_string": {
+      "message": "7일 무료 체험판을 통해  'Pro'모드를 사용해 보실 수 있습니다."
+   },
+   "greenWords": {
+      "message": "녹색 단어"
+   },
+   "help": {
+      "message": "도움"
+   },
+   "help_tooltip": {
+      "message": "사용 지침, 팁."
+   },
+   "hideTranslation": {
+      "message": "번역 숨기기:"
+   },
+   "hideTranslation_tt": {
+      "message": "비디오 재생 중일 때 번역 숨기기. 번역을 보시려면 텍스트를 클릭하거나 [e]를 누르세요. "
+   },
+   "highlightSavedWords_label": {
+      "message": "저장한 단어 강조"
+   },
+   "hiragana": {
+      "message": "히라가나"
+   },
+   "keyboardShortcuts": {
+      "message": "키보드 단축키:"
+   },
+   "langCode": {
+      "message": "ko"
+   },
+   "large": {
+      "message": "크게"
+   },
+   "levelDisable": {
+      "message": "레벨 \u003Ctext> : 사용 중지"
+   },
+   "levelWithNumber": {
+      "message": "레벨 \u003Ctext> : \u003Ctext> 단어"
+   },
+   "littlePracticeEveryDay": {
+      "message": "언어 학습은 매일 조금씩 연습하는 것이 필요합니다. "
+   },
+   "loadingDotDotDot": {
+      "message": "로드 중 ..."
+   },
+   "loadingSubtitles": {
+      "message": "- 자막 로딩 중입니다. 잠시 기다려주세요 ... -"
+   },
+   "loadingTranslations": {
+      "message": "번역 자막 로딩 중 ..."
+   },
+   "manageSubscription": {
+      "message": "구독 관리"
+   },
+   "mode": {
+      "message": "모드:"
+   },
+   "mode_free": {
+      "message": "무료"
+   },
+   "mode_pro": {
+      "message": "Pro"
+   },
+   "mode_trial": {
+      "message": "체험판"
+   },
+   "next": {
+      "message": "다음"
+   },
+   "nextSub": {
+      "message": "다음 자막"
+   },
+   "nms_tip": {
+      "message": "언어를 공부하고 계신가요? 넷플릭스 영상들과 함께 언어를 공부하는 저희 익스텐션을 사용해보세요!"
+   },
+   "noCharge": {
+      "message": "다른 회사들과 다르게 저희는 체험 기간 동안 무료이며 자동으로 구독을 갱신하지 않을 것입니다."
+   },
+   "noCreditCardRequired": {
+      "message": "신용 카드 필요 없음."
+   },
+   "noDictionary_error": {
+      "message": "Language Reactor 익스텐션 프로그램은 \u003Ctext>에 대한 사전 사용을 아직 지원하지 않습니다. 이 기능은 조만간 제공 될 예정입니다."
+   },
+   "noHTAvailable": {
+      "message": "선택한 번역 언어에 대해 인간 번역이 제공되지 않습니다."
+   },
+   "noMTAvailable": {
+      "message": "기계 번역은 영화의 원래 자막에서만 사용할 수 있습니다."
+   },
+   "noSavedItems": {
+      "message": "저장된 항목이 없습니다."
+   },
+   "noTransliterations": {
+      "message": "음역 없음"
+   },
+   "none": {
+      "message": "없음"
+   },
+   "normal": {
+      "message": "보통"
+   },
+   "notAvailable": {
+      "message": "사용 불가."
+   },
+   "notNow_btn_string": {
+      "message": "나중에 하기"
+   },
+   "notSignedIn": {
+      "message": "로그인되지 않음"
+   },
+   "ok_btn_string": {
+      "message": "OK"
+   },
+   "onLeftClick_label": {
+      "message": "왼쪽 클릭:"
+   },
+   "onRightClick_label": {
+      "message": "오른쪽 클릭:"
+   },
+   "openCloseBottomPanel": {
+      "message": "하단 패널 열기/닫기"
+   },
+   "openCloseVerticalView": {
+      "message": "세로보기 열기 / 닫기"
+   },
+   "openClose_tooltip": {
+      "message": "Language Reactor 열기 / 닫기."
+   },
+   "options": {
+      "message": "옵션"
+   },
+   "originalLanguage_label": {
+      "message": "작품 원문 언어 :"
+   },
+   "originalLanguage_tooltip": {
+      "message": "이것은 Netflix 작품의 원 언어입니다."
+   },
+   "overrideArrowKeys_label": {
+      "message": "화살표 키 재지정"
+   },
+   "overrideArrowKeys_tt": {
+      "message": "키보드 화살표 키를 A, S, D 키와 동일하게 작동시킵니다."
+   },
+   "pauseOnSubsHover_label": {
+      "message": "마우스를 올려 일시 중지"
+   },
+   "pauseOnSubsHover_tt": {
+      "message": "제목 위에 마우스를 올리면 자동으로 일시 중지됩니다."
+   },
+   "payWithGoogle_btn_string": {
+      "message": "신용 카드를 사용할 수 있습니다."
+   },
+   "payWithPaddle_btn_string": {
+      "message": "신용 카드 및 페이팔을 사용할 수 있습니다."
+   },
+   "paymentSuccessfulPaddleMessage_line_string": {
+      "message": "참고 : 만약 당신의 결제를 수동으로 확인해야하는 경우에는, 몇 시간 후에 'Pro'모드가 자동으로 활성화 될 것입니다. 지연 되는 점에 대해 양해 부탁드립니다!"
+   },
+   "paymentSuccessful_line1_string": {
+      "message": "결제 완료! 서비스를 이용해주셔서 감사합니다!"
+   },
+   "paymentSuccessful_line2_string": {
+      "message": "설정에서 언제든지 구독을 취소 할 수 있습니다."
+   },
+   "phrases": {
+      "message": "구문"
+   },
+   "play": {
+      "message": "재생"
+   },
+   "playPause": {
+      "message": "재생 / 일시 중지"
+   },
+   "playbackSpeed": {
+      "message": "재생 속도 :"
+   },
+   "pleaseLeaveReviewMessage": {
+      "message": "Language Reactor를 좋아하시나요? Chrome 웹스토어에 리뷰를 남기시고 저희를 도와 주시기 바랍니다."
+   },
+   "pleaseSelectItemsToExport": {
+      "message": "내보낼 항목을 선택하십시오."
+   },
+   "pleaseSelectSubtitles": {
+      "message": "- Netflix 재생기에서 자막을 선택하세요 -"
+   },
+   "pleaseSignIn": {
+      "message": "로그인 해주십시오."
+   },
+   "prePaymentModal_line1_string": {
+      "message": "Pro'기능을 계속 사용하려면 구독하십시오."
+   },
+   "pressSpaceToContinue": {
+      "message": "(계속하려면 SPACE를 누르십시오)"
+   },
+   "previous": {
+      "message": "이전"
+   },
+   "previousSub": {
+      "message": "이전 자막"
+   },
+   "price_string": {
+      "message": "매월 가격은 다음과 같습니다."
+   },
+   "proFeature": {
+      "message": "Pro 기능"
+   },
+   "proFeatures_line1_string": {
+      "message": "Pro'모드를 사용하면 다음과 같은 추가 기능을 사용할 수 있습니다."
+   },
+   "proFeatures_line2_string": {
+      "message": "기계 번역"
+   },
+   "proFeatures_line3_string": {
+      "message": "단어 및 구문 저장"
+   },
+   "proFeatures_line4_string": {
+      "message": "더빙된 영화의 자막"
+   },
+   "proFeatures_line5_string": {
+      "message": "개발자 지원"
+   },
+   "proFeatures_tt2_string": {
+      "message": "이는 원 자막의 의미에 더 가까우며, 언어 학습자에게 도움이 됩니다."
+   },
+   "proFeatures_tt3_string": {
+      "message": "저장한 단어는 모든 자막에서 강조 표시됩니다. 이는 학습을 체계화하는 데 도움이 됩니다. 저장된 단어 및 구문은 Anki (플래시 카드 프로그램)로 내보낼 수 있습니다."
+   },
+   "proFeatures_tt4_string": {
+      "message": "넷플릭스의 많은 시리즈는 다른 언어로 더빙된 오디오 트랙이 추가로 제공되고 있지만 이에 대한 정확한 자막은 제공되고 있지 않습니다. 우리는 이러한 자막의 제작을 지원하며 예를들어 당신이 'Breaking Bad'와 같은 시리즈로 독일어를 공부할 수 있도록 도와줄 것입니다."
+   },
+   "proFeatures_tt5_string": {
+      "message": "Google은 확장 프로그램을 개선하고 새로운 기능을 제공하기 위해 최선을 다하고 있습니다."
+   },
+   "problemWithPayment_line1_string": {
+      "message": "구독 결제에 문제가 발생했습니다."
+   },
+   "problemWithPayment_line2_string": {
+      "message": "결제 정보를 업데이트 한 후 다시 시도해보세요."
+   },
+   "purpleWords": {
+      "message": "보라색 단어"
+   },
+   "redWords": {
+      "message": "빨간색 단어"
+   },
+   "removeAllItems": {
+      "message": "모두 제거"
+   },
+   "removeSubtitle": {
+      "message": "제거"
+   },
+   "repeat": {
+      "message": "반복"
+   },
+   "reportBug": {
+      "message": "버그 보고"
+   },
+   "romaji": {
+      "message": "로마자"
+   },
+   "saveCurrentSubtitle": {
+      "message": "현재 자막 저장"
+   },
+   "saveSubtitle": {
+      "message": "자막 저장하기"
+   },
+   "saveWordTooltip": {
+      "message": "단어를 저장하십시오. 단어를 마우스 오른쪽 단추로 클릭하여 저장할 수도 있습니다."
+   },
+   "saveWord_option": {
+      "message": "단어 저장"
+   },
+   "savedItems": {
+      "message": "저장된 항목"
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "showDictSpeak_option": {
+      "message": "사전 보기와 단어 말하기"
+   },
+   "showDict_option": {
+      "message": "사전 보기"
+   },
+   "showHumanTranslation_label": {
+      "message": "인간 번역보기 :"
+   },
+   "showHumanTranslation_tooltip": {
+      "message": "가능할 경우 소스 자막을 사용자의 언어로 번역한 인간 번역 보기"
+   },
+   "showMachineTranslation_label": {
+      "message": "기계 번역보기 :"
+   },
+   "showMachineTranslation_tooltip": {
+      "message": "당신의 언어로 번역된 소스 자막의 기계 번역 보기."
+   },
+   "showMore": {
+      "message": "자세히보기"
+   },
+   "showTransliterations": {
+      "message": "음역 표시 :"
+   },
+   "signIn": {
+      "message": "로그인"
+   },
+   "signInStatus": {
+      "message": "로그인 상태 :"
+   },
+   "signOut": {
+      "message": "로그아웃"
+   },
+   "signedIn": {
+      "message": "로그인됨"
+   },
+   "slowDownPlayback": {
+      "message": "천천히 재생"
+   },
+   "slowSpeechSegments": {
+      "message": "음성 분절음 느리게 하기 :"
+   },
+   "slowSpeechSegments_tooltip": {
+      "message": "자막이 활성화되어있는 경우 동영상의 재생 속도를 줄여 더욱 이해하기 쉽도록 설정할 수 있습니다. (0.8x)."
+   },
+   "small": {
+      "message": "작게"
+   },
+   "speakWord_option": {
+      "message": "단어 말하기"
+   },
+   "speedUpPlayback": {
+      "message": "빨리 재생"
+   },
+   "subscriptionActive": {
+      "message": "고객님의 회원가입이 활성화되었습니다."
+   },
+   "subscriptionToProFeatures": {
+      "message": "Pro'기능에 구독하기"
+   },
+   "subtitleLanguage_label": {
+      "message": "Netflix 자막 언어 :"
+   },
+   "subtitleLanguage_label_yt": {
+      "message": "Youtube 자막 언어 :"
+   },
+   "subtitleLanguage_tooltip": {
+      "message": "선택하신 Netflix 자막의 언어입니다."
+   },
+   "subtitleLanguage_tooltip_yt": {
+      "message": "선택하신 Youtube 자막의 언어입니다."
+   },
+   "subtitles": {
+      "message": "자막"
+   },
+   "subtitlesNoMatchAudio_error": {
+      "message": "선택한 Netflix 자막 (\u003Ctext>)이 오디오와 일치하지 않습니다. Netflix 재생 컨트롤에서 작품의 원 언어 (\u003Ctext>)로 설정하거나 Language Reactor 카탈로그에서 검색 한 언어의 추천 작품을 검색하세요."
+   },
+   "subtitlesNotLoaded_error": {
+      "message": "Netflix 자막이 로딩되지 않습니다. Netflix 재생 메뉴에서 자막 언어를 선택하셨습니까?"
+   },
+   "subtitlesNotLoaded_error_yt": {
+      "message": "Youtube 자막이 로딩되지 않습니다. Youtube 재생 메뉴에서 자막 언어를 선택하셨습니까?"
+   },
+   "toggleAutoPause": {
+      "message": "자동 일시중지 켜기/끄기"
+   },
+   "translationLanguage_label": {
+      "message": "번역 언어 :"
+   },
+   "translationLanguage_tooltip": {
+      "message": "이것은 번역 언어입니다. 이 언어를 모국어로 설정하세요."
+   },
+   "translationNotFound": {
+      "message": "번역을 찾을 수 없습니다."
+   },
+   "trialBegunModal_body_string": {
+      "message": "체험판 사용기간이 시작되었습니다! 'Pro'기능이 활성화되었습니다!"
+   },
+   "tryForFree": {
+      "message": "무료 체험"
+   },
+   "turnOnOff": {
+      "message": "켜기/끄기"
+   },
+   "updatePayment_btn_string": {
+      "message": "결제 정보 업데이트"
+   },
+   "usageExamples": {
+      "message": "용례"
+   },
+   "userDefinedExternalDict_label": {
+      "message": "사용자 사전 URL:"
+   },
+   "vocabHighlight_label": {
+      "message": "어휘 강조 표시 :"
+   },
+   "vocabHighlight_tooltip": {
+      "message": "(실험적) 자주 사용되지 않는 단어를 회색으로 표시하여 자신에게 더 중요한 단어에 집중할 수 있습니다."
+   },
+   "welcomeModal_line1_string": {
+      "message": "사용자 여러분,"
+   },
+   "welcomeModal_line2_string": {
+      "message": "확장 프로그램에 대규모 업데이트가 실시되었습니다. 다음과 같은 새로운 기능을 즐기시기 바랍니다."
+   },
+   "welcomeModal_line3_string": {
+      "message": "이제 자막을 동영상 상단에 표시 할 수 있습니다."
+   },
+   "welcomeModal_line4_string": {
+      "message": "모든 자막을 볼 수 있는 측면 패널이 추가되었습니다."
+   },
+   "welcomeModal_line5_string": {
+      "message": "아시아 언어에 대한 지원이 향상되었습니다."
+   },
+   "welcomeModal_line6_string": {
+      "message": "지금까지 무료로 제공되었던 기계 번역은 비용이 많이 드는 서비스입니다. 여러분의 양해 부탁드립니다."
+   },
+   "writeReview": {
+      "message": "리뷰 입력하기"
+   },
+   "yellowWords": {
+      "message": "노란색 단어"
+   }
+}

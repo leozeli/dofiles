@@ -1,0 +1,545 @@
+{
+   "allItems": {
+      "message": "所有项目"
+   },
+   "allLanguages": {
+      "message": "所有语言"
+   },
+   "allTypes": {
+      "message": "所有类型"
+   },
+   "alreadyUserPleaseSignIn": {
+      "message": "已经是用户吗？请登入。"
+   },
+   "alsoUseASD": {
+      "message": "您还可以使用：A，S，D，空白键"
+   },
+   "appDesc": {
+      "message": "透过观赏外语电影与电视剧，愉快且有效地自学新的语言"
+   },
+   "appName": {
+      "message": "Language Reactor"
+   },
+   "appNameTr": {
+      "message": "Language Reactor"
+   },
+   "areYouSure": {
+      "message": "你确定吗?"
+   },
+   "audioLanguage_label": {
+      "message": "Netflix 音轨语言:"
+   },
+   "audioLanguage_tooltip": {
+      "message": "这是您选择的 Netflix 音轨的语言。"
+   },
+   "audioNoMatchSubtitles_error": {
+      "message": "您选择的 Netflix 音轨（\u003Ctext>）可能与字幕不匹配。您可以试试在 Netflix 播放器中将其设置为这部影片的原文语言（\u003Ctext>），或在 Language Reactor 目录中寻找您所学语言的推荐影片"
+   },
+   "autoPause": {
+      "message": "自动暂停"
+   },
+   "autoPause_tooltip": {
+      "message": "在每个字幕的末尾自动暂停播放。"
+   },
+   "autoPaused": {
+      "message": "自动暂停"
+   },
+   "blueWords": {
+      "message": "仅显示蓝色文字"
+   },
+   "cancelGoogle_line_string": {
+      "message": "注意：“专业版”模式将在您于前次付款后的30天内保持有效状态。"
+   },
+   "cancelSubscription_btn_string": {
+      "message": "取消订阅"
+   },
+   "catalogue": {
+      "message": "目录"
+   },
+   "catalogue_tooltip": {
+      "message": "搜寻适合与 Language Reactor 搭配使用的电影和剧集"
+   },
+   "choosePaymentProvider_line_string": {
+      "message": "请选择付款方式："
+   },
+   "clickAStar": {
+      "message": "点击星星来储存当下的字幕，或点击字典中的颜色按钮以储存单字。"
+   },
+   "close": {
+      "message": "关"
+   },
+   "continueWithGoogle_btn_string": {
+      "message": "使用Google帐户继续"
+   },
+   "doNothing_option": {
+      "message": "什么都不做"
+   },
+   "doYouLikeOurExtension": {
+      "message": "您喜欢Language Reactor吗？"
+   },
+   "download": {
+      "message": "下载"
+   },
+   "enableLln": {
+      "message": "启用Language Reactor"
+   },
+   "errorApology": {
+      "message": "Language Reactor 遇上了错误。开发者已收到通知。请试试重新整理页面，或是在 24 小时后重试。抱歉给您带来不便。查看我们的 Facebook 粉丝页以追踪最新消息。错误讯息：\u003Ctext>"
+   },
+   "exportAsCsv": {
+      "message": "导出为CSV"
+   },
+   "exportAsJson": {
+      "message": "导出为JSON"
+   },
+   "exportToAnki": {
+      "message": "导出到Anki"
+   },
+   "extraLarge": {
+      "message": "特大"
+   },
+   "extraSmall": {
+      "message": "特小"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_tooltip": {
+      "message": "来我们的粉丝页点赞以追踪新讯息"
+   },
+   "featureComingSoon": {
+      "message": "功能即将推出。"
+   },
+   "feedback": {
+      "message": "意见回馈"
+   },
+   "feedback_tooltip": {
+      "message": "遇上问题了吗？有什么需要功能？"
+   },
+   "firstSubtitleNotReached": {
+      "message": "- 第一行字幕尚未出现。 -"
+   },
+   "fix": {
+      "message": "修复"
+   },
+   "fontSize_label": {
+      "message": "字体大小："
+   },
+   "freeTrial3_line_string": {
+      "message": "您可以免费试用3天的'专业版'模式。"
+   },
+   "freeTrial7_line_string": {
+      "message": "您可以免费试用7天的'专业版'模式。"
+   },
+   "greenWords": {
+      "message": "仅显示绿色文字"
+   },
+   "help": {
+      "message": "帮助"
+   },
+   "help_tooltip": {
+      "message": "使用说明与提示"
+   },
+   "hideTranslation": {
+      "message": "隐藏译文:"
+   },
+   "hideTranslation_tt": {
+      "message": "播放影片时隐藏翻译。点击文字或按下[e]键可显示翻译。"
+   },
+   "highlightSavedWords_label": {
+      "message": "突出显示已保存的单词"
+   },
+   "hiragana": {
+      "message": "平假名"
+   },
+   "keyboardShortcuts": {
+      "message": "键盘快捷键："
+   },
+   "langCode": {
+      "message": "zh_CN"
+   },
+   "large": {
+      "message": "大"
+   },
+   "levelDisable": {
+      "message": "等级\u003Ctext>：禁用"
+   },
+   "levelWithNumber": {
+      "message": "等级\u003Ctext>：\u003Ctext>个单词"
+   },
+   "littlePracticeEveryDay": {
+      "message": "学习一门语言需要每天做点练习。"
+   },
+   "loadingDotDotDot": {
+      "message": "载入中..."
+   },
+   "loadingSubtitles": {
+      "message": "- 字幕载入中，请稍等...... -"
+   },
+   "loadingTranslations": {
+      "message": "翻译载入中......"
+   },
+   "manageSubscription": {
+      "message": "订阅管理"
+   },
+   "mode": {
+      "message": "模式："
+   },
+   "mode_free": {
+      "message": "免费"
+   },
+   "mode_pro": {
+      "message": "专业版"
+   },
+   "mode_trial": {
+      "message": "试用"
+   },
+   "next": {
+      "message": "下一个"
+   },
+   "nextSub": {
+      "message": "下一个字幕"
+   },
+   "nms_tip": {
+      "message": "您在学习语言吗？试试我们的新扩充套件和 Netflix 一起学语言。"
+   },
+   "noCharge": {
+      "message": "与其他情况不同，在试用或自动升级订阅期间我们不会收取任何费用。"
+   },
+   "noCreditCardRequired": {
+      "message": "不要求使用信用卡。"
+   },
+   "noDictionary_error": {
+      "message": "Language Reactor 扩充套件还不支援「\u003Ctext>」的字典，这个功能近期推出！"
+   },
+   "noHTAvailable": {
+      "message": "对选定的语言没有人工翻译可供选择。"
+   },
+   "noMTAvailable": {
+      "message": "机器翻译仅适用于电影的原始字幕。"
+   },
+   "noSavedItems": {
+      "message": "没有储存的项目。"
+   },
+   "noTransliterations": {
+      "message": "无音译"
+   },
+   "none": {
+      "message": "没有"
+   },
+   "normal": {
+      "message": "正常"
+   },
+   "notAvailable": {
+      "message": "不存在。"
+   },
+   "notNow_btn_string": {
+      "message": "现在不要"
+   },
+   "notSignedIn": {
+      "message": "未登入"
+   },
+   "ok_btn_string": {
+      "message": "好"
+   },
+   "onLeftClick_label": {
+      "message": "左键点击："
+   },
+   "onRightClick_label": {
+      "message": "右键单击："
+   },
+   "openCloseBottomPanel": {
+      "message": "打开/关闭底部面板"
+   },
+   "openCloseVerticalView": {
+      "message": "打开/关闭俯视图"
+   },
+   "openClose_tooltip": {
+      "message": "启用/关闭 Language Reactor。"
+   },
+   "options": {
+      "message": "选项"
+   },
+   "originalLanguage_label": {
+      "message": "原文标题:"
+   },
+   "originalLanguage_tooltip": {
+      "message": "这是 Netflix 的原文字幕"
+   },
+   "overrideArrowKeys_label": {
+      "message": "覆盖方向键"
+   },
+   "overrideArrowKeys_tt": {
+      "message": "使方向键盘按键与A、S、D键执行相同的操作"
+   },
+   "pauseOnSubsHover_label": {
+      "message": "鼠标悬停时暂停"
+   },
+   "pauseOnSubsHover_tt": {
+      "message": "鼠标悬停在字幕上时自动暂停"
+   },
+   "payWithGoogle_btn_string": {
+      "message": "接受信用卡付款。"
+   },
+   "payWithPaddle_btn_string": {
+      "message": "接受信用卡和Paypal付款。"
+   },
+   "paymentSuccessfulPaddleMessage_line_string": {
+      "message": "注意：如果您的付款方式需要人工检查，需稍候数小时，之后您的“专业版”模式应会自动生效。对于延误我们深感抱歉。"
+   },
+   "paymentSuccessful_line1_string": {
+      "message": "付款成功！感谢您支持我们的计画！"
+   },
+   "paymentSuccessful_line2_string": {
+      "message": "您可以随时从设定中取消订阅。"
+   },
+   "phrases": {
+      "message": "片语"
+   },
+   "play": {
+      "message": "播放"
+   },
+   "playPause": {
+      "message": "播放/暂停"
+   },
+   "playbackSpeed": {
+      "message": "播放速度："
+   },
+   "pleaseSelectItemsToExport": {
+      "message": "请选择要导出的项目："
+   },
+   "pleaseSelectSubtitles": {
+      "message": "- 请在Netflix播放器中选择字幕 -"
+   },
+   "pleaseSignIn": {
+      "message": "请登入。"
+   },
+   "prePaymentModal_line1_string": {
+      "message": "订阅以持续使用“专业版”功能。"
+   },
+   "pressSpaceToContinue": {
+      "message": "（按空白键继续）"
+   },
+   "previous": {
+      "message": "上一个"
+   },
+   "previousSub": {
+      "message": "上一个字幕"
+   },
+   "price_string": {
+      "message": "月费："
+   },
+   "proFeature": {
+      "message": "专业功能"
+   },
+   "proFeatures_line1_string": {
+      "message": "专业版'模式有额外的功能："
+   },
+   "proFeatures_line2_string": {
+      "message": "机器翻译"
+   },
+   "proFeatures_line3_string": {
+      "message": "储存单字和片语"
+   },
+   "proFeatures_line4_string": {
+      "message": "为配音电影加入字幕"
+   },
+   "proFeatures_line5_string": {
+      "message": "协助开发人员"
+   },
+   "proFeatures_tt2_string": {
+      "message": "这些与原始字幕的含义更加接近，对于在学习语言的学生更有帮助。"
+   },
+   "proFeatures_tt3_string": {
+      "message": "在所有字幕中您保存的任何单字都会中特别突显。让您的学习更有条理。保存的单字和片语可以输出到Anki（闪卡程式）。"
+   },
+   "proFeatures_tt4_string": {
+      "message": "许多在Netflix上的系列影集有其他语言可选(多国配音)，但Netflix并没有为这些配音的字幕校正。我们希望能创建它们让您用以学习语言。例如，像德语配音版的绝命毒师(Breaking Bad)。"
+   },
+   "proFeatures_tt5_string": {
+      "message": "我们持续努力改进扩充功能并为您带来新功能。"
+   },
+   "problemWithPayment_line1_string": {
+      "message": "您的订阅付款有问题。"
+   },
+   "problemWithPayment_line2_string": {
+      "message": "更新您的付款资讯后，请重新载入本视窗。"
+   },
+   "purpleWords": {
+      "message": "仅显示紫色文字"
+   },
+   "redWords": {
+      "message": "仅显示红色文字"
+   },
+   "removeAllItems": {
+      "message": "全部删除"
+   },
+   "removeSubtitle": {
+      "message": "删除"
+   },
+   "repeat": {
+      "message": "重复"
+   },
+   "reportBug": {
+      "message": "报告 Bug"
+   },
+   "romaji": {
+      "message": "罗马字"
+   },
+   "saveCurrentSubtitle": {
+      "message": "储存目前字幕"
+   },
+   "saveWordTooltip": {
+      "message": "单字储存。您也可以对单字点击右键来进行储存。"
+   },
+   "saveWord_option": {
+      "message": "保存单词"
+   },
+   "savedItems": {
+      "message": "保存的项目"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "showDictSpeak_option": {
+      "message": "显示词典并读出单词"
+   },
+   "showDict_option": {
+      "message": "显示词典"
+   },
+   "showHumanTranslation_label": {
+      "message": "显示人类翻译:"
+   },
+   "showHumanTranslation_tooltip": {
+      "message": "如果可用，请以您的语言显示源字幕的人工翻译。"
+   },
+   "showMachineTranslation_label": {
+      "message": "显示机器翻译:"
+   },
+   "showMachineTranslation_tooltip": {
+      "message": "以您的语言显示源字幕的机器翻译。"
+   },
+   "showMore": {
+      "message": "显示更多"
+   },
+   "showTransliterations": {
+      "message": "显示音译："
+   },
+   "signIn": {
+      "message": "登入"
+   },
+   "signInStatus": {
+      "message": "登入状态："
+   },
+   "signOut": {
+      "message": "注销"
+   },
+   "signedIn": {
+      "message": "已登入"
+   },
+   "slowDownPlayback": {
+      "message": "减速回放"
+   },
+   "slowSpeechSegments": {
+      "message": "言语缓慢："
+   },
+   "slowSpeechSegments_tooltip": {
+      "message": "当字幕处于启用状态（0.8x）时，降低影片的播放速度，以便于理解。"
+   },
+   "small": {
+      "message": "小"
+   },
+   "speakWord_option": {
+      "message": "读出单词"
+   },
+   "speedUpPlayback": {
+      "message": "加速回放"
+   },
+   "subscriptionActive": {
+      "message": "您的套餐已生效。"
+   },
+   "subscriptionToProFeatures": {
+      "message": "订阅“专业版”功能。"
+   },
+   "subtitleLanguage_label": {
+      "message": "Netflix 字幕语言:"
+   },
+   "subtitleLanguage_label_yt": {
+      "message": "Youtube 字幕语言:"
+   },
+   "subtitleLanguage_tooltip": {
+      "message": "这是您所选的语言的 Netflix 字幕"
+   },
+   "subtitleLanguage_tooltip_yt": {
+      "message": "这是您所选的语言的 Youtube 字幕"
+   },
+   "subtitles": {
+      "message": "字幕"
+   },
+   "subtitlesNoMatchAudio_error": {
+      "message": "您选择的 Netflix 字幕（\u003Ctext>）与音轨不匹配。您可以试试在Netflix 播放器中将它们设置为这部影片的原文语言（\u003Ctext>），或在 Language Reactor 目录中寻找您所学语言的推荐影片"
+   },
+   "subtitlesNotLoaded_error": {
+      "message": "Netflix 字幕未载入，是否在 Netflix 播放选单中选择了字幕语言？"
+   },
+   "subtitlesNotLoaded_error_yt": {
+      "message": "Youtube 字幕未载入，是否在 Youtube 播放选单中选择了字幕语言？"
+   },
+   "toggleAutoPause": {
+      "message": "开启/关闭自动暂停"
+   },
+   "translationLanguage_label": {
+      "message": "翻译语言:"
+   },
+   "translationLanguage_tooltip": {
+      "message": "这是翻译的语言。将其设置为您的母语。"
+   },
+   "translationNotFound": {
+      "message": "找不到翻译。"
+   },
+   "trialBegunModal_body_string": {
+      "message": "您的试用期已经开始了！ '专业版'功能已启用！"
+   },
+   "tryForFree": {
+      "message": "免费试用"
+   },
+   "turnOnOff": {
+      "message": "开启/关闭"
+   },
+   "updatePayment_btn_string": {
+      "message": "更新付款讯息"
+   },
+   "usageExamples": {
+      "message": "用法示例"
+   },
+   "userDefinedExternalDict_label": {
+      "message": "用户词典网址："
+   },
+   "vocabHighlight_label": {
+      "message": "词汇标示:"
+   },
+   "vocabHighlight_tooltip": {
+      "message": "（实验功能）刷淡罕用单词，方便您目前等级中专心学习更重要的单词。"
+   },
+   "welcomeModal_line1_string": {
+      "message": "亲爱的用户，"
+   },
+   "welcomeModal_line2_string": {
+      "message": "我们对扩展进行了重大更新。我们希望您喜欢这些新功能："
+   },
+   "welcomeModal_line3_string": {
+      "message": "字幕已可显示在影片上方。"
+   },
+   "welcomeModal_line4_string": {
+      "message": "附加的侧面板可检视所有可用字幕。"
+   },
+   "welcomeModal_line5_string": {
+      "message": "对亚洲语系有更佳的支援。"
+   },
+   "welcomeModal_line6_string": {
+      "message": "机器翻译曾为是免费的，但这实际上是一项昂贵的服务，希望您能理解。"
+   },
+   "yellowWords": {
+      "message": "仅显示黄色文字"
+   }
+}

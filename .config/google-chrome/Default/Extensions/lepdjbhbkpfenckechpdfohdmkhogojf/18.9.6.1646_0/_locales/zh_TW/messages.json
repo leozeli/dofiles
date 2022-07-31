@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "取消增加"
+   },
+   "Change_name": {
+      "message": "更換名字"
+   },
+   "Collapse": {
+      "message": "收起"
+   },
+   "Collapse_activity_window": {
+      "message": "折疊活動窗口"
+   },
+   "Collapse_all_windows": {
+      "message": "折疊所有窗口"
+   },
+   "Collapse_tabs": {
+      "message": "收起標籤頁"
+   },
+   "Current_window": {
+      "message": "當前窗口"
+   },
+   "Customize": {
+      "message": "自定義"
+   },
+   "Delete_group": {
+      "message": "刪除組"
+   },
+   "FeedbackandSuggestion": {
+      "message": "意見回饋與建議"
+   },
+   "Fixed_tabs": {
+      "message": "固定標籤頁"
+   },
+   "History_tab_group": {
+      "message": "歷史標槍組"
+   },
+   "New_window": {
+      "message": "新窗口"
+   },
+   "No_search_results_found": {
+      "message": "未找到任何搜索結果"
+   },
+   "Not_collapse": {
+      "message": "不收起"
+   },
+   "Open_all": {
+      "message": "打開全部"
+   },
+   "Open_group": {
+      "message": "打開組"
+   },
+   "Open_with_browser": {
+      "message": "隨瀏覽器打開"
+   },
+   "Recovery_window": {
+      "message": "恢復窗口"
+   },
+   "Save_group": {
+      "message": "保存組"
+   },
+   "Save_tab_group": {
+      "message": "保存標籤組"
+   },
+   "Search_group": {
+      "message": "搜索組"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "標籤組"
+   },
+   "Turn_off": {
+      "message": "關掉"
+   },
+   "Unnamed_tab_group": {
+      "message": "未命名標籤組"
+   },
+   "aboutUs": {
+      "message": "關於我們"
+   },
+   "add_tab": {
+      "message": "增加標籤"
+   },
+   "contact": {
+      "message": "聯絡資訊"
+   },
+   "d_ago": {
+      "message": "天前"
+   },
+   "donate": {
+      "message": "捐款"
+   },
+   "extdesc": {
+      "message": "節省95％的內存並減少標籤混亂。"
+   },
+   "extname": {
+      "message": "標籤管家"
+   },
+   "h_ago": {
+      "message": "小時前"
+   },
+   "m_ago": {
+      "message": "分前"
+   },
+   "mo_ago": {
+      "message": "月前"
+   },
+   "ok": {
+      "message": "確定提交"
+   },
+   "old_tab_empty": {
+      "message": "歷史標籤組為空"
+   },
+   "old_tab_group": {
+      "message": "以下為舊標籤組"
+   },
+   "options": {
+      "message": "選項"
+   },
+   "pin_tab": {
+      "message": "固定分頁"
+   },
+   "placeholder": {
+      "message": "請輸入標籤組名稱"
+   },
+   "praise": {
+      "message": "五星好評"
+   },
+   "privacyPolicy": {
+      "message": "隱私權原則"
+   },
+   "rating_button_tate": {
+      "message": "評分"
+   },
+   "rename": {
+      "message": "重命名"
+   },
+   "s_ago": {
+      "message": "秒前"
+   },
+   "say": {
+      "message": "我有話說"
+   },
+   "share": {
+      "message": "分享"
+   },
+   "shareFriends": {
+      "message": "分享我們給你的朋友吧！"
+   },
+   "supportUs": {
+      "message": "您的支持是對我們最大的肯定"
+   },
+   "tab_address": {
+      "message": "標籤地址"
+   },
+   "tabs": {
+      "message": "標籤頁"
+   },
+   "termsOfUse": {
+      "message": "使用條款"
+   },
+   "turn_on": {
+      "message": "打開"
+   },
+   "usproductokey": {
+      "message": "我們的產品好用嗎？"
+   },
+   "y_ago": {
+      "message": "年前"
+   }
+}

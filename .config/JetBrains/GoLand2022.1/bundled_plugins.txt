@@ -1,0 +1,57 @@
+com.intellij|null
+training|null
+tanvd.grazi|null
+org.jetbrains.plugins.yaml|Languages
+org.jetbrains.plugins.wsl.fs|null
+org.jetbrains.plugins.textmate|Other Tools
+org.jetbrains.plugins.terminal|Other Tools
+org.jetbrains.plugins.go-template|Template Languages
+org.jetbrains.plugins.go.ide|null
+org.jetbrains.plugins.go|Languages
+org.jetbrains.plugins.emojipicker|Other Tools
+org.intellij.intelliLang|Other Tools
+org.editorconfig.editorconfigjetbrains|Other Tools
+name.kropp.intellij.makefile|Languages
+idea.plugin.protoeditor|Microservices
+hg4idea|Version Controls
+com.jetbrains.sh|Languages
+com.jetbrains.projector.libs|null
+org.jetbrains.plugins.remote-run|null
+com.jetbrains.plugins.webDeployment|Deployment
+com.jetbrains.gateway|Remote Development
+com.jetbrains.gateway.terminal|null
+com.jetbrains.codeWithMe|null
+com.intellij.plugins.watcher|null
+com.intellij.plugins.monokai.colorscheme|UI
+com.intellij.plugins.goland.solarized.colorscheme|UI
+com.intellij.plugins.colorful.darcula.colorscheme|UI
+com.intellij.platform.images|null
+org.intellij.plugins.markdown|Languages
+com.jetbrains.restClient|Other Tools
+com.intellij.grpc|Microservices
+com.intellij.microservices.ui|Microservices
+com.intellij.diagram|Other Tools
+com.intellij.copyright|Other Tools
+com.intellij.css|Style Sheets
+com.intellij.configurationScript|null
+com.intellij.completion.ml.ranking|Other Tools
+com.intellij.CloudConfig|IDE Settings
+com.jetbrains.performancePlugin|Other Tools
+intellij.indexing.shared.core|null
+org.jetbrains.plugins.go.sharedIndexes.bundled|null
+com.jetbrains.performancePlugin.dynamicPlugins|null
+Remote Development Server|null
+Refactor-X|HTML and XML
+HtmlTools|HTML and XML
+org.jetbrains.plugins.github|Version Controls
+Git4Idea|Version Controls
+training.git|null
+intellij.indexing.shared|null
+com.intellij.swagger|Microservices
+JavaScriptDebugger|JavaScript Frameworks and Tools
+JavaScript|JavaScript Frameworks and Tools
+tslint|JavaScript Frameworks and Tools
+com.intellij.database|Database
+JSIntentionPowerPack|JavaScript Frameworks and Tools
+com.intellij.searcheverywhere.ml|null
+Docker|Deployment

@@ -1,0 +1,43 @@
+{
+   "applications": {
+      "gecko": {
+         "id": "noob@ainoob.com"
+      }
+   },
+   "background": {
+      "scripts": [ "thirdParty/jquery.min.js", "thirdParty/fileSavor.js", "thirdParty/jszip.min.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon_128.png",
+      "default_popup": "popup.html",
+      "default_title": "NooBox~"
+   },
+   "commands": {
+      "screenshotSearch": {
+         "description": "__MSG_screenshot_search__",
+         "suggested_key": {
+            "default": "Ctrl+Shift+Y",
+            "mac": "Command+Shift+Y"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "thirdParty/jquery.min.js", "contentScript/videoControl.js", "contentScript/extractImages.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "images/icon_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtUWbpjldmRnZ7vEekA+Z6s4t1JCqQMiasM24sxNdz4M9vge9BsJbhAWb7GshDlveCxkinkK/CANslBZcjnMSNsBKsCQkAUuHgKLS96W81IkHAceg8X9cldcBXVt8IC7pGJxbiPM9WojIp+LeJeDFtdDhpYaTUbcIPHy9X+uSnyICJK6LNo5SZoiYUiHX41Na+fSYBlnD5vlhY/jgzWOu566ikHcDhSgS6BbXId+udOC7nihrQAqXHCW+Hn7RIQN+k8ppn8VLhTZNF1Tuz7ZhYH7glkucMdPaY4jmUU+fiA/Nst4wltm283F7LloyaA76NmXqH9ZiXH+3Rh50p+zXyQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "35",
+   "name": "__MSG_appName__",
+   "permissions": [ "tabs", "contextMenus", "storage", "activeTab", "notifications", "\u003Call_urls>" ],
+   "short_name": "NB",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.12"
+}

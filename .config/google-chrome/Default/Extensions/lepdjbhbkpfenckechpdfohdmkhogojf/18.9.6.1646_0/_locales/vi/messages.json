@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Hủy bỏ"
+   },
+   "Change_name": {
+      "message": "Đổi tên"
+   },
+   "Collapse": {
+      "message": "Sự sụp đổ"
+   },
+   "Collapse_activity_window": {
+      "message": "Thu gọn cửa sổ hoạt động"
+   },
+   "Collapse_all_windows": {
+      "message": "Thu gọn tất cả cửa sổ"
+   },
+   "Collapse_tabs": {
+      "message": "Thu gọn tab"
+   },
+   "Current_window": {
+      "message": "Cửa sổ hiện tại"
+   },
+   "Customize": {
+      "message": "Tùy chỉnh"
+   },
+   "Delete_group": {
+      "message": "Xóa nhóm"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Phản hồi và gợi ý"
+   },
+   "Fixed_tabs": {
+      "message": "Tab cố định"
+   },
+   "History_tab_group": {
+      "message": "Nhóm tab lịch sử"
+   },
+   "New_window": {
+      "message": "Cửa sổ mới"
+   },
+   "No_search_results_found": {
+      "message": "Không tìm thấy kết quả tìm kiếm"
+   },
+   "Not_collapse": {
+      "message": "Không sụp đổ"
+   },
+   "Open_all": {
+      "message": "Mở tất cả"
+   },
+   "Open_group": {
+      "message": "Mở nhóm"
+   },
+   "Open_with_browser": {
+      "message": "Mở bằng trình duyệt"
+   },
+   "Recovery_window": {
+      "message": "Cửa sổ khôi phục"
+   },
+   "Save_group": {
+      "message": "Lưu nhóm"
+   },
+   "Save_tab_group": {
+      "message": "Lưu nhóm tab"
+   },
+   "Search_group": {
+      "message": "Tìm kiếm nhóm"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Nhóm tab"
+   },
+   "Turn_off": {
+      "message": "Tắt"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "Về chúng tôi"
+   },
+   "add_tab": {
+      "message": "Thêm tab"
+   },
+   "contact": {
+      "message": "Liên hệ"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Quyên góp"
+   },
+   "extdesc": {
+      "message": "Tiết kiệm 95% bộ nhớ và giảm sự lộn xộn của nhãn."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "Được"
+   },
+   "old_tab_empty": {
+      "message": "Nhóm tab lịch sử trống"
+   },
+   "old_tab_group": {
+      "message": "Sau đây là nhóm tab cũ"
+   },
+   "options": {
+      "message": "Tùy chọn"
+   },
+   "pin_tab": {
+      "message": "Ghim tab"
+   },
+   "placeholder": {
+      "message": "Vui lòng nhập tên nhóm tab"
+   },
+   "praise": {
+      "message": "Khen ngợi năm sao"
+   },
+   "privacyPolicy": {
+      "message": "Chính sách Quyền riêng tư"
+   },
+   "rating_button_tate": {
+      "message": "Xếp hạng"
+   },
+   "rename": {
+      "message": "Đổi tên"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "Tôi có vài điều muốn nói"
+   },
+   "share": {
+      "message": "Chia sẻ"
+   },
+   "shareFriends": {
+      "message": "Chia sẻ với bạn bè của bạn"
+   },
+   "supportUs": {
+      "message": "Sự hỗ trợ của bạn là một sự khích lệ lớn đối với chúng tôi"
+   },
+   "tab_address": {
+      "message": "Địa chỉ tab"
+   },
+   "tabs": {
+      "message": "Tab"
+   },
+   "termsOfUse": {
+      "message": "Điều khoản Sử dụng"
+   },
+   "turn_on": {
+      "message": "Bật"
+   },
+   "usproductokey": {
+      "message": "Sản phẩm của chúng tôi được okay với nó?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

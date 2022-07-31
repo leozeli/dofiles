@@ -1,0 +1,542 @@
+{
+   "allItems": {
+      "message": "Minden elem"
+   },
+   "allLanguages": {
+      "message": "Összes nyelv"
+   },
+   "allTypes": {
+      "message": "Minden típus"
+   },
+   "alreadyUserPleaseSignIn": {
+      "message": "Már felhasználó vagy? Jelentkezz be!"
+   },
+   "alsoUseASD": {
+      "message": "Ezeket a billentyűket is használhatod: A, S, D, Szóköz (space)"
+   },
+   "appDesc": {
+      "message": "Fejleszd nyelvtudásod hatékonyan és élvezetesen, miközben kedvenc filmjeid és sorozataid nézed a tanult nyelven."
+   },
+   "appName": {
+      "message": "Language Reactor"
+   },
+   "appNameTr": {
+      "message": "Nyelvtanulás a Netflix-el"
+   },
+   "areYouSure": {
+      "message": "Biztos benne?"
+   },
+   "audioLanguage_label": {
+      "message": "Netflix hang nyelve:"
+   },
+   "audioLanguage_tooltip": {
+      "message": "Ez a kiválasztott Netflix hangsáv nyelve."
+   },
+   "audioNoMatchSubtitles_error": {
+      "message": "A kiválasztott Netflix szinkron (\u003Ctext>) valószínűleg nem egyezik pontosan a feliratnak. Próbáld a film eredeti nyelvére (\u003Ctext>) állítani a Netflix lejátszásvezérlőn, vagy keress az Language Reactor katalógusban az általad tanult nyelvhez ajánlott filmeket."
+   },
+   "autoPause": {
+      "message": "Auto-szünet"
+   },
+   "autoPause_tooltip": {
+      "message": "Automatikusan szünetelteti a lejátszást minden felirat végén."
+   },
+   "autoPaused": {
+      "message": "AUTOMATIKUSAN LEÁLLÍTVA"
+   },
+   "blueWords": {
+      "message": "Kék szavak"
+   },
+   "cancelGoogle_line_string": {
+      "message": "Megjegyzés: A „Pro” mód az utolsó befizetéstől számított 30 napig aktív."
+   },
+   "cancelSubscription_btn_string": {
+      "message": "Előfizetés visszavonása"
+   },
+   "catalogue": {
+      "message": "Katalógus"
+   },
+   "catalogue_tooltip": {
+      "message": "Keress az Language Reactor-nel használható filmeket és sorozatokat."
+   },
+   "choosePaymentProvider_line_string": {
+      "message": "Kérjük, válassz egy fizetési módot:"
+   },
+   "clickAStar": {
+      "message": "Kattints a csillagra a felirat elmentéséhez, vagy a szótárban található színes gombokra egy szó elmentéséhez."
+   },
+   "close": {
+      "message": "Bezárás"
+   },
+   "continueWithGoogle_btn_string": {
+      "message": "Folytatás Google-fiókkal"
+   },
+   "doNothing_option": {
+      "message": "Nincs művelet"
+   },
+   "doYouLikeOurExtension": {
+      "message": "Hogy tetszik az Language Reactor?"
+   },
+   "download": {
+      "message": "Letöltés"
+   },
+   "enableLln": {
+      "message": "Language Reactor bekapcsolása"
+   },
+   "errorApology": {
+      "message": "Az Language Reactor hibát észlelt. A fejlesztőket értesítettük. Próbáld frissíteni az oldalt, vagy próbáld újra 24 óra múlva. Elnézést a kellemetlenségért. Nézd meg Facebook oldalunkat a frissítésekért. Hibaüzenet: \u003Ctext>"
+   },
+   "exportAsCsv": {
+      "message": "Exportálás CSV-fájlként"
+   },
+   "exportAsJson": {
+      "message": "Exportálás JSON-fájlként"
+   },
+   "exportToAnki": {
+      "message": "Exportálás Anki-ba"
+   },
+   "extraLarge": {
+      "message": "Extra nagy"
+   },
+   "extraSmall": {
+      "message": "Extra kicsi"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_tooltip": {
+      "message": "Like-old az oldalunkat és értesülj a legújabb hírekről."
+   },
+   "featureComingSoon": {
+      "message": "Ez a funkció még fejlesztés alatt áll"
+   },
+   "feedback": {
+      "message": "Visszajelzés"
+   },
+   "feedback_tooltip": {
+      "message": "Valami gond van? Funkcióbővítést szeretnél?"
+   },
+   "firstSubtitleNotReached": {
+      "message": "- Az első felirat még nem kezdődött el. -"
+   },
+   "fix": {
+      "message": "Megjavít"
+   },
+   "fontSize_label": {
+      "message": "Betűméret:"
+   },
+   "freeTrial3_line_string": {
+      "message": "Próbáld ki a „Pro” módot a 3 napos, ingyenes próbaverzióval! "
+   },
+   "freeTrial7_line_string": {
+      "message": "Próbáld ki a „Pro” módot a 7 napos, ingyenes próbaverzióval! "
+   },
+   "greenWords": {
+      "message": "Zöld szavak"
+   },
+   "help": {
+      "message": "Segítség"
+   },
+   "help_tooltip": {
+      "message": "Használati utasítás, tippek."
+   },
+   "hideTranslation": {
+      "message": "Fordítás elrejtése:"
+   },
+   "hideTranslation_tt": {
+      "message": "A fordítás elrejtése amíg megy a lejátszás. Kattints a szövegre, vagy nyomd meg az \"e\" gombot a fordítás megjelenítéséhez. "
+   },
+   "highlightSavedWords_label": {
+      "message": "Mentett szavak kiemelése"
+   },
+   "hiragana": {
+      "message": "Hiragana"
+   },
+   "keyboardShortcuts": {
+      "message": "Gyorsbillentyűk:"
+   },
+   "langCode": {
+      "message": "hu"
+   },
+   "large": {
+      "message": "Nagy"
+   },
+   "levelDisable": {
+      "message": "Szint \u003Ctext>: tiltsa le"
+   },
+   "levelWithNumber": {
+      "message": "Szint \u003Ctext>: \u003Ctext> szavak"
+   },
+   "littlePracticeEveryDay": {
+      "message": "A hatékony nyelvtanulás kulcsa egy kis gyakorlás minden nap. "
+   },
+   "loadingDotDotDot": {
+      "message": "Betöltés..."
+   },
+   "loadingSubtitles": {
+      "message": "- Felirat betöltése, kérjük, várjon ... -"
+   },
+   "loadingTranslations": {
+      "message": "Fordítások betöltése ..."
+   },
+   "manageSubscription": {
+      "message": "Előfizetés kezelése, beállítások"
+   },
+   "mode": {
+      "message": "Mód:"
+   },
+   "mode_free": {
+      "message": "Ingyenes"
+   },
+   "mode_pro": {
+      "message": "Pro"
+   },
+   "mode_trial": {
+      "message": "Próbaverzió"
+   },
+   "next": {
+      "message": "Következő"
+   },
+   "nextSub": {
+      "message": "Következő felirat"
+   },
+   "nms_tip": {
+      "message": "Tanulsz valamilyen nyelven? Próbáld ki új bővítményünket, hogy a Netflix segítségével fejleszthesd tudásod!"
+   },
+   "noCharge": {
+      "message": "Másokkal ellentétben nem számítunk fel díjakat a próbaidőszak alatt, és nem váltjuk az előfizetést automatikusan magasabb szintűre."
+   },
+   "noCreditCardRequired": {
+      "message": "Hitelkártya nem szükséges."
+   },
+   "noDictionary_error": {
+      "message": "Az Language Reactor bővítmény még nem támogatja a szótár használatát a \u003Ctext>-hez. Ez a funkció hamarosan elérhető lesz!"
+   },
+   "noHTAvailable": {
+      "message": "Emberi fordítás nem elérhető a kiválasztott nyelvhez."
+   },
+   "noMTAvailable": {
+      "message": "A gépi fordítások csak a film eredeti feliratához érhetők el."
+   },
+   "noSavedItems": {
+      "message": "Nincsenek mentett elemek."
+   },
+   "noTransliterations": {
+      "message": "Nincs átirat (transzkripció)"
+   },
+   "none": {
+      "message": "Egyik sem"
+   },
+   "normal": {
+      "message": "Normál"
+   },
+   "notAvailable": {
+      "message": "Nem elérhető."
+   },
+   "notNow_btn_string": {
+      "message": "Most nem, köszönöm"
+   },
+   "notSignedIn": {
+      "message": "Nincs bejelentkezve"
+   },
+   "ok_btn_string": {
+      "message": "Ok"
+   },
+   "onLeftClick_label": {
+      "message": "Bal kattintás:"
+   },
+   "onRightClick_label": {
+      "message": "Jobb kattintás:"
+   },
+   "openCloseBottomPanel": {
+      "message": "Alsó panel megnyitása/ lezárása"
+   },
+   "openCloseVerticalView": {
+      "message": "A függőleges nézet megnyitása / lezárása"
+   },
+   "openClose_tooltip": {
+      "message": "Language Reactor megnyitása / bezárása."
+   },
+   "options": {
+      "message": "Opciók"
+   },
+   "originalLanguage_label": {
+      "message": "Film eredeti nyelve:"
+   },
+   "originalLanguage_tooltip": {
+      "message": "Ez a Netflix film eredeti nyelve."
+   },
+   "overrideArrowKeys_label": {
+      "message": "Nyíl billentyűk felülírása"
+   },
+   "overrideArrowKeys_tt": {
+      "message": "Gondoskodjon róla, hogy a nyíl billentyűk ugyanúgy működjenek, mint az A, S, D gombok"
+   },
+   "pauseOnSubsHover_label": {
+      "message": "Leállítás egérhúzásra"
+   },
+   "pauseOnSubsHover_tt": {
+      "message": "Automatikus leállítás, ha az egeret a felirat fölé húzzák"
+   },
+   "payWithGoogle_btn_string": {
+      "message": "Bankkártyás fizetés elfogadott"
+   },
+   "payWithPaddle_btn_string": {
+      "message": "Bankkártyás és PayPal fizetés elfogadott"
+   },
+   "paymentSuccessfulPaddleMessage_line_string": {
+      "message": "Megjegyzés: Ha a átutalást manuálisan ellenőrizni kell, egy néhány órás várakozás után a „Pro” mód automatikusan aktiválódik. Elnézést a késésért!"
+   },
+   "paymentSuccessful_line1_string": {
+      "message": "A fizetés sikeres volt! Köszönjük, hogy támogatod a projektünket!"
+   },
+   "paymentSuccessful_line2_string": {
+      "message": "Az előfizetést bármikor visszavonhatod a beállításokban."
+   },
+   "phrases": {
+      "message": "Kifejezések"
+   },
+   "play": {
+      "message": "Lejátszás"
+   },
+   "playPause": {
+      "message": "Lejátszás / Szünet"
+   },
+   "playbackSpeed": {
+      "message": "Lejátszási sebesség:"
+   },
+   "pleaseSelectItemsToExport": {
+      "message": "Kérjük, válaszd ki az exportálni kívánt elemeket:"
+   },
+   "pleaseSelectSubtitles": {
+      "message": "- Kérjük, válaszd ki a feliratot a Netflix lejátszóban -"
+   },
+   "pleaseSignIn": {
+      "message": "Jelentkezz be!"
+   },
+   "prePaymentModal_line1_string": {
+      "message": "Fizess elő a „Pro” funkciók további használatához."
+   },
+   "pressSpaceToContinue": {
+      "message": "(Nyomd meg a SPACE-t a folytatáshoz)"
+   },
+   "previous": {
+      "message": "Előző"
+   },
+   "previousSub": {
+      "message": "Előző felirat"
+   },
+   "price_string": {
+      "message": "A havi előfizetés ára:"
+   },
+   "proFeature": {
+      "message": "Pro funkció"
+   },
+   "proFeatures_line1_string": {
+      "message": "A „Pro” mód extra funkciókat tesz lehetővé:"
+   },
+   "proFeatures_line2_string": {
+      "message": "Gépi fordítások"
+   },
+   "proFeatures_line3_string": {
+      "message": "Szavak és kifejezések mentése"
+   },
+   "proFeatures_line4_string": {
+      "message": "Szinkronos filmek feliratai"
+   },
+   "proFeatures_line5_string": {
+      "message": "Támogasd a fejlesztőket"
+   },
+   "proFeatures_tt2_string": {
+      "message": "Ezek a fordítások az eredeti feliratot sokkal hűebben, közelebb követik. Nyelvtanulásra hasznosabbnak találhatod ezeket."
+   },
+   "proFeatures_tt3_string": {
+      "message": "Az elmentett szavak minden feliratban kiemelve láthatók. Ez segít a tanulásban és a megtanult szavak rendszerezésében. A mentett szavak és kifejezések exportálhatók Anki-ba (flashcard program)."
+   },
+   "proFeatures_tt4_string": {
+      "message": "Számos sorozat a Netflix-en több szinkronhanggal is elérhető, azonban a szinkron és a felirat szövege, fogalmazása eltér egymástól. Támogasd munkánkat és azon erőfeszítésünket, hogy olyan feliratokat készíthessünk népszerű amerikai sorozatokhoz, amelyek más nyelveken is pontosan megfelelnek a szinkronhangnak. Így például a Breaking Bad-del akár németül is tanulhatsz."
+   },
+   "proFeatures_tt5_string": {
+      "message": "Keményen dolgozunk annak érdekében, hogy folyamatosan frissítsük, javítsuk a bővítményt és új funkciókkal szolgálhassunk. "
+   },
+   "problemWithPayment_line1_string": {
+      "message": "Probléma akadt az előfizetés befizetésélvel."
+   },
+   "problemWithPayment_line2_string": {
+      "message": "A fizetési információk frissítése után frissítsd az oldalt."
+   },
+   "purpleWords": {
+      "message": "Lila szavak"
+   },
+   "redWords": {
+      "message": "Piros szavak"
+   },
+   "removeAllItems": {
+      "message": "Összes eltávolítása"
+   },
+   "removeSubtitle": {
+      "message": "Eltávolítás"
+   },
+   "repeat": {
+      "message": "Ismétlés"
+   },
+   "reportBug": {
+      "message": "Programhiba bejelentése"
+   },
+   "romaji": {
+      "message": "Romaju"
+   },
+   "saveCurrentSubtitle": {
+      "message": "Feliratot mentése"
+   },
+   "saveWordTooltip": {
+      "message": "Szó mentése. A jobb egérgombbal kattints egy szóra, hogy elmentsd azt."
+   },
+   "savedItems": {
+      "message": "Mentett elemek"
+   },
+   "settings": {
+      "message": "Beállítások"
+   },
+   "showDictSpeak_option": {
+      "message": "Szótár mutatása és szó kiejtése"
+   },
+   "showDict_option": {
+      "message": "Szótár mutatása"
+   },
+   "showHumanTranslation_label": {
+      "message": "Emberi fordítás megjelenítése:"
+   },
+   "showHumanTranslation_tooltip": {
+      "message": "Az eredeti felirat emberi fordításának megjelenítése a saját nyelveden, ha elérhető."
+   },
+   "showMachineTranslation_label": {
+      "message": "Gépi fordítás megjelenítése:"
+   },
+   "showMachineTranslation_tooltip": {
+      "message": "Az eredeti felirat gépi fordításának megjelenítése a saját nyelveden."
+   },
+   "showMore": {
+      "message": "Mutass többet"
+   },
+   "showTransliterations": {
+      "message": "Átirat (transzkripció) megjelenítése:"
+   },
+   "signIn": {
+      "message": "Bejelentkezés"
+   },
+   "signInStatus": {
+      "message": "Bejelentkezés státusza:"
+   },
+   "signOut": {
+      "message": "Kijelentkezés"
+   },
+   "signedIn": {
+      "message": "Bejelentkezve"
+   },
+   "slowDownPlayback": {
+      "message": "Lejátszás lassítása"
+   },
+   "slowSpeechSegments": {
+      "message": "Lassú beszédszegmensek:"
+   },
+   "slowSpeechSegments_tooltip": {
+      "message": "Csökkentsd a videó lejátszási sebességét mikor egy felirat aktív (0.8x), a könnyebb megértés érdekében."
+   },
+   "small": {
+      "message": "Kicsi"
+   },
+   "speakWord_option": {
+      "message": "Szó kiejtése"
+   },
+   "speedUpPlayback": {
+      "message": "Lejátszás gyorsítása"
+   },
+   "subscriptionActive": {
+      "message": "Előfizetése aktív."
+   },
+   "subscriptionToProFeatures": {
+      "message": "Előfizetés a „Pro” szolgáltatásokra."
+   },
+   "subtitleLanguage_label": {
+      "message": "Netflix felirat nyelve:"
+   },
+   "subtitleLanguage_label_yt": {
+      "message": "Youtube felirat nyelve:"
+   },
+   "subtitleLanguage_tooltip": {
+      "message": "Ez a kiválasztott Netflix feliratok nyelve."
+   },
+   "subtitleLanguage_tooltip_yt": {
+      "message": "Ez a kiválasztott Youtube feliratok nyelve."
+   },
+   "subtitles": {
+      "message": "Feliratok"
+   },
+   "subtitlesNoMatchAudio_error": {
+      "message": "A kiválasztott Netflix felirat (\u003Ctext>) nem egyezik a hanggal. Próbáld a feliratot a film eredeti nyelvére (\u003Ctext>) beállítani a Netflix lejátszásvezérlőn, vagy keress az Language Reactor katalógusban az általad tanult nyelvhez ajánlott filmeket."
+   },
+   "subtitlesNotLoaded_error": {
+      "message": "A Netflix feliratokat nem sikerült betölteni. Be van állítva a felirat nyelve a Netflix lejátszási menüben?"
+   },
+   "subtitlesNotLoaded_error_yt": {
+      "message": "A Youtube feliratokat nem sikerült betölteni. Be van állítva a felirat nyelve a Youtube lejátszási menüben?"
+   },
+   "toggleAutoPause": {
+      "message": "Automatikus leállítás be- és kikapcsolása"
+   },
+   "translationLanguage_label": {
+      "message": "Fordítási nyelv:"
+   },
+   "translationLanguage_tooltip": {
+      "message": "Ez a fordítás(ok) nyelve. Ezt állítsd az anyanyelvedre."
+   },
+   "translationNotFound": {
+      "message": "A fordítás nem található."
+   },
+   "trialBegunModal_body_string": {
+      "message": "A próbaverziód aktív! A „Pro” funkciók elérhetők!"
+   },
+   "tryForFree": {
+      "message": "Ingyenes próba"
+   },
+   "turnOnOff": {
+      "message": "Bekapcsol/Kikapcsol"
+   },
+   "updatePayment_btn_string": {
+      "message": "Fizetési információk frissítése"
+   },
+   "usageExamples": {
+      "message": "Használati példák"
+   },
+   "userDefinedExternalDict_label": {
+      "message": "Felhasználói szótár URL-ek:"
+   },
+   "vocabHighlight_label": {
+      "message": "Szókincs kiemelés:"
+   },
+   "vocabHighlight_tooltip": {
+      "message": "(Kísérleti funkció) Kevésbé gyakori szavak kiszürkítése, hogy az adott szinten a számodra legfontosabb szavakra összpontosíthass."
+   },
+   "welcomeModal_line1_string": {
+      "message": "Kedves Felhasználók!"
+   },
+   "welcomeModal_line2_string": {
+      "message": "Bővítményünk legújabb verziója számos frissítést tartalmaz. Reméljük, hogy hasznosnak találjátok az új funkciókat:"
+   },
+   "welcomeModal_line3_string": {
+      "message": "Választhatsz, hogy a feliratok a videón átfedéssel, vagy az alsó panelen, külön jelenjenek meg. "
+   },
+   "welcomeModal_line4_string": {
+      "message": "Oldalpanel, ahol az egész felirat egybefüggően olvasható. "
+   },
+   "welcomeModal_line5_string": {
+      "message": "Az ázsiai nyelvek hatékonyabb támogatása."
+   },
+   "welcomeModal_line6_string": {
+      "message": "Ugyan a gépi fordítás eddig ingyenes volt, de ez egy igen drága szolgáltatás. Megértéseteket köszönjük! "
+   },
+   "yellowWords": {
+      "message": "Sárga szavak"
+   }
+}

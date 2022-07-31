@@ -1,0 +1,39 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "assets/icons/icon128.png",
+      "default_popup": "popup.html"
+   },
+   "commands": {
+      "toggle-bionic": {
+         "description": "Toggle bionic reading mode",
+         "suggested_key": {
+            "default": "Alt+B"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/contentScript.bundle.js" ],
+      "match_origin_as_fallback": true,
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "An extension that allows for Bionic Reading on any webpage!",
+   "differential_fingerprint": "1.78848c63fec3f8db644f33c71d5a5a0af4925e2d67bee113272fe7f964497f62",
+   "icons": {
+      "128": "assets/icons/icon128.png",
+      "16": "assets/icons/icon16.png",
+      "32": "assets/icons/icon32.png",
+      "64": "assets/icons/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkvfB6GoyF5PcGn/dtanXEHrICoSAN1/YBAI1C8/URUWgOUebj9U8GBlrLLl3WGWXxDssYYtjCSd25ITXoqqS4IQduBJ+VLyfJRpgXK1KMeCURkvuiB7tCPM8zjdythfa3jzObM+c8UCmm28DQfO4TN4diwgzhTdH/2jP6vrJFy8MjtHwkXSoYnASuYmaITmzG8X04MmoD4dYn3NJOX4FmFSl1aGlxT6oiFotfaHADHROX2VRcOyfXGJ4EqEKMHtdAfP0uQ83T7bgxgtgPNFPTrQYvDOSatVEm//z1QoZR8tBwh8BSYm32Hw6io02293q90VY9pmu+vwXUWGUpBF8ywIDAQAB",
+   "manifest_version": 2,
+   "name": "Jiffy Reader",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.8.1300",
+   "version_name": "1.0.8.1300"
+}

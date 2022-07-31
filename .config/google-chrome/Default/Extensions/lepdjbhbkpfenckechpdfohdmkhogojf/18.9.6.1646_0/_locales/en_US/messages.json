@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Cancel"
+   },
+   "Change_name": {
+      "message": "Change name"
+   },
+   "Collapse": {
+      "message": "Collapse"
+   },
+   "Collapse_activity_window": {
+      "message": "Collapse activity window"
+   },
+   "Collapse_all_windows": {
+      "message": "Collapse all windows"
+   },
+   "Collapse_tabs": {
+      "message": "Collapse tabs"
+   },
+   "Current_window": {
+      "message": "Current window"
+   },
+   "Customize": {
+      "message": "Customize"
+   },
+   "Delete_group": {
+      "message": "Delete group"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback and Suggestion"
+   },
+   "Fixed_tabs": {
+      "message": "Fixed tab"
+   },
+   "History_tab_group": {
+      "message": "History tab group"
+   },
+   "New_window": {
+      "message": "New window"
+   },
+   "No_search_results_found": {
+      "message": "No search results found"
+   },
+   "Not_collapse": {
+      "message": "Not collapse"
+   },
+   "Open_all": {
+      "message": "Open all"
+   },
+   "Open_group": {
+      "message": "Open group"
+   },
+   "Open_with_browser": {
+      "message": "Open with browser"
+   },
+   "Recovery_window": {
+      "message": "Recovery window"
+   },
+   "Save_group": {
+      "message": "Save group"
+   },
+   "Save_tab_group": {
+      "message": "Save tab group"
+   },
+   "Search_group": {
+      "message": "Search group"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Tab group"
+   },
+   "Turn_off": {
+      "message": "Turn off"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "About us"
+   },
+   "add_tab": {
+      "message": "Add tab"
+   },
+   "contact": {
+      "message": "Contact"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Donate"
+   },
+   "extdesc": {
+      "message": "Save 95% of memory and reduce label clutter."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "old_tab_empty": {
+      "message": "The history tab group is empty"
+   },
+   "old_tab_group": {
+      "message": "The following is the old tab group"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "pin_tab": {
+      "message": "Pin tab"
+   },
+   "placeholder": {
+      "message": "Please enter the tab group name"
+   },
+   "praise": {
+      "message": "Five-star praise"
+   },
+   "privacyPolicy": {
+      "message": "Privacy Policy"
+   },
+   "rating_button_tate": {
+      "message": "Rate"
+   },
+   "rename": {
+      "message": "Rename"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "I have something to say"
+   },
+   "share": {
+      "message": "Share"
+   },
+   "shareFriends": {
+      "message": "Share us with your friends!"
+   },
+   "supportUs": {
+      "message": "Your support is a great encouragement to us"
+   },
+   "tab_address": {
+      "message": "Tab address"
+   },
+   "tabs": {
+      "message": "Tabs"
+   },
+   "termsOfUse": {
+      "message": "Terms of Use"
+   },
+   "turn_on": {
+      "message": "Turn on"
+   },
+   "usproductokey": {
+      "message": "Our products are okay with it?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

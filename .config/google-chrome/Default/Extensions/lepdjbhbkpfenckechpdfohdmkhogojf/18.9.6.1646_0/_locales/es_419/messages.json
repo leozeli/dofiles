@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Cancelar"
+   },
+   "Change_name": {
+      "message": "Cambiar nombre"
+   },
+   "Collapse": {
+      "message": "Colapso"
+   },
+   "Collapse_activity_window": {
+      "message": "Contraer ventana de actividad"
+   },
+   "Collapse_all_windows": {
+      "message": "Contraer todas las ventanas"
+   },
+   "Collapse_tabs": {
+      "message": "Contraer pestañas"
+   },
+   "Current_window": {
+      "message": "Ventana actual"
+   },
+   "Customize": {
+      "message": "Personalizar"
+   },
+   "Delete_group": {
+      "message": "Eliminar grupo"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Comentarios y sugerencias"
+   },
+   "Fixed_tabs": {
+      "message": "Pestaña fija"
+   },
+   "History_tab_group": {
+      "message": "Grupo de pestañas Historial"
+   },
+   "New_window": {
+      "message": "Nueva ventana"
+   },
+   "No_search_results_found": {
+      "message": "No se encontraron resultados de búsqueda"
+   },
+   "Not_collapse": {
+      "message": "No colapsar"
+   },
+   "Open_all": {
+      "message": "Abrir todo"
+   },
+   "Open_group": {
+      "message": "Grupo abierto"
+   },
+   "Open_with_browser": {
+      "message": "Abrir con navegador"
+   },
+   "Recovery_window": {
+      "message": "Ventana de recuperación"
+   },
+   "Save_group": {
+      "message": "Guardar grupo"
+   },
+   "Save_tab_group": {
+      "message": "Guardar grupo de pestañas"
+   },
+   "Search_group": {
+      "message": "Grupo de búsqueda"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Grupo de tabulación"
+   },
+   "Turn_off": {
+      "message": "Apagar"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "Sobre nosotros"
+   },
+   "add_tab": {
+      "message": "Agregar pestaña"
+   },
+   "contact": {
+      "message": "Contacto"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Donar"
+   },
+   "extdesc": {
+      "message": "Ahorre el 95% de la memoria y reduzca el desorden de la etiqueta."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "De acuerdo"
+   },
+   "old_tab_empty": {
+      "message": "El grupo de pestañas de historial está vacío"
+   },
+   "old_tab_group": {
+      "message": "El siguiente es el viejo grupo de pestañas"
+   },
+   "options": {
+      "message": "Opciones"
+   },
+   "pin_tab": {
+      "message": "Fijar pestaña"
+   },
+   "placeholder": {
+      "message": "Por favor ingrese el nombre del grupo de pestañas"
+   },
+   "praise": {
+      "message": "Alabanza de cinco estrellas"
+   },
+   "privacyPolicy": {
+      "message": "Política de privacidad"
+   },
+   "rating_button_tate": {
+      "message": "Calificar"
+   },
+   "rename": {
+      "message": "Rebautizar"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "Tengo algo que decir"
+   },
+   "share": {
+      "message": "Compartir"
+   },
+   "shareFriends": {
+      "message": "¡Compártenos con tus amigos!"
+   },
+   "supportUs": {
+      "message": "Su apoyo es un gran estímulo para nosotros"
+   },
+   "tab_address": {
+      "message": "Dirección de pestaña"
+   },
+   "tabs": {
+      "message": "Pestañas"
+   },
+   "termsOfUse": {
+      "message": "Condiciones de uso"
+   },
+   "turn_on": {
+      "message": "Encender"
+   },
+   "usproductokey": {
+      "message": "Nuestros productos están bien con eso?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

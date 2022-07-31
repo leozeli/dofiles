@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "zrušení"
+   },
+   "Change_name": {
+      "message": "Změnit jméno"
+   },
+   "Collapse": {
+      "message": "Kolaps"
+   },
+   "Collapse_activity_window": {
+      "message": "Sbalit okno aktivity"
+   },
+   "Collapse_all_windows": {
+      "message": "Sbalte všechna okna"
+   },
+   "Collapse_tabs": {
+      "message": "Sbalte záložky"
+   },
+   "Current_window": {
+      "message": "Aktuální okno"
+   },
+   "Customize": {
+      "message": "Přizpůsobte"
+   },
+   "Delete_group": {
+      "message": "Odstranit skupinu"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Zpětná vazba a návrh"
+   },
+   "Fixed_tabs": {
+      "message": "Pevná karta"
+   },
+   "History_tab_group": {
+      "message": "Skupina karta Historie"
+   },
+   "New_window": {
+      "message": "Nové okno"
+   },
+   "No_search_results_found": {
+      "message": "Nebyly nalezeny žádné výsledky vyhledávání"
+   },
+   "Not_collapse": {
+      "message": "Není sbalení"
+   },
+   "Open_all": {
+      "message": "Otevřete vše"
+   },
+   "Open_group": {
+      "message": "Otevřete skupinu"
+   },
+   "Open_with_browser": {
+      "message": "Otevřete prohlížeč"
+   },
+   "Recovery_window": {
+      "message": "Okno pro obnovení"
+   },
+   "Save_group": {
+      "message": "Uložit skupinu"
+   },
+   "Save_tab_group": {
+      "message": "Uložení skupiny karet"
+   },
+   "Search_group": {
+      "message": "Vyhledat skupinu"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Skupina tabel"
+   },
+   "Turn_off": {
+      "message": "Vypnout"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "O nás"
+   },
+   "add_tab": {
+      "message": "Přidat kartu"
+   },
+   "contact": {
+      "message": "Kontakt"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Přispět"
+   },
+   "extdesc": {
+      "message": "Ušetřete 95% paměti a snížte rušení štítků."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "old_tab_empty": {
+      "message": "Skupina záložky Historie je prázdná"
+   },
+   "old_tab_group": {
+      "message": "Následuje skupina starých karet"
+   },
+   "options": {
+      "message": "Možnosti"
+   },
+   "pin_tab": {
+      "message": "Připnout kartu"
+   },
+   "placeholder": {
+      "message": "Zadejte název skupiny karet"
+   },
+   "praise": {
+      "message": "Pětihvězda chvály"
+   },
+   "privacyPolicy": {
+      "message": "Ochrana osobních údajů"
+   },
+   "rating_button_tate": {
+      "message": "Ohodnotit"
+   },
+   "rename": {
+      "message": "Přejmenovat"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "Mám co říct"
+   },
+   "share": {
+      "message": "Sdílet"
+   },
+   "shareFriends": {
+      "message": "Sdílejte nás se svými přáteli!"
+   },
+   "supportUs": {
+      "message": "Vaše podpora je pro nás velkým povzbuzením"
+   },
+   "tab_address": {
+      "message": "Adresa tabulky"
+   },
+   "tabs": {
+      "message": "Záložky"
+   },
+   "termsOfUse": {
+      "message": "Podmínky použití"
+   },
+   "turn_on": {
+      "message": "Zapnout"
+   },
+   "usproductokey": {
+      "message": "Naše výrobky jsou v pořádku s tím?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

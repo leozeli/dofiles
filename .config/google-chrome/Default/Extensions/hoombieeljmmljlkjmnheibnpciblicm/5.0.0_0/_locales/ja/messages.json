@@ -1,0 +1,554 @@
+{
+   "allItems": {
+      "message": "全てのアイテム"
+   },
+   "allLanguages": {
+      "message": "すべての言語"
+   },
+   "allTypes": {
+      "message": "いろんなタイプ"
+   },
+   "alreadyUserPleaseSignIn": {
+      "message": "すでにユーザーですか？サインインしてください。"
+   },
+   "alsoUseASD": {
+      "message": "使用可能：A、S、D、スペース"
+   },
+   "appDesc": {
+      "message": "学習したい言語で映画やドラマを鑑賞して、効果的に楽しく自分で言語スキルを向上させましょう。"
+   },
+   "appName": {
+      "message": "Language Reactor"
+   },
+   "appNameTr": {
+      "message": "Netflixで外国語学習"
+   },
+   "areYouSure": {
+      "message": "よろしいですか?"
+   },
+   "audioLanguage_label": {
+      "message": "Netflixオーディオ言語:"
+   },
+   "audioLanguage_tooltip": {
+      "message": "これは選択したNetflixオーディオトラックの言語です。"
+   },
+   "audioNoMatchSubtitles_error": {
+      "message": "選択したNetflixオーディオトラック（\u003Ctext>）は字幕と一致しない可能性があります。 Netflixの再生コントロールでタイトルの原文言語（\u003Ctext>）に設定するか、Language Reactorカタログで学習したい言語の推奨タイトルを検索して下さい。"
+   },
+   "autoPause": {
+      "message": "自動一時停止"
+   },
+   "autoPause_tooltip": {
+      "message": "字幕が終了するごとに自動的に再生を一時停止する。"
+   },
+   "autoPaused": {
+      "message": "自動一時停止"
+   },
+   "blueWords": {
+      "message": "青い言葉"
+   },
+   "cancelGoogle_line_string": {
+      "message": "注：[Pro]モードは、前回の支払いから30日間有効です。"
+   },
+   "cancelSubscription_btn_string": {
+      "message": "購読をキャンセル"
+   },
+   "catalogue": {
+      "message": "カタログ"
+   },
+   "catalogue_tooltip": {
+      "message": "Language Reactorの使用に適した映画やドラマを検索する。"
+   },
+   "choosePaymentProvider_line_string": {
+      "message": "支払い方法を選択してください。"
+   },
+   "clickAStar": {
+      "message": "字幕を保存するには星をクリックし、単語を保存するには辞書のカラーボタンをクリックします。"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "continueWithGoogle_btn_string": {
+      "message": "Googleアカウントに進む"
+   },
+   "doNothing_option": {
+      "message": "何もしない"
+   },
+   "doYouLikeOurExtension": {
+      "message": "Language Reactor をお気に入りいただけていますか？"
+   },
+   "download": {
+      "message": "ダウンロード"
+   },
+   "enableLln": {
+      "message": "Language Reactor を有効にする"
+   },
+   "errorApology": {
+      "message": "Language Reactorがエラーの発生を検出しました。エラーを開発者に通知しました。ページを再度読み込むか、24時間後にもう一度試して下さい。ご不便をお掛けしてを申し訳ございません。最新情報については、Facebookのページを確認して下さい。エラーメッセージ：\u003Ctext>"
+   },
+   "exportAsCsv": {
+      "message": "CSV形式でエクスポート"
+   },
+   "exportAsJson": {
+      "message": "JSON形式でエクスポート"
+   },
+   "exportToAnki": {
+      "message": "Ankiにエクスポート"
+   },
+   "extraLarge": {
+      "message": "極大"
+   },
+   "extraSmall": {
+      "message": "極小"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_tooltip": {
+      "message": "ページを「いいね！」して、最新ニュースをチェック。"
+   },
+   "featureComingSoon": {
+      "message": "近日公開予定の機能です。"
+   },
+   "feedback": {
+      "message": "フィードバック"
+   },
+   "feedback_tooltip": {
+      "message": "何か問題でも？機能のリクエストですか？"
+   },
+   "firstSubtitleNotReached": {
+      "message": "- 最初の字幕はまだ始まっていません。 -"
+   },
+   "fix": {
+      "message": "修正する"
+   },
+   "fontSize_label": {
+      "message": "フォントサイズ："
+   },
+   "freeTrial3_line_string": {
+      "message": "3日間の無料トライアルで「Pro」モードを試すことができます。"
+   },
+   "freeTrial7_line_string": {
+      "message": "7日間の無料トライアルで「Pro」モードを試すことができます。"
+   },
+   "greenWords": {
+      "message": "緑色の言葉"
+   },
+   "help": {
+      "message": "ヘルプ"
+   },
+   "help_tooltip": {
+      "message": "使用方法とヒント。"
+   },
+   "hideTranslation": {
+      "message": "訳を非表示:"
+   },
+   "hideTranslation_tt": {
+      "message": "ビデオの再生時に訳を非表示にしません。テキストをクリックするか「e」を押すと訳が表示されます。"
+   },
+   "highlightSavedWords_label": {
+      "message": "保存した単語のハイライト表示"
+   },
+   "hiragana": {
+      "message": "ひらがな"
+   },
+   "keyboardShortcuts": {
+      "message": "キーボードのショートカット："
+   },
+   "langCode": {
+      "message": "ja"
+   },
+   "large": {
+      "message": "大"
+   },
+   "levelDisable": {
+      "message": "レベル\u003Ctext>：無効"
+   },
+   "levelWithNumber": {
+      "message": "レベル\u003Ctext>：\u003Ctext>単語"
+   },
+   "littlePracticeEveryDay": {
+      "message": "言語学習には毎日少しずつ練習が必要です。"
+   },
+   "loadingDotDotDot": {
+      "message": "読み込み中..."
+   },
+   "loadingSubtitles": {
+      "message": "- 字幕を読み込んでいます、お待ち下さい...  -"
+   },
+   "loadingTranslations": {
+      "message": "翻訳を読み込んでいます..."
+   },
+   "manageSubscription": {
+      "message": "購読を管理する"
+   },
+   "mode": {
+      "message": "モード："
+   },
+   "mode_free": {
+      "message": "無料"
+   },
+   "mode_pro": {
+      "message": "プロ"
+   },
+   "mode_trial": {
+      "message": "お試し"
+   },
+   "next": {
+      "message": "次"
+   },
+   "nextSub": {
+      "message": "次の字幕"
+   },
+   "nms_tip": {
+      "message": "外国語を学習していますか？Netflixの新しい言語学習機能をお試し下さい"
+   },
+   "noCharge": {
+      "message": "他社とは違い、試用期間中は料金は発生しませんし、また自動的にサブスクリプションが更新されることもありません。"
+   },
+   "noCreditCardRequired": {
+      "message": "クレジット カードは不要です。"
+   },
+   "noDictionary_error": {
+      "message": "Language Reactor拡張は\u003Ctext>の辞書の使用をサポートしていません。この機能はもうすぐ有効になります！"
+   },
+   "noHTAvailable": {
+      "message": "選択した翻訳言語は、人による翻訳はありません。"
+   },
+   "noMTAvailable": {
+      "message": "自動翻訳は、映画のオリジナルの字幕でのみ利用できます。"
+   },
+   "noSavedItems": {
+      "message": "保存された商品はありません。"
+   },
+   "noTransliterations": {
+      "message": "音訳なし"
+   },
+   "none": {
+      "message": "無し"
+   },
+   "normal": {
+      "message": "通常"
+   },
+   "notAvailable": {
+      "message": "利用不可。"
+   },
+   "notNow_btn_string": {
+      "message": "今は試さない"
+   },
+   "notSignedIn": {
+      "message": "サインインしていません"
+   },
+   "ok_btn_string": {
+      "message": "OK"
+   },
+   "onLeftClick_label": {
+      "message": "左クリック時："
+   },
+   "onRightClick_label": {
+      "message": "右クリック時："
+   },
+   "openCloseBottomPanel": {
+      "message": "底部パネルの開閉"
+   },
+   "openCloseVerticalView": {
+      "message": "縦ビューの開閉"
+   },
+   "openClose_tooltip": {
+      "message": "Language Reactorをオープン/クローズする。"
+   },
+   "options": {
+      "message": "オプション"
+   },
+   "originalLanguage_label": {
+      "message": "映画の原文言語:"
+   },
+   "originalLanguage_tooltip": {
+      "message": "これはNetflix映画の原文言語です。"
+   },
+   "overrideArrowKeys_label": {
+      "message": "矢印キーを上書き"
+   },
+   "overrideArrowKeys_tt": {
+      "message": "キーボードの矢印キーの動作をA、S、Dのキーと同じにします"
+   },
+   "pauseOnSubsHover_label": {
+      "message": "マウスを乗せると一時停止"
+   },
+   "pauseOnSubsHover_tt": {
+      "message": "マウスポインターを字幕の上に乗せると、自動的に一時停止します"
+   },
+   "payWithGoogle_btn_string": {
+      "message": "クレジットカード使用可"
+   },
+   "payWithPaddle_btn_string": {
+      "message": "クレジットカードとPaypal使用可。"
+   },
+   "paymentSuccessfulPaddleMessage_line_string": {
+      "message": "注：支払いを手動で確認する必要がある場合は、数時間待ってから[プロ]モードを自動的に有効にしてください。遅れて申し訳ありません！"
+   },
+   "paymentSuccessful_line1_string": {
+      "message": "支払い完了！このプロジェクトへの支援に感謝します！"
+   },
+   "paymentSuccessful_line2_string": {
+      "message": "あなたは設定から​​いつでもあなたの購読をキャンセルすることができます。"
+   },
+   "phrases": {
+      "message": "フレーズ"
+   },
+   "play": {
+      "message": "再生"
+   },
+   "playPause": {
+      "message": "再生/一時停止"
+   },
+   "playbackSpeed": {
+      "message": "再生スピード："
+   },
+   "pleaseLeaveReviewMessage": {
+      "message": "Language Reactorが好きですか？Chromeウェブストアにレビューを投稿していただけるようお願いします。"
+   },
+   "pleaseSelectItemsToExport": {
+      "message": "エクスポートするアイテムを選択してください："
+   },
+   "pleaseSelectSubtitles": {
+      "message": "-  Netflixプレーヤーで字幕を選択して下さい -"
+   },
+   "pleaseSignIn": {
+      "message": "サインインしてください。"
+   },
+   "prePaymentModal_line1_string": {
+      "message": "引き続き「Pro」機能を使用するよう登録してください。"
+   },
+   "pressSpaceToContinue": {
+      "message": "（続行するにはSpaceキーを押します）"
+   },
+   "previous": {
+      "message": "前"
+   },
+   "previousSub": {
+      "message": "前の字幕"
+   },
+   "price_string": {
+      "message": "1ヶ月あたりの価格は、"
+   },
+   "proFeature": {
+      "message": "プロの特徴"
+   },
+   "proFeatures_line1_string": {
+      "message": "「プロ」モードでは追加機能が利用できます。"
+   },
+   "proFeatures_line2_string": {
+      "message": "自動翻訳です"
+   },
+   "proFeatures_line3_string": {
+      "message": "単語やフレーズを保存する"
+   },
+   "proFeatures_line4_string": {
+      "message": "ダビング映画の字幕"
+   },
+   "proFeatures_line5_string": {
+      "message": "開発者をサポートする"
+   },
+   "proFeatures_tt2_string": {
+      "message": "これらは元の字幕の意味にほぼ近いです。語学を学ぶ学生には大いに役立ちます。"
+   },
+   "proFeatures_tt3_string": {
+      "message": "保存した単語はすべての字幕でハイライト表示されます。これはあなたの学習を整理するのに役立ちます。保存された単語やフレーズはAnki（フラッシュカードプログラム）にエクスポートすることができます。"
+   },
+   "proFeatures_tt4_string": {
+      "message": "Netflixのシリーズのほとんどは追加の他の言語のオーディオトラック（ダビングされたオーディオ）がありますが、Netflixにはこれらのオーディオトラックのための正しい字幕がありません。それらを作成したいので、たとえばBreaking Badでドイツ語を勉強することができます。"
+   },
+   "proFeatures_tt5_string": {
+      "message": "私たちは新しい機能を届けられるよう、拡張を改良するため一生懸命働きます。"
+   },
+   "problemWithPayment_line1_string": {
+      "message": "定期購入の支払いに問題がありました。"
+   },
+   "problemWithPayment_line2_string": {
+      "message": "お支払い情報を更新したら、このウィンドウを再読み込みしてください。"
+   },
+   "purpleWords": {
+      "message": "紫の言葉"
+   },
+   "redWords": {
+      "message": "赤い言葉"
+   },
+   "removeAllItems": {
+      "message": "すべて削除"
+   },
+   "removeSubtitle": {
+      "message": "削除"
+   },
+   "repeat": {
+      "message": "繰り返し再生"
+   },
+   "reportBug": {
+      "message": "バグを報告"
+   },
+   "romaji": {
+      "message": "ローマ字"
+   },
+   "saveCurrentSubtitle": {
+      "message": "現在の字幕を保存"
+   },
+   "saveSubtitle": {
+      "message": "字幕を保存"
+   },
+   "saveWordTooltip": {
+      "message": "言葉を保存します。単語を右クリックして保存することもできます。"
+   },
+   "saveWord_option": {
+      "message": "単語を保存する"
+   },
+   "savedItems": {
+      "message": "保存したアイテム"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "showDictSpeak_option": {
+      "message": "辞書を表示して単語を読み上げる"
+   },
+   "showDict_option": {
+      "message": "辞書を表示する"
+   },
+   "showHumanTranslation_label": {
+      "message": "専門家による翻訳を表示する:"
+   },
+   "showHumanTranslation_tooltip": {
+      "message": "選択可能であれば、原文字幕の専門家による翻訳をあなたの言語で表示して下さい。"
+   },
+   "showMachineTranslation_label": {
+      "message": "機械翻訳を表示する:"
+   },
+   "showMachineTranslation_tooltip": {
+      "message": "あなた言語の原文字幕の機械翻訳を表示する。"
+   },
+   "showMore": {
+      "message": "もっと表示する"
+   },
+   "showTransliterations": {
+      "message": "音訳を表示する："
+   },
+   "signIn": {
+      "message": "サインイン"
+   },
+   "signInStatus": {
+      "message": "サインインステータス："
+   },
+   "signOut": {
+      "message": "サインアウト"
+   },
+   "signedIn": {
+      "message": "ログインしました"
+   },
+   "slowDownPlayback": {
+      "message": "再生速度を落とす"
+   },
+   "slowSpeechSegments": {
+      "message": "音声セグメントのスピードを遅くする："
+   },
+   "slowSpeechSegments_tooltip": {
+      "message": "字幕がアクティブ（0.8倍）状態のときは、ビデオの再生速度を遅くして理解し易くする。"
+   },
+   "small": {
+      "message": "小"
+   },
+   "speakWord_option": {
+      "message": "単語を読み上げる"
+   },
+   "speedUpPlayback": {
+      "message": "再生速度を上げる"
+   },
+   "subscriptionActive": {
+      "message": "月額プランが有効になっています。"
+   },
+   "subscriptionToProFeatures": {
+      "message": "「Pro」機能の購読"
+   },
+   "subtitleLanguage_label": {
+      "message": "Netflix字幕言語:"
+   },
+   "subtitleLanguage_label_yt": {
+      "message": "Youtube字幕言語:"
+   },
+   "subtitleLanguage_tooltip": {
+      "message": "これは選択したNetflix字幕言語です。"
+   },
+   "subtitleLanguage_tooltip_yt": {
+      "message": "これは選択したYoutube字幕言語です。"
+   },
+   "subtitles": {
+      "message": "字幕"
+   },
+   "subtitlesNoMatchAudio_error": {
+      "message": "選択したNetflix字幕（\u003Ctext>）が音声と一致しません。 Netflixの再生コントロールでタイトルの原文言語（\u003Ctext>）を設定するか、Language Reactorカタログで学習したい言語の推奨タイトルを検索して下さい。"
+   },
+   "subtitlesNotLoaded_error": {
+      "message": "Netflixの字幕が読み込まれませんでした。 Netflixの再生メニューで字幕言語が選択されていますか？"
+   },
+   "subtitlesNotLoaded_error_yt": {
+      "message": "Youtubeの字幕が読み込まれませんでした。 Youtubeの再生メニューで字幕言語が選択されていますか？"
+   },
+   "toggleAutoPause": {
+      "message": "自動一時停止を切り替える"
+   },
+   "translationLanguage_label": {
+      "message": "翻訳言語:"
+   },
+   "translationLanguage_tooltip": {
+      "message": "これは翻訳言語です。あなたの母国語に設定して下さい。"
+   },
+   "translationNotFound": {
+      "message": "翻訳が見つかりません。"
+   },
+   "trialBegunModal_body_string": {
+      "message": "トライアル期間が始まりました！ 「Pro」機能が有効になりました。"
+   },
+   "tryForFree": {
+      "message": "無料で試す"
+   },
+   "turnOnOff": {
+      "message": "オン/オフ"
+   },
+   "updatePayment_btn_string": {
+      "message": "支払い情報を更新する"
+   },
+   "usageExamples": {
+      "message": "使用例"
+   },
+   "userDefinedExternalDict_label": {
+      "message": "ユーザーディレクトリURL："
+   },
+   "vocabHighlight_label": {
+      "message": "語彙のハイライト:"
+   },
+   "vocabHighlight_tooltip": {
+      "message": "（試験的）一般的に常用しない単語を省略し、あなたのレベルに適切で重要な単語に重点を置きます。"
+   },
+   "welcomeModal_line1_string": {
+      "message": "ユーザー各位"
+   },
+   "welcomeModal_line2_string": {
+      "message": "私たちは拡張の大幅な更新を行いました。新機能をお楽しみください。"
+   },
+   "welcomeModal_line3_string": {
+      "message": "字幕をビデオの上に表示できるようになりました。"
+   },
+   "welcomeModal_line4_string": {
+      "message": "すべての字幕を表示するための追加のサイドパネルも加わりました。"
+   },
+   "welcomeModal_line5_string": {
+      "message": "アジア言語をより強化"
+   },
+   "welcomeModal_line6_string": {
+      "message": "自動翻訳はこれまでは無料でしたが、これは提供に費用が掛かるサービスです。ご理解ください。"
+   },
+   "writeReview": {
+      "message": "レビューを書く"
+   },
+   "yellowWords": {
+      "message": "黄色い言葉"
+   }
+}

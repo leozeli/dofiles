@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Membatalkan"
+   },
+   "Change_name": {
+      "message": "Ganti Nama"
+   },
+   "Collapse": {
+      "message": "Jatuh"
+   },
+   "Collapse_activity_window": {
+      "message": "Ciutkan jendela aktivitas"
+   },
+   "Collapse_all_windows": {
+      "message": "Ciutkan semua jendela"
+   },
+   "Collapse_tabs": {
+      "message": "Ciutkan tab"
+   },
+   "Current_window": {
+      "message": "Jendela saat ini"
+   },
+   "Customize": {
+      "message": "Sesuaikan"
+   },
+   "Delete_group": {
+      "message": "Hapus grup"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Umpan Balik dan Saran"
+   },
+   "Fixed_tabs": {
+      "message": "Tab tetap"
+   },
+   "History_tab_group": {
+      "message": "Grup tab riwayat"
+   },
+   "New_window": {
+      "message": "Jendela baru"
+   },
+   "No_search_results_found": {
+      "message": "Tidak ditemukan hasil pencarian"
+   },
+   "Not_collapse": {
+      "message": "Tidak runtuh"
+   },
+   "Open_all": {
+      "message": "Buka semua"
+   },
+   "Open_group": {
+      "message": "Buka grup"
+   },
+   "Open_with_browser": {
+      "message": "Buka dengan browser"
+   },
+   "Recovery_window": {
+      "message": "Jendela pemulihan"
+   },
+   "Save_group": {
+      "message": "Simpan grup"
+   },
+   "Save_tab_group": {
+      "message": "Simpan grup tab"
+   },
+   "Search_group": {
+      "message": "Grup pencarian"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Grup tab"
+   },
+   "Turn_off": {
+      "message": "Matikan"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "Tentang kami"
+   },
+   "add_tab": {
+      "message": "Tambahkan tab"
+   },
+   "contact": {
+      "message": "Kontak"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Donasi"
+   },
+   "extdesc": {
+      "message": "Hemat 95% memori dan kurangi gangguan label."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "Baik"
+   },
+   "old_tab_empty": {
+      "message": "Grup tab riwayat kosong"
+   },
+   "old_tab_group": {
+      "message": "Berikut ini adalah grup tab lama"
+   },
+   "options": {
+      "message": "Opsi"
+   },
+   "pin_tab": {
+      "message": "Pasang pin pada tab"
+   },
+   "placeholder": {
+      "message": "Silakan masukkan nama grup tab"
+   },
+   "praise": {
+      "message": "Pujian bintang lima"
+   },
+   "privacyPolicy": {
+      "message": "Kebijakan Privasi"
+   },
+   "rating_button_tate": {
+      "message": "Nilai"
+   },
+   "rename": {
+      "message": "Ganti nama"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "Saya punya sesuatu untuk dikatakan"
+   },
+   "share": {
+      "message": "Bagikan"
+   },
+   "shareFriends": {
+      "message": "Bagikan kami dengan teman-teman Anda!"
+   },
+   "supportUs": {
+      "message": "Dukungan Anda merupakan dorongan besar bagi kami"
+   },
+   "tab_address": {
+      "message": "Alamat tab"
+   },
+   "tabs": {
+      "message": "Tab"
+   },
+   "termsOfUse": {
+      "message": "Syarat Penggunaan"
+   },
+   "turn_on": {
+      "message": "Nyalakan"
+   },
+   "usproductokey": {
+      "message": "Produk kami baik-baik saja dengan itu?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

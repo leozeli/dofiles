@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Annullera"
+   },
+   "Change_name": {
+      "message": "Byt namn"
+   },
+   "Collapse": {
+      "message": "Kollaps"
+   },
+   "Collapse_activity_window": {
+      "message": "Dölj aktivitetsfönstret"
+   },
+   "Collapse_all_windows": {
+      "message": "Dölj alla fönster"
+   },
+   "Collapse_tabs": {
+      "message": "Dölj flikar"
+   },
+   "Current_window": {
+      "message": "Nuvarande fönster"
+   },
+   "Customize": {
+      "message": "Anpassa"
+   },
+   "Delete_group": {
+      "message": "Radera grupp"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback och förslag"
+   },
+   "Fixed_tabs": {
+      "message": "Fast flik"
+   },
+   "History_tab_group": {
+      "message": "Historik flikgrupp"
+   },
+   "New_window": {
+      "message": "Nytt fönster"
+   },
+   "No_search_results_found": {
+      "message": "Inga sökresultat hittades"
+   },
+   "Not_collapse": {
+      "message": "Inte kollapsa"
+   },
+   "Open_all": {
+      "message": "Öppna alla"
+   },
+   "Open_group": {
+      "message": "Öppna grupp"
+   },
+   "Open_with_browser": {
+      "message": "Öppna med webbläsare"
+   },
+   "Recovery_window": {
+      "message": "Återställningsfönster"
+   },
+   "Save_group": {
+      "message": "Spara grupp"
+   },
+   "Save_tab_group": {
+      "message": "Spara flikgrupp"
+   },
+   "Search_group": {
+      "message": "Sökgrupp"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Flikgrupp"
+   },
+   "Turn_off": {
+      "message": "Stäng av"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "Om oss"
+   },
+   "add_tab": {
+      "message": "Lägg till flik"
+   },
+   "contact": {
+      "message": "Kontakt"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Skänk en gåva"
+   },
+   "extdesc": {
+      "message": "Spara 95% av minnet och minska etikettrörelsen."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "old_tab_empty": {
+      "message": "Historikflikgruppen är tom"
+   },
+   "old_tab_group": {
+      "message": "Följande är den gamla flikgruppen"
+   },
+   "options": {
+      "message": "Alternativ"
+   },
+   "pin_tab": {
+      "message": "Fäst flik"
+   },
+   "placeholder": {
+      "message": "Vänligen ange flikgruppsnamnet"
+   },
+   "praise": {
+      "message": "Femstjärnigt beröm"
+   },
+   "privacyPolicy": {
+      "message": "Integritetspolicy"
+   },
+   "rating_button_tate": {
+      "message": "Sätt betyg"
+   },
+   "rename": {
+      "message": "Döpa om"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "jag har något att säga"
+   },
+   "share": {
+      "message": "Dela"
+   },
+   "shareFriends": {
+      "message": "Dela oss med dina vänner!"
+   },
+   "supportUs": {
+      "message": "Ditt stöd är en stor uppmuntran till oss"
+   },
+   "tab_address": {
+      "message": "Tab-adress"
+   },
+   "tabs": {
+      "message": "flikar"
+   },
+   "termsOfUse": {
+      "message": "Användarvillkor"
+   },
+   "turn_on": {
+      "message": "Sätta på"
+   },
+   "usproductokey": {
+      "message": "Våra produkter är okej med det?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

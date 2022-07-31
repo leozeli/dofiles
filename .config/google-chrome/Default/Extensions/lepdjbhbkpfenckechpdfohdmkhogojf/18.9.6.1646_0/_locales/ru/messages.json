@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Отмена"
+   },
+   "Change_name": {
+      "message": "Сменить имя"
+   },
+   "Collapse": {
+      "message": "коллапс"
+   },
+   "Collapse_activity_window": {
+      "message": "Свернуть окно операции"
+   },
+   "Collapse_all_windows": {
+      "message": "Свернуть все окна"
+   },
+   "Collapse_tabs": {
+      "message": "Свернуть вкладки"
+   },
+   "Current_window": {
+      "message": "Текущее окно"
+   },
+   "Customize": {
+      "message": "Настроить"
+   },
+   "Delete_group": {
+      "message": "Удалить группу"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Обратная связь и предложение"
+   },
+   "Fixed_tabs": {
+      "message": "Фиксированная вклад"
+   },
+   "History_tab_group": {
+      "message": "Группа вкладок истории"
+   },
+   "New_window": {
+      "message": "Новое окно"
+   },
+   "No_search_results_found": {
+      "message": "Результаты поиска не найдены"
+   },
+   "Not_collapse": {
+      "message": "Не разрушать"
+   },
+   "Open_all": {
+      "message": "Открыть все"
+   },
+   "Open_group": {
+      "message": "Открыть группу"
+   },
+   "Open_with_browser": {
+      "message": "Открыть с помощью браузера"
+   },
+   "Recovery_window": {
+      "message": "Окно восстановления"
+   },
+   "Save_group": {
+      "message": "Сохранить группу"
+   },
+   "Save_tab_group": {
+      "message": "Сохранить вкладку"
+   },
+   "Search_group": {
+      "message": "Группа поиска"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Группа вкладок"
+   },
+   "Turn_off": {
+      "message": "Выключить"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "О нас"
+   },
+   "add_tab": {
+      "message": "Добавить вкладку"
+   },
+   "contact": {
+      "message": "Контакт"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Пожертвовать"
+   },
+   "extdesc": {
+      "message": "Сохраните 95% памяти и уменьшите помехи."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "ОК"
+   },
+   "old_tab_empty": {
+      "message": "Группа вкладок истории пуста"
+   },
+   "old_tab_group": {
+      "message": "Ниже приведена старая группа вкладок"
+   },
+   "options": {
+      "message": "Параметры"
+   },
+   "pin_tab": {
+      "message": "Закрепить вкладку"
+   },
+   "placeholder": {
+      "message": "Введите название группы вкладок"
+   },
+   "praise": {
+      "message": "Пятизвездочная похвала"
+   },
+   "privacyPolicy": {
+      "message": "Конфиденциальность"
+   },
+   "rating_button_tate": {
+      "message": "Рейтинг"
+   },
+   "rename": {
+      "message": "переименовывать"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "Мне есть что сказать"
+   },
+   "share": {
+      "message": "Поделиться"
+   },
+   "shareFriends": {
+      "message": "Поделитесь с нами своими друзьями!"
+   },
+   "supportUs": {
+      "message": "Ваша поддержка - большое поощрение для нас"
+   },
+   "tab_address": {
+      "message": "Адрес вкладки"
+   },
+   "tabs": {
+      "message": "Вкладки"
+   },
+   "termsOfUse": {
+      "message": "Условия"
+   },
+   "turn_on": {
+      "message": "Включить"
+   },
+   "usproductokey": {
+      "message": "Наши продукты в порядке с ним?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

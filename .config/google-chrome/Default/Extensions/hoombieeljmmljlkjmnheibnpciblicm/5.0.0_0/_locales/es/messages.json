@@ -1,0 +1,545 @@
+{
+   "allItems": {
+      "message": "Todos los artículos"
+   },
+   "allLanguages": {
+      "message": "Todos los idiomas"
+   },
+   "allTypes": {
+      "message": "Todos los tipos"
+   },
+   "alreadyUserPleaseSignIn": {
+      "message": "¿Ya es usuario? Por favor, inicie sesión."
+   },
+   "alsoUseASD": {
+      "message": "También puedes utilizar: A, S, D, Space"
+   },
+   "appDesc": {
+      "message": "Mejore sus habilidades por su cuenta, de manera efectiva y agradable, viendo películas y series en el idioma que estudia."
+   },
+   "appName": {
+      "message": "Language Reactor"
+   },
+   "appNameTr": {
+      "message": "Language Reactor"
+   },
+   "areYouSure": {
+      "message": "¿Está seguro?"
+   },
+   "audioLanguage_label": {
+      "message": "Idioma del audio de Netflix:"
+   },
+   "audioLanguage_tooltip": {
+      "message": "Este es el idioma de la pista de audio de Netflix seleccionada."
+   },
+   "audioNoMatchSubtitles_error": {
+      "message": "Es probable que la pista de audio de Netflix seleccionada (\u003Ctext>) no coincida con los subtítulos. Intente configurarlo en el idioma original del título (\u003Ctext>) en los controles de reproducción de Netflix, o busque en el catálogo de Language Reactor los títulos sugeridos para el idioma que estudia."
+   },
+   "autoPause": {
+      "message": "Pausa automática"
+   },
+   "autoPause_tooltip": {
+      "message": "Pausar automáticamente la reproducción al final de cada subtítulo."
+   },
+   "autoPaused": {
+      "message": "PAUSADO AUTOMÁTICAMENTE"
+   },
+   "blueWords": {
+      "message": "Palabras azules"
+   },
+   "cancelGoogle_line_string": {
+      "message": "Nota: el modo ‘Pro’ permanecerá activo durante 30 días después de su último pago."
+   },
+   "cancelSubscription_btn_string": {
+      "message": "Cancelar suscripción"
+   },
+   "catalogue": {
+      "message": "Catálogo"
+   },
+   "catalogue_tooltip": {
+      "message": "Encuentre películas y series compatibles con Language Reactor."
+   },
+   "choosePaymentProvider_line_string": {
+      "message": "Por favor, elija una forma de pago:"
+   },
+   "clickAStar": {
+      "message": "Haga clic en una estrella para guardar un subtítulo o en los botones de colores del diccionario para guardar una palabra."
+   },
+   "close": {
+      "message": "Cerrar"
+   },
+   "continueWithGoogle_btn_string": {
+      "message": "Continuar con la cuenta de Google"
+   },
+   "doNothing_option": {
+      "message": "No hacer nada"
+   },
+   "doYouLikeOurExtension": {
+      "message": "¿Te gusta Language Reactor?"
+   },
+   "download": {
+      "message": "Descargar"
+   },
+   "enableLln": {
+      "message": "Habilitar Language Reactor"
+   },
+   "errorApology": {
+      "message": "Language Reactor ha detectado que se ha producido un error. Los desarrolladores han sido notificados. Intente volver a cargar la página, o inténtelo nuevamente en 24 horas. Disculpe las molestias. Consulte nuestra página de Facebook para actualizaciones. Mensaje de error: \u003Ctext>"
+   },
+   "exportAsCsv": {
+      "message": "Exportar a CSV"
+   },
+   "exportAsJson": {
+      "message": "Exportar a JSON"
+   },
+   "exportToAnki": {
+      "message": "Exportar a Anki"
+   },
+   "extraLarge": {
+      "message": "Extragrande"
+   },
+   "extraSmall": {
+      "message": "Extrapequeña"
+   },
+   "facebook": {
+      "message": "Facebook"
+   },
+   "facebook_tooltip": {
+      "message": "Dale \"Me gusta\" a nuestra página y consulta las últimas noticias."
+   },
+   "featureComingSoon": {
+      "message": "Función disponible en breve."
+   },
+   "feedback": {
+      "message": "Comentarios"
+   },
+   "feedback_tooltip": {
+      "message": "¿Algo va mal? ¿Solicitud de función?"
+   },
+   "firstSubtitleNotReached": {
+      "message": "- Primer subtítulo aún no empezó. -"
+   },
+   "fix": {
+      "message": "Arreglar"
+   },
+   "fontSize_label": {
+      "message": "Tamaño de la fuente:"
+   },
+   "freeTrial3_line_string": {
+      "message": "Puede probar el modo \"Pro\" con una prueba gratuita de 3 días."
+   },
+   "freeTrial7_line_string": {
+      "message": "Puede probar el modo \"Pro\" con una prueba gratuita de 7 días."
+   },
+   "greenWords": {
+      "message": "Palabras verdes"
+   },
+   "help": {
+      "message": "Ayuda"
+   },
+   "help_tooltip": {
+      "message": "Instrucciones de uso, consejos."
+   },
+   "hideTranslation": {
+      "message": "Ocultar traducción:"
+   },
+   "hideTranslation_tt": {
+      "message": "Ocultar la traducción cuando se reproduzca el vídeo. Hacer clic en el texto o presionar [e] para mostrar la traducción."
+   },
+   "highlightSavedWords_label": {
+      "message": "Resaltar palabras guardadas"
+   },
+   "hiragana": {
+      "message": "Hiragana"
+   },
+   "keyboardShortcuts": {
+      "message": "Atajos de teclado:"
+   },
+   "langCode": {
+      "message": "es"
+   },
+   "large": {
+      "message": "Grande"
+   },
+   "levelDisable": {
+      "message": "Nivel \u003Ctext>: deshabilitar"
+   },
+   "levelWithNumber": {
+      "message": "Nivel \u003Ctext>: \u003Ctext> palabras"
+   },
+   "littlePracticeEveryDay": {
+      "message": "Aprender un idioma requiere un poco de práctica todos los días."
+   },
+   "loadingDotDotDot": {
+      "message": "Cargando..."
+   },
+   "loadingSubtitles": {
+      "message": "- Cargando subtítulos. Por favor, espere ... -"
+   },
+   "loadingTranslations": {
+      "message": "Cargando traducciones..."
+   },
+   "manageSubscription": {
+      "message": "Administrar suscripción"
+   },
+   "mode": {
+      "message": "Modo:"
+   },
+   "mode_free": {
+      "message": "Gratis"
+   },
+   "mode_pro": {
+      "message": "Pro"
+   },
+   "mode_trial": {
+      "message": "Prueba"
+   },
+   "next": {
+      "message": "Siguiente"
+   },
+   "nextSub": {
+      "message": "Subtítulo siguiente"
+   },
+   "nms_tip": {
+      "message": "¿Está aprendiendo un idioma? Pruebe nuestra nueva extensión para estudiar un idioma con Netflix."
+   },
+   "noCharge": {
+      "message": "A diferencia de otros, no le cobraremos durante su versión de evaluación ni actualizaremos su suscripción automáticamente."
+   },
+   "noCreditCardRequired": {
+      "message": "No se requiere tarjeta de crédito."
+   },
+   "noDictionary_error": {
+      "message": "La extensión Language Reactor aún no admite el uso del diccionario para \u003Ctext>. ¡Esta característica estará disponible en breve!"
+   },
+   "noHTAvailable": {
+      "message": "No hay traducción humana disponible para el idioma de traducción seleccionado."
+   },
+   "noMTAvailable": {
+      "message": "Las traducciones automáticas solo están disponibles para los subtítulos originales de la película."
+   },
+   "noSavedItems": {
+      "message": "No hay elementos guardados."
+   },
+   "noTransliterations": {
+      "message": "Sin transliteraciones"
+   },
+   "none": {
+      "message": "Ninguno"
+   },
+   "normal": {
+      "message": "Normal"
+   },
+   "notAvailable": {
+      "message": "No disponible."
+   },
+   "notNow_btn_string": {
+      "message": "Ahora no"
+   },
+   "notSignedIn": {
+      "message": "No se ha iniciado sesión"
+   },
+   "ok_btn_string": {
+      "message": "OK"
+   },
+   "onLeftClick_label": {
+      "message": "Clic izquierdo:"
+   },
+   "onRightClick_label": {
+      "message": "Clic derecho:"
+   },
+   "openCloseBottomPanel": {
+      "message": "Abrir / cerrar el panel inferior"
+   },
+   "openCloseVerticalView": {
+      "message": "Abrir / cerrar vista vertical"
+   },
+   "openClose_tooltip": {
+      "message": "Abrir / cerrar Language Reactor."
+   },
+   "options": {
+      "message": "Opciones"
+   },
+   "originalLanguage_label": {
+      "message": "Idioma original:"
+   },
+   "originalLanguage_tooltip": {
+      "message": "Este es el idioma original de la película."
+   },
+   "overrideArrowKeys_label": {
+      "message": "Desactivar las teclas de dirección"
+   },
+   "overrideArrowKeys_tt": {
+      "message": "Hacer que las teclas de dirección del teclado se comporten igual que las teclas A, S y D"
+   },
+   "pauseOnSubsHover_label": {
+      "message": "Pausar al pasar el ratón por encima"
+   },
+   "pauseOnSubsHover_tt": {
+      "message": "Pausar automáticamente cuando el ratón esté sobre los subtítulos"
+   },
+   "payWithGoogle_btn_string": {
+      "message": "Se aceptan tarjetas de crédito."
+   },
+   "payWithPaddle_btn_string": {
+      "message": "Se aceptan tarjetas de crédito y paypal."
+   },
+   "paymentSuccessfulPaddleMessage_line_string": {
+      "message": "Nota: si su pago necesita ser verificado manualmente, espere unas horas. Entonces el modo ‘Pro’ debe activarse automáticamente. ¡Disculpe el retraso!"
+   },
+   "paymentSuccessful_line1_string": {
+      "message": "¡Pago realizado con éxito! Gracias por apoyar nuestro proyecto!"
+   },
+   "paymentSuccessful_line2_string": {
+      "message": "Puede cancelar su suscripción en cualquier momento desde la configuración."
+   },
+   "phrases": {
+      "message": "Frases"
+   },
+   "play": {
+      "message": "Reproducir"
+   },
+   "playPause": {
+      "message": "Reproducir / Pausar"
+   },
+   "playbackSpeed": {
+      "message": "Velocidad de reproducción:"
+   },
+   "pleaseSelectItemsToExport": {
+      "message": "Por favor, seleccione artículos para exportar:"
+   },
+   "pleaseSelectSubtitles": {
+      "message": "- Seleccione los subtítulos en el reproductor de Netflix -"
+   },
+   "pleaseSignIn": {
+      "message": "Por favor, inicie sesión."
+   },
+   "prePaymentModal_line1_string": {
+      "message": "Suscríbase para seguir utilizando las funciones \"Pro\"."
+   },
+   "pressSpaceToContinue": {
+      "message": "(Presione ESPACIO para continuar)"
+   },
+   "previous": {
+      "message": "Anterior"
+   },
+   "previousSub": {
+      "message": "Subtítulo anterior"
+   },
+   "price_string": {
+      "message": "El precio por mes es:"
+   },
+   "proFeature": {
+      "message": "Función Pro"
+   },
+   "proFeatures_line1_string": {
+      "message": "El modo \"Pro\" habilita funciones adicionales:"
+   },
+   "proFeatures_line2_string": {
+      "message": "Traducciones automáticas"
+   },
+   "proFeatures_line3_string": {
+      "message": "Guardar palabras y frases"
+   },
+   "proFeatures_line4_string": {
+      "message": "Subtítulos para películas dobladas"
+   },
+   "proFeatures_line5_string": {
+      "message": "Apoya a los desarrolladores"
+   },
+   "proFeatures_tt2_string": {
+      "message": "Las traducciones tienen un significado más cercano a los subtítulos originales. Son más útiles para los estudiantes de idiomas."
+   },
+   "proFeatures_tt3_string": {
+      "message": "Cualquier palabra que guarde se resaltará en todos los subtítulos. Esto ayuda a organizar su aprendizaje. Las palabras y frases guardadas se pueden exportar a Anki (programa flashcard)."
+   },
+   "proFeatures_tt4_string": {
+      "message": "Muchas series en Netflix tienen pistas de audio adicionales en otros idiomas (audio doblado), pero Netflix no cuenta con los subtítulos adecuados para estas pistas de audio. A nosotros nos gustaría crearlas para que usted pueda estudiar, por ejemplo, alemán con Breaking Bad."
+   },
+   "proFeatures_tt5_string": {
+      "message": "Estamos trabajando duro para mejorar la extensión y ofrecerle nuevas funciones."
+   },
+   "problemWithPayment_line1_string": {
+      "message": "Se ha producido un problema con el pago de su suscripción."
+   },
+   "problemWithPayment_line2_string": {
+      "message": "Después de actualizar su información de pago, vuelva a cargar esta ventana."
+   },
+   "purpleWords": {
+      "message": "Palabras moradas"
+   },
+   "redWords": {
+      "message": "Palabras rojas"
+   },
+   "removeAllItems": {
+      "message": "Quitar todos los elementos"
+   },
+   "removeSubtitle": {
+      "message": "Eliminar"
+   },
+   "repeat": {
+      "message": "Repetir"
+   },
+   "reportBug": {
+      "message": "Informar de un error"
+   },
+   "romaji": {
+      "message": "Romaji"
+   },
+   "saveCurrentSubtitle": {
+      "message": "Guardar subtítulo actual"
+   },
+   "saveWordTooltip": {
+      "message": "Guardar palabra. También puede hacer clic con el botón derecho en una palabra para guardarla."
+   },
+   "saveWord_option": {
+      "message": "Guardar la palabra"
+   },
+   "savedItems": {
+      "message": "Elementos guardados"
+   },
+   "settings": {
+      "message": "Configuración"
+   },
+   "showDictSpeak_option": {
+      "message": "Mostrar diccionario y decir la palabra"
+   },
+   "showDict_option": {
+      "message": "Mostrar diccionario"
+   },
+   "showHumanTranslation_label": {
+      "message": "Mostrar traducción humana:"
+   },
+   "showHumanTranslation_tooltip": {
+      "message": "Mostrar una traducción humana de los subtítulos de origen en su idioma, si está disponible."
+   },
+   "showMachineTranslation_label": {
+      "message": "Mostrar traducción automática:"
+   },
+   "showMachineTranslation_tooltip": {
+      "message": "Mostrar una traducción automática de los subtítulos de origen en su idioma."
+   },
+   "showMore": {
+      "message": "Mostrar más"
+   },
+   "showTransliterations": {
+      "message": "Mostrar transliteraciones:"
+   },
+   "signIn": {
+      "message": "Iniciar sesión"
+   },
+   "signInStatus": {
+      "message": "Estado de inicio de sesión:"
+   },
+   "signOut": {
+      "message": "Cerrar sesión"
+   },
+   "signedIn": {
+      "message": "Se ha iniciado sesión"
+   },
+   "slowDownPlayback": {
+      "message": "Desacelerar la reproducción"
+   },
+   "slowSpeechSegments": {
+      "message": "Ralentizar segmentos del discurso:"
+   },
+   "slowSpeechSegments_tooltip": {
+      "message": "Reducir la velocidad de reproducción del vídeo cuando un subtítulo está activo (0.8x), para que sea más fácil de entender."
+   },
+   "small": {
+      "message": "Pequeña"
+   },
+   "speakWord_option": {
+      "message": "Decir la palabra"
+   },
+   "speedUpPlayback": {
+      "message": "Acelerar la reproducción"
+   },
+   "subscriptionActive": {
+      "message": "Tu plan está activo."
+   },
+   "subscriptionToProFeatures": {
+      "message": "Suscripción a las funciones \"Pro\"."
+   },
+   "subtitleLanguage_label": {
+      "message": "Idioma de subtítulos de Netflix:"
+   },
+   "subtitleLanguage_label_yt": {
+      "message": "Idioma de subtítulos de Youtube:"
+   },
+   "subtitleLanguage_tooltip": {
+      "message": "Este es el idioma de los subtítulos de Netflix seleccionados."
+   },
+   "subtitleLanguage_tooltip_yt": {
+      "message": "Este es el idioma de los subtítulos de Youtube seleccionados."
+   },
+   "subtitles": {
+      "message": "Subtítulos"
+   },
+   "subtitlesNoMatchAudio_error": {
+      "message": "Los subtítulos de Netflix seleccionados (\u003Ctext>) no coinciden con el audio. Intente configurarlos en el idioma original del título (\u003Ctext>) en los controles de reproducción de Netflix, o busque en el catálogo de Language Reactor los títulos sugeridos para el idioma que estudia."
+   },
+   "subtitlesNotLoaded_error": {
+      "message": "Los subtítulos de Netflix no se han cargado. ¿Se ha seleccionado un idioma de subtítulos en el menú de reproducción de Netflix?"
+   },
+   "subtitlesNotLoaded_error_yt": {
+      "message": "Los subtítulos de Youtube no se han cargado. ¿Se ha seleccionado un idioma de subtítulos en el menú de reproducción de Youtube?"
+   },
+   "toggleAutoPause": {
+      "message": "Alternar automáticamente la pausa"
+   },
+   "translationLanguage_label": {
+      "message": "Idioma de traducción:"
+   },
+   "translationLanguage_tooltip": {
+      "message": "Este es el idioma de la(s) traducción(es). Establézcalo como su idioma nativo."
+   },
+   "translationNotFound": {
+      "message": "No se encuentra la traducción."
+   },
+   "trialBegunModal_body_string": {
+      "message": "¡Su prueba ha comenzado! ¡Las funciones \"Pro\" se han habilitado!"
+   },
+   "tryForFree": {
+      "message": "Pruébelo gratis"
+   },
+   "turnOnOff": {
+      "message": "Encender / apagar"
+   },
+   "updatePayment_btn_string": {
+      "message": "Actualizar información de pago"
+   },
+   "usageExamples": {
+      "message": "Ejemplos de uso"
+   },
+   "userDefinedExternalDict_label": {
+      "message": "URLs del diccionario del usuario:"
+   },
+   "vocabHighlight_label": {
+      "message": "Destacar vocabulario:"
+   },
+   "vocabHighlight_tooltip": {
+      "message": "(Experimental) Ponga en gris las palabras menos comunes, para poder centrarse en las palabras que son más importantes para usted en su nivel."
+   },
+   "welcomeModal_line1_string": {
+      "message": "Queridos usuarios,"
+   },
+   "welcomeModal_line2_string": {
+      "message": "Hemos realizado una actualización importante de la extensión. Esperamos que disfrute de las nuevas características:"
+   },
+   "welcomeModal_line3_string": {
+      "message": "Los subtítulos ahora se pueden mostrar en la parte superior del vídeo."
+   },
+   "welcomeModal_line4_string": {
+      "message": "Panel lateral adicional para ver todos los subtítulos."
+   },
+   "welcomeModal_line5_string": {
+      "message": "Mejor soporte para idiomas asiáticos."
+   },
+   "welcomeModal_line6_string": {
+      "message": "La traducción automática solía ser gratuita, pero este es un servicio costoso de proporcionar. Esperamos que lo entienda."
+   },
+   "yellowWords": {
+      "message": "Palabras amarillas"
+   }
+}

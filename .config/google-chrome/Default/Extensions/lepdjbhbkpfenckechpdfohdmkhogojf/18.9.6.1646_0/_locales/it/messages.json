@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Annulla"
+   },
+   "Change_name": {
+      "message": "Cambia nome"
+   },
+   "Collapse": {
+      "message": "Crollo"
+   },
+   "Collapse_activity_window": {
+      "message": "Comprimi finestra di attività"
+   },
+   "Collapse_all_windows": {
+      "message": "Comprimi tutte le finestre"
+   },
+   "Collapse_tabs": {
+      "message": "Comprimi schede"
+   },
+   "Current_window": {
+      "message": "Finestra corrente"
+   },
+   "Customize": {
+      "message": "personalizzare"
+   },
+   "Delete_group": {
+      "message": "Elimina gruppo"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback e suggerimenti"
+   },
+   "Fixed_tabs": {
+      "message": "Scheda fissa"
+   },
+   "History_tab_group": {
+      "message": "Gruppo della scheda Cronologia"
+   },
+   "New_window": {
+      "message": "Nuova finestra"
+   },
+   "No_search_results_found": {
+      "message": "Nessun risultato di ricerca trovato"
+   },
+   "Not_collapse": {
+      "message": "Non collassare"
+   },
+   "Open_all": {
+      "message": "Apri tutto"
+   },
+   "Open_group": {
+      "message": "Gruppo aperto"
+   },
+   "Open_with_browser": {
+      "message": "Apri con il browser"
+   },
+   "Recovery_window": {
+      "message": "Finestra di recupero"
+   },
+   "Save_group": {
+      "message": "Salva gruppo"
+   },
+   "Save_tab_group": {
+      "message": "Salva il gruppo di schede"
+   },
+   "Search_group": {
+      "message": "Cerca gruppo"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Gruppo di schede"
+   },
+   "Turn_off": {
+      "message": "Spegni"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "Riguardo a noi"
+   },
+   "add_tab": {
+      "message": "Aggiungi scheda"
+   },
+   "contact": {
+      "message": "Contatto"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Fai una donazione"
+   },
+   "extdesc": {
+      "message": "Risparmia il 95% della memoria e riduce l'ingombro delle etichette."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "old_tab_empty": {
+      "message": "Il gruppo di schede della cronologia è vuoto"
+   },
+   "old_tab_group": {
+      "message": "Il seguente è il vecchio gruppo di schede"
+   },
+   "options": {
+      "message": "Opzioni"
+   },
+   "pin_tab": {
+      "message": "Blocca scheda"
+   },
+   "placeholder": {
+      "message": "Si prega di inserire il nome del gruppo di schede"
+   },
+   "praise": {
+      "message": "Elogio a cinque stelle"
+   },
+   "privacyPolicy": {
+      "message": "Informativa privacy"
+   },
+   "rating_button_tate": {
+      "message": "Classifica"
+   },
+   "rename": {
+      "message": "Rinominare"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "ho qualcosa da dire"
+   },
+   "share": {
+      "message": "Condividi"
+   },
+   "shareFriends": {
+      "message": "Condividici con i tuoi amici!"
+   },
+   "supportUs": {
+      "message": "Il tuo supporto è un grande incoraggiamento per noi"
+   },
+   "tab_address": {
+      "message": "Indirizzo della scheda"
+   },
+   "tabs": {
+      "message": "Tabs"
+   },
+   "termsOfUse": {
+      "message": "Termini d'uso"
+   },
+   "turn_on": {
+      "message": "Accendere"
+   },
+   "usproductokey": {
+      "message": "I nostri prodotti sono d'accordo?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

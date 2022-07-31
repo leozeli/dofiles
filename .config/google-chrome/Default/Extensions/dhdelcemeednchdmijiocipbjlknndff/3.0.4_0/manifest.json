@@ -1,0 +1,33 @@
+{
+   "author": "LiuRabt",
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icons/icon19.png",
+         "38": "icons/icon38.png"
+      },
+      "default_popup": "popup/popup.html",
+      "default_title": "自选基金助手"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://jic.talkingdata.com; object-src 'self'",
+   "description": "自选基金助手，实时查看您关注的基金，助您快速获取实时数据",
+   "homepage_url": "http://rabt.gitee.io/funds/docs/dist/index.html",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvfUcpNf1fQCm4yVweF5tBymr5zXIr8yTNS/2gkOweXxfW1TCGB1DkOCRVOuTq654J/nTocUsI5MJWeEtOpwqEczmupHDGnudI1t0pwQwbS6TGekUpHblrTepYVaSHI70t4KqPZH4DmwxtL1iAldEqT39+akwwNIFL0oHdlDeXvwlPZ9GWh+gQwu2jTUV4a09vKKoefkDGgyqVyzbCzJ9x2GOarVnjczGyTO5PjV4c3iLOwJ8PdnIfHM3ZbX0DdiVMez280mY/8+j6KkNY6AwqYVnwtNcc6g76K070eG0svYGeA98hI+I74XYk4jYoDxCKRhWseLBEnXpkU0mQ+s3vQIDAQAB",
+   "manifest_version": 2,
+   "name": "自选基金助手 - 实时查看基金涨跌幅",
+   "options_page": "options/options.html",
+   "options_ui": {
+      "chrome_style": false,
+      "page": "options/options.html"
+   },
+   "permissions": [ "storage", "webRequest", "webRequestBlocking", "contextMenus", "https://*.eastmoney.com/*", "https://*.bspapp.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.4"
+}

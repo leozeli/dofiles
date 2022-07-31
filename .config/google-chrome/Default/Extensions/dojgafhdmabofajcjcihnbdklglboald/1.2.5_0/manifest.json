@@ -1,0 +1,21 @@
+{
+   "content_scripts": [ {
+      "css": [ "css.css" ],
+      "js": [ "jquery-3.1.1.min.js", "onload-chrome.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Like android's scroll bars. 像android的滚动条。Forked from onlywsx's extension. 移植自onlywsx的原扩展",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAglXVsvqu9smsl4/3KnUEhmm6tjTs+x7dUi0ZxhASc6vCbqLMoQ8rujqXLb0B2WCHt4DLVpKRb1jWFBXya+fksfk159KI/efj9bGjymJyHd6e/Yuja3wqCQhWmi7G9ben0JMJsYuZb8dcnmbsFLTheS2FRjcqY4RPKbyOognnVPK+6yEZCZ0/eZTPuHujic2zYcNLD+d6ubrxFURlTn3WO3VggEJp4LEObAj6yg6RBob3JibJJU2qFwmfyWAffJ0dF66U1Kcrp7n4xPdrg6py83OPGCFW8NBDxNH5CjoW5bPnoN80YyUMdblDi/CtjOATFexWyE6CBCMCJCYHn+46MQIDAQAB",
+   "manifest_version": 2,
+   "name": "scroll style",
+   "permissions": [ "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.5"
+}

@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>签名与安全 | 卡片书签</title>
+	<link rel="stylesheet" href="css.css">
+	<script src="vue.min.js"></script>
+	<style>
+	::-webkit-scrollbar{width:0px;height:0px}
+	::-webkit-scrollbar-button:vertical{display:none}
+	/*滚动槽*/
+	::-webkit-scrollbar-track:vertical{background-color:transparent}
+	/*滚动块*/
+    ::-webkit-scrollbar-thumb:vertical{background-color:#eee;border-radius:0px}
+	::-webkit-scrollbar-thumb:vertical:hover{background-color:#ccc}
+	::-webkit-scrollbar-track-piece{background:transparent;border-radius:0px}
+	::-webkit-scrollbar-corner:vertical{background-color:#535353}
+	::-webkit-scrollbar-resizer:vertical{background-color:#FF6E00}
+	
+	body
+	{
+	background:#c4c6c5;
+	}
+	
+	#main
+	{
+	margin:auto;
+	width:51%;
+	min-height:100vh;
+	box-sizing:border-box;
+	padding:20px 36px;
+	font-family:"Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+	background:#fff;
+	}
+	
+	#main p
+	{
+	font-size:16px;
+	line-height:1.8em;
+	text-align:justify;
+	}
+	
+	#main .head
+	{
+	margin:10px 0 20px;
+	font-size:32px;
+	font-weight:100;
+	color:#000;
+	}
+	
+	#main .text
+	{
+	margin-bottom:16px;
+	}
+	
+	#main .butt
+	{
+	margin:24px 0 10px;
+	display:flex;
+	align-items:center;
+	}
+	
+	#main .butt div
+	{
+	font-size:12px;
+    line-height:1.5em;
+    color:#fff;
+    padding:4px 16px;
+	background:#E91E63;
+    border-radius:100px;
+	cursor:pointer;
+	}
+	
+	#main .step_desc
+	{
+	display:none;
+	margin:40px auto 20px;
+	width:50%;
+	box-sizing:border-box;
+	padding:20px;
+	background:#eee;
+	border-radius:10px;
+	}
+	
+	#main .step_desc .line
+	{
+	margin-top:40px;
+	margin-bottom:16px;
+	width :30%;
+	height:2px;
+	background:#E91E63;
+	}
+	
+	#main .step_desc p
+	{
+	margin-bottom:14px;
+	text-align:center;
+	}
+	
+	#main .step_desc img
+	{
+	display:none;
+	margin:auto;
+	max-width:60%;
+	padding:20px;
+	background:#fff;
+	border-radius:10px;
+	}
+	
+	#main #footer
+	{
+	margin:80px auto 30px;	
+	width:28px;
+	height:1px;
+	background:#333;
+	}
+	
+	
+	
+	.block
+	{
+	display:none;
+	position:fixed;
+	top :0;
+	left:0;
+	width :100%;
+	height:100%;
+	}
+	
+	.block_in
+	{
+	width :100%;
+	height:100%;
+	}
+	
+	.block_in .con
+	{
+	margin:0 auto;
+	width :34vw;
+	background-color: #fff;
+	border-radius:4px;
+	box-sizing:border-box;
+	padding:20px;
+	box-shadow:0 0 10px rgba(0,0,0,.7);
+	}
+	
+	.warning_title
+	{
+	padding:18px 0 0;
+	font-size:15px;
+	line-height:1.8em;
+	}
+	
+	.warning_butt
+	{
+	margin-top:20px;
+	display:flex;
+	justify-content:flex-end;
+	align-items:center;
+	}
+	
+	.warning_butt div
+	{
+	margin-left:20px;
+	padding:6px 26px;
+	font-size:14px;
+	border-radius:4px;
+	cursor:pointer;
+	}
+	
+	.warning_butt .cancel
+	{
+	display:none;
+	background:#eee;
+	}
+	
+	.warning_butt .confirm
+	{
+	color:#fff;
+	background:#2196f3;
+	}
+	
+	.block-transition
+	{
+	transition:0.4s;
+	}
+	
+	.block-enter, .block-leave
+	{
+	backface-visibility: hidden;
+	opacity:0;
+	transform:translate(0, -100%);
+	}
+	</style>
+</head>
+<body>
+	<div id="main">
+		<p class="head">签名与安全</p>
+	    <p class="text">当您使用了卡片书签的云服务，您的书签等数据就可以随时通过网络获取到，但如果已经登录的设备丢失，他人也将可以通过网络获取到您的信息。</p>
+		<p class="text">
+		为了应对这种情况，卡片书签提供了安全选项，您只需要重置签名即可，当您重置了签名之后，其他已经登录的设备在访问服务器时将受到限制，无法再获得您的信息！
+		</p>
+		
+		<div class="butt" v-bind:style="{display:display_butt}">
+		    <p>如有必要，请点击右边的按钮。</p>
+		    <div v-on:click="to_restore_sign">重置签名</div>
+		</div>
+		
+		<div class="step_desc" v-bind:style="{display:display_restore}">
+		    <!-- <div class="line"></div> -->
+		    <p class="text" v-text="step_desc">准备中，请稍候</p>
+			<img v-bind:src="qr_url" alt="" v-bind:style="{display:display_qr_code}">
+		</div>
+		
+		<!-- <div id="footer"></div> -->
+	</div>
+	
+	<div class="block" v-bind:style="{display:display_warning?'block':'none'}">
+	    <div class="block_in" v-on:click.self="hide">
+	        <div class="con" transition="block" v-show="is_show_warning">
+			    <div class="warning_title" v-text="title">重置签名将导致其他已经登录的设备无法再获取云端数据，是否继续 ？</div>
+		    	<div class="warning_butt">
+		    	    <div class="cancel" v-on:click="hide" v-bind:style="{display:todo_desc==''?'none':'block'}">取消</div>
+		    	    <div class="confirm" v-on:click="todo">确定</div>
+		    	</div>
+			</div>
+	    </div>
+	</div>
+</body>
+    <script src="info_security.js"></script>
+</html>

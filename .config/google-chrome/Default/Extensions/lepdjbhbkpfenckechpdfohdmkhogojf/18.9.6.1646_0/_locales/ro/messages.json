@@ -1,0 +1,173 @@
+{
+   "Cancel": {
+      "message": "Anulare"
+   },
+   "Change_name": {
+      "message": "Schimba numele"
+   },
+   "Collapse": {
+      "message": "Colaps"
+   },
+   "Collapse_activity_window": {
+      "message": "Reduceți fereastra de activitate"
+   },
+   "Collapse_all_windows": {
+      "message": "Restrângeți toate ferestrele"
+   },
+   "Collapse_tabs": {
+      "message": "Restrângeți filele"
+   },
+   "Current_window": {
+      "message": "Fereastra curentă"
+   },
+   "Customize": {
+      "message": "Personalizați"
+   },
+   "Delete_group": {
+      "message": "Ștergeți grupul"
+   },
+   "FeedbackandSuggestion": {
+      "message": "Feedback și sugestie"
+   },
+   "Fixed_tabs": {
+      "message": "Fișă fixată"
+   },
+   "History_tab_group": {
+      "message": "Istoric grup tab"
+   },
+   "New_window": {
+      "message": "Fereastră nouă"
+   },
+   "No_search_results_found": {
+      "message": "Nu au fost găsite rezultate de căutare"
+   },
+   "Not_collapse": {
+      "message": "Nu se prăbușește"
+   },
+   "Open_all": {
+      "message": "Deschideți totul"
+   },
+   "Open_group": {
+      "message": "Deschideți grupul"
+   },
+   "Open_with_browser": {
+      "message": "Deschideți cu browserul"
+   },
+   "Recovery_window": {
+      "message": "Fereastră de recuperare"
+   },
+   "Save_group": {
+      "message": "Salvați grupul"
+   },
+   "Save_tab_group": {
+      "message": "Salvați grupul de file"
+   },
+   "Search_group": {
+      "message": "Grupul de căutare"
+   },
+   "Tab_Master": {
+      "message": "OneTab Plus:Tab Manage & Productivity"
+   },
+   "Tab_group": {
+      "message": "Grup de filtre"
+   },
+   "Turn_off": {
+      "message": "Opriți"
+   },
+   "Unnamed_tab_group": {
+      "message": "Unnamed tab group"
+   },
+   "aboutUs": {
+      "message": "Despre noi"
+   },
+   "add_tab": {
+      "message": "Adăugați fila"
+   },
+   "contact": {
+      "message": "Contact"
+   },
+   "d_ago": {
+      "message": "d ago"
+   },
+   "donate": {
+      "message": "Donați"
+   },
+   "extdesc": {
+      "message": "Economisiți 95% din memorie și reduceți aglomerația etichetelor."
+   },
+   "extname": {
+      "message": "Tab Master"
+   },
+   "h_ago": {
+      "message": "h ago"
+   },
+   "m_ago": {
+      "message": "m ago"
+   },
+   "mo_ago": {
+      "message": "mo ago"
+   },
+   "ok": {
+      "message": "O.K"
+   },
+   "old_tab_empty": {
+      "message": "Grupul tab-ul istoric este gol"
+   },
+   "old_tab_group": {
+      "message": "Următorul este grupul de filă vechi"
+   },
+   "options": {
+      "message": "Opțiuni"
+   },
+   "pin_tab": {
+      "message": "Fixează fila"
+   },
+   "placeholder": {
+      "message": "Introduceți numele grupului de file"
+   },
+   "praise": {
+      "message": "Cinci stele de laudă"
+   },
+   "privacyPolicy": {
+      "message": "Confidențialitate"
+   },
+   "rating_button_tate": {
+      "message": "Evaluați"
+   },
+   "rename": {
+      "message": "Redenumiți"
+   },
+   "s_ago": {
+      "message": "s ago"
+   },
+   "say": {
+      "message": "am ceva de spus"
+   },
+   "share": {
+      "message": "Trimite"
+   },
+   "shareFriends": {
+      "message": "Trimiteți-ne prietenilor dvs.!"
+   },
+   "supportUs": {
+      "message": "Sprijinul dvs. este o mare încurajare pentru noi"
+   },
+   "tab_address": {
+      "message": "Adresă filă"
+   },
+   "tabs": {
+      "message": "Tab-uri"
+   },
+   "termsOfUse": {
+      "message": "Condiții de utilizare"
+   },
+   "turn_on": {
+      "message": "Aprinde"
+   },
+   "usproductokey": {
+      "message": "Produsele noastre sunt bine cu ea?"
+   },
+   "y_ago": {
+      "message": "y ago"
+   }
+}

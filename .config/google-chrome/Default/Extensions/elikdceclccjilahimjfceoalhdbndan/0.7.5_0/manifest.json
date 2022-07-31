@@ -1,0 +1,30 @@
+{
+   "background": {
+      "scripts": [ "background-scripts.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon-19.png",
+         "38": "images/icon-38.png"
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "content-styles.css" ],
+      "js": [ "content-scripts.js" ],
+      "matches": [ "https://*.github.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Toggle the width of GitHub with a click",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlh0/eyezW1U2hXneMobkp3fXWJzos3wN4dprlfTOEgcBSOmpgiz+E+41gEp/2rRisYl6OoM3WSq4h4x8Tlnf5pIyXLIxuY7iS6svY9CE5BMWn+KTIcupNEyKKKc/CAWwjP0GiOIUcwXJkvXJIdgB5zO+kCgeiB1mFSlKIBMpg7x+2crm55sk9p9G4BJF7zz6wFclbkfwaGuSwJhgqM91i9KnLZLH7USTP0iyo0LEpt75y1e7EB7Q5yT9oPEIViCG8W37wWqmTp3Nxwu64S/Ih915zsCG4QLJm39K/9unRWZRgD0nSXyPqYuPhWviNY81pn0mpktKoSqL63q4NqGczwIDAQAB",
+   "manifest_version": 2,
+   "name": "Widescreen for GitHub",
+   "permissions": [ "https://github.com/*", "storage" ],
+   "short_name": "Widescreen for Github",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.7.5"
+}

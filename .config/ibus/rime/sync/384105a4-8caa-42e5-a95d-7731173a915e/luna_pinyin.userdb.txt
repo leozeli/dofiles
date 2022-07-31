@@ -1,0 +1,13 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	5
+#@/user_id	384105a4-8caa-42e5-a95d-7731173a915e
+kuai jie 	快捷	c=1 d=0.980199 t=5
+qin ru 	侵入	c=0 d=0.0995012 t=5
+wu 	無	c=0 d=0.0995012 t=5
+wu qin ru 	無侵入	c=1 d=1 t=5
+yi 	以	c=1 d=0.99005 t=5
+yi 	已	c=1 d=0.995012 t=5
+zui zhong 	最終	c=1 d=0.985112 t=5

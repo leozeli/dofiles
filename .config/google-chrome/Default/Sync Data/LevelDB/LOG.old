@@ -1,0 +1,21 @@
+2022/07/29-19:40:55.513 10a7 Reusing MANIFEST /home/leozeli/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/07/29-19:40:55.514 10a7 Recovering log #164
+2022/07/29-19:40:55.514 10a7 Reusing old log /home/leozeli/.config/google-chrome/Default/Sync Data/LevelDB/000164.log 
+2022/07/29-19:45:52.104 188e Level-0 table #168: started
+2022/07/29-19:45:52.106 188e Level-0 table #168: 139223 bytes OK
+2022/07/29-19:45:52.107 188e Delete type=0 #164
+2022/07/29-19:45:52.108 188e Compacting 4@0 + 1@1 files
+2022/07/29-19:45:52.110 188e Generated table #169@0: 283 keys, 52809 bytes
+2022/07/29-19:45:52.110 188e Compacted 4@0 + 1@1 files => 52809 bytes
+2022/07/29-19:45:52.111 188e compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/29-19:45:52.111 188e Delete type=2 #161
+2022/07/29-19:45:52.111 188e Delete type=2 #158
+2022/07/29-19:45:52.111 188e Delete type=2 #163
+2022/07/29-19:45:52.111 188e Delete type=2 #165
+2022/07/29-19:45:52.111 188e Delete type=2 #168
+2022/07/29-20:13:16.792 281b Level-0 table #171: started
+2022/07/29-20:13:16.794 281b Level-0 table #171: 114859 bytes OK
+2022/07/29-20:13:16.796 281b Delete type=0 #167
+2022/07/29-20:59:39.480 4f01 Level-0 table #173: started
+2022/07/29-20:59:39.485 4f01 Level-0 table #173: 143550 bytes OK
+2022/07/29-20:59:39.486 4f01 Delete type=0 #170

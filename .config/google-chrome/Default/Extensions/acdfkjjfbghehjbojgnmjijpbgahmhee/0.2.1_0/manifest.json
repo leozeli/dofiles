@@ -1,0 +1,22 @@
+{
+   "background": {
+      "scripts": [ "js/jsqrcode.js", "js/config.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon_32.png",
+      "default_popup": "popup.html"
+   },
+   "default_locale": "zh_CN",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/logo.png",
+      "48": "images/icon_32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyPKtYqLiOrhBQ1Qt+jsug/ytkbTFBzV/LQoIrfL4dLyUvIPfwduSNYLGSOc8XIwyR93QI/r+vss5pdgeSrvywG60DXmkXPdQgbIKVIXd+dWDPVRZ8+VacfFg9VBz4R+fkxyGD1469togjkjyNuCI3mNoeg5G05O5PJObAlhlH0DMy6XDX2bzC2GbwgX2c8qBmJh4x+0ICfJRJeCyJyzsRsoob//1bfytlnzrAtEuDZoDRlZQ8fwKIsE1xAP6osQZXjwA7Oi3kXFyPHttS5meh2aDVIJ6GOaKRo7EGIFtkFAHl6vJrwrSatJgUAQYUtnBrZmZjl/bEQpZyhmsCE4nhwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "contextMenus", "*://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.1"
+}

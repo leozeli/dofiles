@@ -1,0 +1,6 @@
+2022/07/28-10:17:49.529 285d Creating DB /home/leozeli/.config/google-chrome/Default/IndexedDB/https_share.weiyun.com_0.indexeddb.leveldb since it was missing.
+2022/07/28-10:17:49.532 285d Reusing MANIFEST /home/leozeli/.config/google-chrome/Default/IndexedDB/https_share.weiyun.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/28-12:00:39.908 97f6 Level-0 table #5: started
+2022/07/28-12:00:39.909 97f6 Level-0 table #5: 1323 bytes OK
+2022/07/28-12:00:39.910 97f6 Delete type=0 #3
+2022/07/28-12:00:39.910 97f6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

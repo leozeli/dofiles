@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>更新说明 | 卡片书签</title>
+	<link rel="stylesheet" href="css.css">
+	<!-- <script src="vue.min.js"></script> -->
+	<style>
+	::-webkit-scrollbar{width:0px;height:0px}
+	::-webkit-scrollbar-button:vertical{display:none}
+	/*滚动槽*/
+	::-webkit-scrollbar-track:vertical{background-color:transparent}
+	/*滚动块*/
+    ::-webkit-scrollbar-thumb:vertical{background-color:#eee;border-radius:0px}
+	::-webkit-scrollbar-thumb:vertical:hover{background-color:#ccc}
+	::-webkit-scrollbar-track-piece{background:transparent;border-radius:0px}
+	::-webkit-scrollbar-corner:vertical{background-color:#535353}
+	::-webkit-scrollbar-resizer:vertical{background-color:#FF6E00}
+	
+	body
+	{
+	background-image: linear-gradient(to left, #2196f3 0%, #a9cfee 100%);
+	}
+	
+	#main
+	{
+	margin:auto;
+	width:51%;
+	min-height:100vh;
+	box-sizing:border-box;
+	padding:0px 36px 50px;
+	font-family:"Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+	background:rgba(255,255,255, 0.86);
+	}
+	
+	#main p
+	{
+	color:#333;
+	font-size:17px;
+	line-height:2em;
+	text-align:justify;
+	}
+	
+	#main .head
+	{
+	padding:25px 0 20px;
+	font-size:32px;
+	font-weight:100;
+	color:#000;
+	}
+	
+	#main .title_s
+	{
+	margin-bottom:4px;
+	display:flex;
+	align-items:center;
+	}
+	
+	#main .title_s:nth-of-type(n+2)
+	{
+	margin-top:20px;
+	}
+	
+	#main .title_s div
+	{
+	width:0;
+	height:0;
+	border-style:solid;
+	border-width:6px 0 6px 10px;
+	border-color:transparent transparent transparent #666;
+	}
+	
+	#main .title_s p
+	{
+	margin-left:6px;
+	color:#000;
+	font-size:20px;
+	font-weight:300;
+	}
+	
+	#main .update > p
+	{
+	margin-bottom:12px;
+	padding:0px 12px 0px 16px;
+	}
+	
+	#main .update > p .hidden
+	{
+	font-size:10px;
+	color:#444;
+	background-color:#444;
+	}
+	
+	#main .update p span
+	{
+	font-weight:bold;
+	}
+	
+	#main .li
+	{
+	display:flex;
+	align-items:center;
+	margin-bottom:10px;
+	padding:0px 12px 0px 16px;
+	}
+	
+	#main .li div
+	{
+	width :0;
+	height:0;
+	border-style:solid;
+	border-color:transparent transparent transparent #333;
+	border-width:6px 0 6px 9px;
+	}
+	
+	#main .li p
+	{
+	color:#333;
+	font-size:16px;
+	margin-left:14px;
+	}
+	
+	#main .word p
+	{
+	padding:0px 12px 0px 16px;
+	margin-bottom:14px;
+	}
+	
+	#main .word p:last-of-type
+	{
+	margin-bottom:0px;
+	}
+	
+	#main a
+	{
+	color:#337acf;
+	text-decoration:underline;
+	font-weight:bold;
+	}
+	
+	#main img
+	{
+	margin:8px auto;
+	display:block;
+	max-width:100%;
+	cursor:pointer;
+	}
+	
+	#footer
+	{
+	margin:-30px auto 0px;
+	width:80px;
+	height:1px;
+	background:#000;
+	}
+	
+	canvas
+	{
+	display:block;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	z-index:-1;
+	}
+	</style>
+</head>
+<body>
+	<div id="main">
+		<p class="head">更新说明</p>
+		
+		<div class="title_s">
+		    <div></div>
+	        <p>本次更新内容如下：</p>
+		</div>
+		<div class="update lists">
+		    <p>优化搜索体验：默认选中第一条搜索结果，按下 Enter 可直接打开</p>
+		    <!-- <p>优化“导出云端书签”功能：1.将按钮位置从“设置”移动到了“云端数据”面板（点击“云朵”图标打开）；2.点击后不再生成包含书签数据的 html 文件，而是直接将云端书签写入到本地书签</p> -->
+		
+			<!-- <p>继续优化卡片书签内链接的打开方式，上次的更新支持“不按住 Ctrl 打开时聚焦新标签，按住 Ctrl 打开时则停留在当前标签”，于是，这一次的更新支持调换这两种打开方式的行为</p>
+			
+			
+			<p>---------</p>
+			<p>分享一个新的插件：So Tab 新搜索，可以快速切换多个搜索引擎（支持自定义）快速发起搜索，欢迎大家安装使用：<a href="https://chrome.google.com/webstore/detail/kkfdbokcmmeepkfloclnkabfijpfebdd" target="_blank">Chrome</a>、<a href="https://microsoftedge.microsoft.com/addons/detail/ihjnciigmjhibenkchdfdbcnadfipboe" target="_blank">Edge</a></p>
+			<img src="../img/so_tab.png"> -->
+			
+			<!-- <p>提示：如果你已经登录，但并未激活过云服务或者云服务时间已经到期，建议在设置中点击“更新云服务时间”，这样当你通过浏览器地址栏右侧的星星图标添加书签时，将不再看到提醒云服务已到期的通知；</p> -->
+			<!-- <p>-------^▽^-------</p>
+			<p>夏天快乐！</p>
+			<a href="https://weibo.com/1667387292/Kf6YsDC3P?from=page_1005051667387292_profile&wvr=6&mod=weibotime&type=comment#_rnd1620796297551" target="_blank">
+			    <img src="https://wx4.sinaimg.cn/large/63624f9cgy1gqfkcibhqpj23342bcx6u.jpg" alt="">
+			</a> -->
+			<!-- <p>这次的更新有点多，看到了这里的你，如果觉得卡片书签还不错，可以 <a target="_blank" href="https://weibo.com/1667387292/JooAPF1cY">转发微博</a> 让更多人看到吗？谢谢(>▽<)<p> -->
+			
+			
+			<!-- <p>1. 优化搜索功能；</p>
+			<p>2. 优化访问记录页面：网页标题全文显示、增加搜索框；</p>
+			<p>3. 优化“连续打开”功能：由之前的开关变更为 按住 Ctrl 来实现；</p> -->
+			
+			<!-- <p>继续修复大视图时书签的显示问题</p>
+			<p>---------</p>
+			<p>非常抱歉，我在发现插件弹窗存在最大尺寸限制后，为大视图模式设置了最大 800px （非官方文档说明）的限制，防止内容显示出现裁剪的情况。但由于不同屏幕分辨率所对应的最大尺寸限制并不尽相同，也就是不都是 800px，所以导致了部分同学的客户端在大视图模式时的显示异常</p>
+			<p>现在使用了自适应的方式来确定这个最大尺寸限制，将全面解决显示异常的问题，当然，如果你的客户端依然显示异常或者出现其他问题，你也可以随时反馈</p>
+			<p>非常感谢接受远程查看的同学的支持，正是有了你们的支持，bug 才得以更快地解决。对了，我发现卡片书签的用户中在校大学生的比例好像还挺高的，哈哈，有意思的发现，祝愿大家快乐学习、前程似锦</p> -->
+			
+			<!-- <p>1.修复书签数量大于 50 的书签夹中书签删除出现错误的 bug；</p>
+			<p>2.设置里加入是否 在窗口打开时滚动到之前滚动的位置 的选项（默认关闭）；</p> -->
+			<!-- <p>1. 修复“大视图模式”在分辨率较高的设备上可能出现的显示异常；</p>
+			<p>2. 修复删除书签可能失败的 bug；</p>
+			<p>3. 设置里加入是否启用网页右键菜单的选项（默认关闭）；</p> -->
+			
+			<!-- <p>1. 访问记录面板增加“速览”功能，可以实现在一个页面不跳转浏览全部访问记录（部分网页由于自身限制无法显示），方便在非常多的访问记录中寻找之前看过但又没有添加书签的页面。前几天我找的快崩溃了，于是增加这个功能，也希望对你又所帮助；</p>
+			<p>2. 更改访问记录的删除逻辑，在任意列表上右键将显示全部列表的删除按钮，实现快速清理；</p>
+			<p>3. 搜索支持 -xxx 过滤，比如 “微博 -_” 将搜索包含“微博”但不包含“_”的数据；</p>
+			<p>4. 设置里新增“单列显示”选项，开启后书签将单列显示。建议大家多使用搜索功能，支持多关键词，这样找起来会更快；</p>
+			<p>5. 设置里的开发者小屋上新，新增 Copy X，安装后可以持久保存在网页上复制的文字。关于第一条，如果在要寻找的网页上复制过文字，那么通过 Copy X 可以很容易找到；</p>
+			<p>6. 更改图标，去掉白色背景；</p> -->
+			
+			<!-- <p>前几天上架了一个新的插件（<span>隐形滚动条</span>），现在分享给大家。这个插件启用后，网页的滚动条会消失，然后将以新的方式实现一些功能：</p>
+			<div class="li">
+			    <div></div>
+				<p>点击网页最右侧，可以快速<span>滚动</span>到网页顶部或底部；</p>
+			</div>
+		    <div class="li">
+			    <div></div>
+				<p>点击网页最左侧，可以快速上下<span>翻页</span>；</p>
+			</div>
+		    <div class="li">
+			    <div></div>
+				<p>网页顶端会有一条细线，用于显示当前的浏览位置；</p>
+			</div>
+		    <div class="li">
+			    <div></div>
+				<p>双击网页可以<span>标记当前的浏览位置</span>，同时会自动生成一份目录，点击即可直达内容区域，也可以按下 Ctrl 来切换；</p>
+			</div>
+			<div class="li">
+			    <div></div>
+				<p>支持网页<span>阅读模式</span>（适用于文章正文网页），提供浅色和深色两个主题，可在页面切换使用。</p>
+			</div>
+		    <p>安装链接：<a href="https://chrome.google.com/webstore/detail/invisible-scroll-bar/nphnhlhdlbonnekhjlmphinfnmekiifk" target="blank">Chrome</a>、<a href="https://microsoftedge.microsoft.com/addons/detail/jmopomhdbfldgbfmmkldkkeahhpbldal" target="blank">Edge</a>，希望你喜欢~</p> -->
+			<!-- <p>抱歉，最近没有新图，就不放随手拍了。</p> -->
+			
+			<!-- <p>卡片书签已在 Edge 应用商店上架，你可以点击 <a href="https://microsoftedge.microsoft.com/addons/detail/pohdfciklomffdjobmihohbdfdpkecli" target="blank">这里</a> 安装。</p> -->
+			<!-- <p>我的另外一个插件“隐形滚动条”也已全面上架，你可以点击链接了解及安装：<a href="https://chrome.google.com/webstore/detail/invisible-scroll-bar/nphnhlhdlbonnekhjlmphinfnmekiifk" target="_blank">Chrome</a>、<a href="https://microsoftedge.microsoft.com/addons/detail/jmopomhdbfldgbfmmkldkkeahhpbldal" target="_blank">Edge</a>。</p> -->
+			<!-- <p>最后，附上一张随手拍</p>
+			<img class="app_img" src="https://wx4.sinaimg.cn/large/63624f9cgy1gho77h8vicj23342bchdw.jpg" alt="" title="点击查看大图"> -->
+		</div>
+		
+		
+		<!-- <div class="title_s">
+		    <div></div>
+	        <p>其他应用</p>
+		</div>
+		<div class="word lists">
+		    <p>Copy X 是一个剪贴板应用，持久保存复制的内容，支持对文字进行编辑、切割、提取、合并等，更支持强大的数据预处理。安装地址：<a href="https://chrome.google.com/webstore/detail/copy-x/pljacoeopccbcpnkgpbjmcckfehjjpbb" target="_blank">Chrome 应用商店</a>，欢迎使用！</p>
+			<img class="app_img" src="../img/copy_x.png" alt="" title="点击查看大图">
+		</div> -->
+		
+		<!-- 
+		<div class="title_s">
+		    <div></div>
+	        <p>关于云服务的购买</p>
+		</div>
+		<div class="word lists">
+		    <p>当你购买了云服务之后，我除了是卡片书签的开发者之外，同时还是提供服务的卖家，你有任何的问题，都可以向我提出，我一定会全力解决。</p>
+			<p>软件产品难免会有些难以发现的 bug，如果你遇到了，请告诉我，作为卡片书签的全周期开发者，请相信我可以干掉它，同时也请给我一些时间和耐心，我需要定位然后修复。</p>
+			<p>--------</p>
+			
+			<p>卡片书签的用户有一些是在校大学生，不知你们是否开学了？</p>
+			<p>很高兴能和你们有这样的交集，每当我看到卡片书签云服务订单的收货地址是学校的时候，总是会特别的欣喜与感动！当然，每个用户的认可与支持对我都是莫大的鼓励，非常感谢大家！</p>
+			<p>今年是特别的一年，如果你是今年毕业，祝你毕业快乐、前程似锦！</p>
+		</div>
+		<div class="title_s">
+		    <div></div>
+	        <p>发布一个新应用：</p>
+		</div>
+		<div class="word lists">
+		    <p>Copy X 是一个剪贴板应用，持久保存复制的内容，支持对文字进行编辑、切割、提取、合并等，更支持强大的数据预处理。</p>
+			<p>卡片书签提升了浏览器书签的使用体验，下一个目标是剪贴板，Copy X 为此而生，力图提供一块强化的剪贴板，安装地址：<a href="https://chrome.google.com/webstore/detail/copy-x/pljacoeopccbcpnkgpbjmcckfehjjpbb" target="_blank">Chrome 应用商店</a>。欢迎使用！</p>
+			<p class="img_desc">下面是 Copy X 截图，点击查看大图。</p>
+			<img class="app_img" src="../img/copy_x.png" alt="" title="点击查看大图">
+		</div> -->
+	</div>
+	
+	<div id="footer"></div>
+	
+	<canvas></canvas>
+</body>
+    <script src="update_desc.js"></script>
+</html>

@@ -1,0 +1,38 @@
+{
+   "action": {
+      "default_icon": "icon.png",
+      "default_title": "Toggle table of contents"
+   },
+   "author": "FallenMax@gmail.com",
+   "background": {
+      "service_worker": "background/background.js"
+   },
+   "commands": {
+      "next": {
+         "description": "Jump to Next Heading"
+      },
+      "prev": {
+         "description": "Jump to Previous Heading"
+      },
+      "toggle": {
+         "description": "Show/Hide TOC"
+      }
+   },
+   "description": "Webpage outliner",
+   "differential_fingerprint": "1.2e601ff1749cd05a004b03c83583366c3c255ab91b0f2aae6508fff268ed2454",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtOPLDOZsa7DGxJO8Y/7asunjHpiWutCYhkKq8h9N7lLvaopMhkL8odxWo4gR0D4MPon8T+Pt1dFEXh7qT3KEuEnf6RWtqMdXkVaDZGVfxKJcWFIH0cTVEps93Z1tZtBeI6fltBxHs3r8HpmrgKIjk4f30kcQlQcMUfhhkj3qkgHv+noZ8iYhbXGUPRJ9Uqkyqr3kvSryfLPPU4+qoeVeXoeLVkgnkCj5asvIio92PvDxMguUS1MbW5uwBj3/llAlWVt4d6x6EoRbIOQS6MHj5gezUdeVi7O31RofbHGW2l8KbuRTj3GSJbfgkjImsMa1wiCbjL42lxnL3SJ35SisuQIDAQAB",
+   "manifest_version": 3,
+   "name": "Smart TOC",
+   "optional_permissions": [ "identity", "identity.email" ],
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "activeTab", "scripting", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.7.2"
+}
