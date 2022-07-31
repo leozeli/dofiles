@@ -1,6 +1,0 @@
-2022/07/28-23:22:58.685 18130 Creating DB /home/leozeli/.config/google-chrome/Default/IndexedDB/https_dynamicwallpaper.club_0.indexeddb.leveldb since it was missing.
-2022/07/28-23:22:58.688 18130 Reusing MANIFEST /home/leozeli/.config/google-chrome/Default/IndexedDB/https_dynamicwallpaper.club_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/28-23:31:11.780 183d5 Level-0 table #5: started
-2022/07/28-23:31:11.781 183d5 Level-0 table #5: 1171 bytes OK
-2022/07/28-23:31:11.783 183d5 Delete type=0 #3
-2022/07/28-23:31:11.783 183d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

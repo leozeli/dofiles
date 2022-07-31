@@ -1,6 +1,0 @@
-2022/07/28-10:17:55.024 2b72 Creating DB /home/leozeli/.config/google-chrome/Default/IndexedDB/https_ssl.xui.ptlogin2.weiyun.com_0.indexeddb.leveldb since it was missing.
-2022/07/28-10:17:55.027 2b72 Reusing MANIFEST /home/leozeli/.config/google-chrome/Default/IndexedDB/https_ssl.xui.ptlogin2.weiyun.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/28-10:18:30.490 2b72 Level-0 table #5: started
-2022/07/28-10:18:30.491 2b72 Level-0 table #5: 2035 bytes OK
-2022/07/28-10:18:30.493 2b72 Delete type=0 #3
-2022/07/28-10:18:30.493 2b72 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

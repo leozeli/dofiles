@@ -1,7 +1,0 @@
-2022/07/26-22:42:52.363 14169 Reusing MANIFEST /home/leozeli/.config/google-chrome/Default/IndexedDB/https_www.howtogeek.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/26-22:42:52.363 14169 Recovering log #3
-2022/07/26-22:42:52.363 14169 Reusing old log /home/leozeli/.config/google-chrome/Default/IndexedDB/https_www.howtogeek.com_0.indexeddb.leveldb/000003.log 
-2022/07/26-22:43:03.795 14169 Level-0 table #5: started
-2022/07/26-22:43:03.796 14169 Level-0 table #5: 1521 bytes OK
-2022/07/26-22:43:03.798 14169 Delete type=0 #3
-2022/07/26-22:43:03.798 14169 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

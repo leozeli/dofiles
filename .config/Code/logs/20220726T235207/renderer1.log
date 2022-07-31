@@ -1,8 +1,0 @@
-[2022-07-26 23:52:08.180] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
-[2022-07-26 23:52:08.181] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-[2022-07-26 23:52:08.524] [renderer1] [error] [hollowtree.vue-snippets]: Unknown language in `contributes.vue-snippets.language`. Provided value: vue-html
-[2022-07-26 23:52:09.010] [renderer1] [error] [Extension Host] (node:134754) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2022-07-26 23:54:24.974] [renderer1] [error] Module 'pip' not installed.: Error: Module 'pip' not installed.
-    at s.execModule (/home/leozeli/.vscode/extensions/ms-toolsai.jupyter-2022.6.1201981810/out/extension.node.js:29:81401)
-    at r.getPackageInformation (/home/leozeli/.vscode/extensions/ms-toolsai.jupyter-2022.6.1201981810/out/extension.node.js:39:68617)

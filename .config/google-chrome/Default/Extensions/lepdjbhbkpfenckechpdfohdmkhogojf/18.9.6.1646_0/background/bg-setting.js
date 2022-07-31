@@ -1,1 +1,0 @@
-"use strict";var bgSetting={init:function(){infinity.init("tabs-master",{tabs:[],currentTabs:[],oldTabs:[],option:{recoverTab:!1,packUpTab:!0,fixedTab:!1,follow:!0}})}};

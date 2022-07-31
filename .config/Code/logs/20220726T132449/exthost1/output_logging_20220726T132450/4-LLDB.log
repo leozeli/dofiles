@@ -1,2 +1,0 @@
-Installing platform package from https://github.com/vadimcn/vscode-lldb/releases/download/v1.7.3/codelldb-x86_64-linux.vsix
-Error: Error: connect ETIMEDOUT 198.18.1.122:443

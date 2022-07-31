@@ -1,6 +1,0 @@
-2022/07/26-23:39:47.065 1ee30 Creating DB /home/leozeli/.config/google-chrome/Default/IndexedDB/https_console.cloud.tencent.com_0.indexeddb.leveldb since it was missing.
-2022/07/26-23:39:47.067 1ee30 Reusing MANIFEST /home/leozeli/.config/google-chrome/Default/IndexedDB/https_console.cloud.tencent.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/26-23:51:14.173 1f54c Level-0 table #5: started
-2022/07/26-23:51:14.175 1f54c Level-0 table #5: 1125 bytes OK
-2022/07/26-23:51:14.176 1f54c Delete type=0 #3
-2022/07/26-23:51:14.176 1f54c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

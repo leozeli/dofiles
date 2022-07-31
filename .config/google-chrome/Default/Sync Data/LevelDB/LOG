@@ -1,6 +1,0 @@
-2022/07/31-13:17:57.211 8fe Reusing MANIFEST /home/leozeli/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/07/31-13:17:57.213 8fe Recovering log #172
-2022/07/31-13:17:57.213 8fe Reusing old log /home/leozeli/.config/google-chrome/Default/Sync Data/LevelDB/000172.log 
-2022/07/31-13:23:44.558 e15 Level-0 table #176: started
-2022/07/31-13:23:44.560 e15 Level-0 table #176: 155202 bytes OK
-2022/07/31-13:23:44.562 e15 Delete type=0 #172
